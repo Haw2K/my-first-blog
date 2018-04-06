@@ -948,7 +948,7 @@ class InstaBot:
 
     def write_log(self, log_text):
         """ Write log by print() or logger """
-
+        #haw2k logging into file
         if self.log_mod == 0:
             try:
                 now_time = datetime.datetime.now()

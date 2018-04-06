@@ -11,7 +11,7 @@ from src.unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
     login="shotaowl",
-    password="Danil5891",
+    password="5891Danil",
     like_per_day=1000,
     comments_per_day=0,
     tag_list=['краснаяполяна', 'газпромлаура', 'сочи', 'совариум', 'sochi', 'krasnaypolyna', 'sovarium', 'фотографсочи'],
@@ -23,7 +23,7 @@ bot = InstaBot(
     unfollow_per_day=300,
     unfollow_break_min=15,
     unfollow_break_max=30,
-    log_mod=0,
+    log_mod=1,
     proxy='',
     # List of list of words, each of which will be used to generate comment
     # For example: "This shot feels wow!"
