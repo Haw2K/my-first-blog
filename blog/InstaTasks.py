@@ -22,7 +22,7 @@ cursor.execute(sql)
 data = cursor.fetchall()
 
 for rec in data:
-    ff=1
+    print(rec[3])
     #
     # bot = InstaBot(
     # login="shotaowl",
