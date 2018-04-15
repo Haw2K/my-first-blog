@@ -122,6 +122,7 @@ class InstaBot:
                  login,
                  password,
                  like_per_day=1000,
+                 user_id_take='',
                  media_max_like=50,
                  media_min_like=0,
                  follow_per_day=0,
@@ -154,6 +155,9 @@ class InstaBot:
                  tag_blacklist=[],
                  unwanted_username_list=[],
                  unfollow_whitelist=[]):
+
+        #danil20180413
+        self.user_id = user_id_take
 
         self.database_name = database_name
         self.follows_db = sqlite3.connect(database_name, timeout=0, isolation_level=None)
@@ -296,8 +300,9 @@ class InstaBot:
             r = self.s.get('https://www.instagram.com/')
             finder = r.text.find(self.user_login)
             if finder != -1:
-                ui = UserInfo()
-                self.user_id = ui.get_user_id_by_login(self.user_login)
+                #danil20180413
+                #ui = UserInfo()
+                #self.user_id =
                 self.login_status = True
                 log_string = '%s login success!' % (self.user_login)
                 self.write_log(log_string)

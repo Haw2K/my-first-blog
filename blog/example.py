@@ -8,6 +8,7 @@ from src.check_status import check_status
 from src.feed_scanner import feed_scanner
 from src.follow_protocol import follow_protocol
 from src.unfollow_protocol import unfollow_protocol
+from src.userinfo import UserInfo
 
 bot = InstaBot(
     login="shotaowl",

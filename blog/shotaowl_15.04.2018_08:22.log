@@ -1,0 +1,530 @@
+2018-04-15 08:22:10,222 - shotaowl - Instabot v1.2.0 started at 15.04.2018 08:22:
+
+2018-04-15 08:22:10,222 - shotaowl - Trying to login as shotaowl...
+
+2018-04-15 08:22:21,418 - shotaowl - shotaowl login success!
+2018-04-15 08:22:21,419 - shotaowl - Get media id by tag: газпромлаура
+2018-04-15 08:22:24,265 - shotaowl - Removing already liked medias..
+2018-04-15 08:22:24,279 - shotaowl - Trying to like media: 1758129443057744871
+2018-04-15 08:22:25,296 - shotaowl - Liked: 1758129443057744871. Like #1.
+2018-04-15 08:22:25,296 - shotaowl - Trying to follow: 225931782
+2018-04-15 08:22:26,625 - shotaowl - Followed: 225931782 #1.
+2018-04-15 08:22:27,272 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:22:27,275 - shotaowl - Getting user info : sho_0809
+2018-04-15 08:23:52,050 - shotaowl - Trying to like media: 1757238458291007769
+2018-04-15 08:23:53,185 - shotaowl - Liked: 1757238458291007769. Like #2.
+2018-04-15 08:25:18,141 - shotaowl - Trying to like media: 1757217385017149263
+2018-04-15 08:25:20,063 - shotaowl - Liked: 1757217385017149263. Like #3.
+2018-04-15 08:26:47,940 - shotaowl - Trying to like media: 1756689968116257604
+2018-04-15 08:26:49,050 - shotaowl - Liked: 1756689968116257604. Like #4.
+2018-04-15 08:26:52,055 - shotaowl - Trying to follow: 1767049093
+2018-04-15 08:26:54,187 - shotaowl - Followed: 1767049093 #2.
+2018-04-15 08:27:37,592 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:27:37,593 - shotaowl - Getting user info : tabbyokinawa
+2018-04-15 08:28:23,299 - shotaowl - Trying to like media: 1756562083511405180
+2018-04-15 08:28:24,429 - shotaowl - Liked: 1756562083511405180. Like #5.
+2018-04-15 08:30:01,751 - shotaowl - Trying to like media: 1756112753812159555
+2018-04-15 08:30:02,897 - shotaowl - Liked: 1756112753812159555. Like #6.
+2018-04-15 08:31:26,977 - shotaowl - Trying to like media: 1755709468565131981
+2018-04-15 08:31:28,553 - shotaowl - Liked: 1755709468565131981. Like #7.
+2018-04-15 08:31:28,554 - shotaowl - Already followed before 1767049093
+2018-04-15 08:32:11,740 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:32:11,743 - shotaowl - Getting user info : bajka_shihtzu
+2018-04-15 08:32:48,625 - shotaowl - Trying to like media: 1755703833777915061
+2018-04-15 08:32:49,478 - shotaowl - Liked: 1755703833777915061. Like #8.
+2018-04-15 08:33:43,989 - shotaowl - Trying to follow: 4156932690
+2018-04-15 08:33:45,864 - shotaowl - Followed: 4156932690 #3.
+2018-04-15 08:34:25,620 - shotaowl - Trying to like media: 1755171125074884748
+2018-04-15 08:34:26,241 - shotaowl - Liked: 1755171125074884748. Like #9.
+2018-04-15 08:35:54,322 - shotaowl - Trying to like media: 1754744145287864587
+2018-04-15 08:35:55,175 - shotaowl - Liked: 1754744145287864587. Like #10.
+2018-04-15 08:37:22,864 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:37:22,868 - shotaowl - Getting user info : kentakosuu
+2018-04-15 08:37:29,739 - shotaowl - Trying to like media: 1754607593479192401
+2018-04-15 08:37:30,265 - shotaowl - Liked: 1754607593479192401. Like #11.
+2018-04-15 08:38:28,186 - shotaowl - Already followed before 1767049093
+2018-04-15 08:39:04,633 - shotaowl - Trying to like media: 1754505727476303135
+2018-04-15 08:39:05,141 - shotaowl - Liked: 1754505727476303135. Like #12.
+2018-04-15 08:40:39,168 - shotaowl - Trying to like media: 1753950468802611602
+2018-04-15 08:40:40,221 - shotaowl - Liked: 1753950468802611602. Like #13.
+2018-04-15 08:40:55,692 - shotaowl - Trying to follow: 330238710
+2018-04-15 08:40:56,589 - shotaowl - Followed: 330238710 #4.
+2018-04-15 08:42:19,438 - shotaowl - Trying to like media: 1753141087525746320
+2018-04-15 08:42:20,058 - shotaowl - Liked: 1753141087525746320. Like #14.
+2018-04-15 08:42:35,076 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:42:35,077 - shotaowl - Getting user info : envym_waka
+2018-04-15 08:43:42,493 - shotaowl - Trying to like media: 1753102029998654571
+2018-04-15 08:43:43,215 - shotaowl - Liked: 1753102029998654571. Like #15.
+2018-04-15 08:45:17,180 - shotaowl - Trying to like media: 1753012717670848660
+2018-04-15 08:45:18,669 - shotaowl - Liked: 1753012717670848660. Like #16.
+2018-04-15 08:45:43,105 - shotaowl - Trying to follow: 2368288509
+2018-04-15 08:45:44,379 - shotaowl - Followed: 2368288509 #5.
+2018-04-15 08:46:42,095 - shotaowl - Trying to like media: 1753010833773973269
+2018-04-15 08:46:42,678 - shotaowl - Liked: 1753010833773973269. Like #17.
+2018-04-15 08:47:55,556 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:47:55,560 - shotaowl - Getting user info : n90__7a
+2018-04-15 08:48:14,128 - shotaowl - Trying to like media: 1752839601801456207
+2018-04-15 08:48:15,143 - shotaowl - Liked: 1752839601801456207. Like #18.
+2018-04-15 08:49:34,157 - shotaowl - Trying to like media: 1752445309652068728
+2018-04-15 08:49:34,801 - shotaowl - Liked: 1752445309652068728. Like #19.
+2018-04-15 08:50:23,759 - shotaowl - Trying to follow: 6226651832
+2018-04-15 08:50:25,156 - shotaowl - Followed: 6226651832 #6.
+2018-04-15 08:51:05,599 - shotaowl - Trying to like media: 1752217529943713348
+2018-04-15 08:51:06,256 - shotaowl - Liked: 1752217529943713348. Like #20.
+2018-04-15 08:52:22,643 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:52:22,643 - shotaowl - Getting user info : tia_maria_allen
+2018-04-15 08:52:35,066 - shotaowl - Trying to like media: 1752149374877745621
+2018-04-15 08:52:36,083 - shotaowl - Liked: 1752149374877745621. Like #21.
+2018-04-15 08:54:07,031 - shotaowl - Trying to like media: 1751754510375487772
+2018-04-15 08:54:07,735 - shotaowl - Liked: 1751754510375487772. Like #22.
+2018-04-15 08:55:02,719 - shotaowl - Already followed before 1767049093
+2018-04-15 08:55:42,216 - shotaowl - Trying to like media: 1751749986466149942
+2018-04-15 08:55:43,353 - shotaowl - Liked: 1751749986466149942. Like #23.
+2018-04-15 08:57:11,876 - shotaowl - Trying to like media: 1751739480028404093
+2018-04-15 08:57:12,542 - shotaowl - Liked: 1751739480028404093. Like #24.
+2018-04-15 08:57:30,568 - shotaowl - Trying to follow: 5995623238
+2018-04-15 08:57:32,304 - shotaowl - Followed: 5995623238 #7.
+2018-04-15 08:57:33,051 - shotaowl - Trying to unfollow #1: 
+2018-04-15 08:57:33,052 - shotaowl - Getting user info : jcvwellness
+2018-04-15 08:58:46,364 - shotaowl - Trying to like media: 1751642170118492838
+2018-04-15 08:58:47,008 - shotaowl - Liked: 1751642170118492838. Like #25.
+2018-04-15 09:00:23,908 - shotaowl - Trying to like media: 1751630432585180492
+2018-04-15 09:00:35,422 - shotaowl - Liked: 1751630432585180492. Like #26.
+2018-04-15 09:02:00,996 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:02:00,997 - shotaowl - Getting user info : youngatlantic810
+2018-04-15 09:02:07,415 - shotaowl - Trying to like media: 1751596957643582329
+2018-04-15 09:02:08,221 - shotaowl - Liked: 1751596957643582329. Like #27.
+2018-04-15 09:02:11,225 - shotaowl - Already followed before 2368288509
+2018-04-15 09:03:32,789 - shotaowl - Trying to like media: 1751596751762045767
+2018-04-15 09:03:33,160 - shotaowl - Liked: 1751596751762045767. Like #28.
+2018-04-15 09:04:43,268 - shotaowl - Trying to follow: 5514134739
+2018-04-15 09:04:45,270 - shotaowl - Followed: 5514134739 #8.
+2018-04-15 09:05:07,583 - shotaowl - Trying to like media: 1750924673125490350
+2018-04-15 09:05:08,031 - shotaowl - Liked: 1750924673125490350. Like #29.
+2018-04-15 09:06:33,427 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:06:33,428 - shotaowl - Getting user info : gen_t_official
+2018-04-15 09:06:42,878 - shotaowl - Trying to like media: 1750922664547093368
+2018-04-15 09:06:43,885 - shotaowl - Liked: 1750922664547093368. Like #30.
+2018-04-15 09:08:15,377 - shotaowl - Trying to like media: 1750651308464771813
+2018-04-15 09:08:16,134 - shotaowl - Liked: 1750651308464771813. Like #31.
+2018-04-15 09:09:44,171 - shotaowl - Trying to follow: 1292609305
+2018-04-15 09:09:45,738 - shotaowl - Followed: 1292609305 #9.
+2018-04-15 09:09:52,927 - shotaowl - Trying to like media: 1750225686347603319
+2018-04-15 09:09:53,307 - shotaowl - Liked: 1750225686347603319. Like #32.
+2018-04-15 09:11:29,905 - shotaowl - Trying to like media: 1750194125158097352
+2018-04-15 09:11:30,582 - shotaowl - Liked: 1750194125158097352. Like #33.
+2018-04-15 09:11:33,585 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:11:33,585 - shotaowl - Getting user info : im_a_developer
+2018-04-15 09:12:50,319 - shotaowl - Trying to like media: 1750192404956222465
+2018-04-15 09:12:50,741 - shotaowl - Liked: 1750192404956222465. Like #34.
+2018-04-15 09:14:24,776 - shotaowl - Trying to like media: 1750187007566498627
+2018-04-15 09:14:25,734 - shotaowl - Liked: 1750187007566498627. Like #35.
+2018-04-15 09:14:59,224 - shotaowl - Trying to follow: 1482087759
+2018-04-15 09:15:00,392 - shotaowl - Followed: 1482087759 #10.
+2018-04-15 09:15:49,547 - shotaowl - Trying to like media: 1749918094144381247
+2018-04-15 09:15:51,243 - shotaowl - Liked: 1749918094144381247. Like #36.
+2018-04-15 09:16:40,256 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:16:40,257 - shotaowl - Getting user info : tony_lisson
+2018-04-15 09:17:23,052 - shotaowl - Trying to like media: 1749569866148352357
+2018-04-15 09:17:23,630 - shotaowl - Liked: 1749569866148352357. Like #37.
+2018-04-15 09:18:57,202 - shotaowl - Trying to like media: 1749488086917609023
+2018-04-15 09:18:57,892 - shotaowl - Liked: 1749488086917609023. Like #38.
+2018-04-15 09:19:57,949 - shotaowl - Already followed before 1767049093
+2018-04-15 09:20:34,679 - shotaowl - Trying to like media: 1749465422383697546
+2018-04-15 09:20:35,844 - shotaowl - Liked: 1749465422383697546. Like #39.
+2018-04-15 09:21:21,786 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:21:21,790 - shotaowl - Getting user info : jew_lyn
+2018-04-15 09:21:55,691 - shotaowl - Trying to like media: 1749464797927231392
+2018-04-15 09:21:56,101 - shotaowl - Liked: 1749464797927231392. Like #40.
+2018-04-15 09:22:14,118 - shotaowl - Already followed before 1767049093
+2018-04-15 09:23:21,116 - shotaowl - Trying to like media: 1749454588018194894
+2018-04-15 09:23:22,159 - shotaowl - Liked: 1749454588018194894. Like #41.
+2018-04-15 09:24:25,915 - shotaowl - Already followed before 1767049093
+2018-04-15 09:24:47,477 - shotaowl - Trying to like media: 1749453586133286391
+2018-04-15 09:24:48,425 - shotaowl - Liked: 1749453586133286391. Like #42.
+2018-04-15 09:26:09,923 - shotaowl - Trying to like media: 1749444714953838455
+2018-04-15 09:26:10,525 - shotaowl - Liked: 1749444714953838455. Like #43.
+2018-04-15 09:26:16,531 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:26:16,532 - shotaowl - Getting user info : mimina_to_
+2018-04-15 09:26:59,867 - shotaowl - Already followed before 1767049093
+2018-04-15 09:27:33,334 - shotaowl - Trying to like media: 1749442321432326532
+2018-04-15 09:27:33,964 - shotaowl - Liked: 1749442321432326532. Like #44.
+2018-04-15 09:28:59,384 - shotaowl - Trying to like media: 1749216742846037317
+2018-04-15 09:29:00,604 - shotaowl - Liked: 1749216742846037317. Like #45.
+2018-04-15 09:29:31,087 - shotaowl - Trying to follow: 2101025416
+2018-04-15 09:29:32,635 - shotaowl - Followed: 2101025416 #11.
+2018-04-15 09:30:24,863 - shotaowl - Get media id by tag: совариум
+2018-04-15 09:30:27,192 - shotaowl - Removing already liked medias..
+2018-04-15 09:30:27,208 - shotaowl - Trying to like media: 1758116650052642109
+2018-04-15 09:30:27,899 - shotaowl - Liked: 1758116650052642109. Like #46.
+2018-04-15 09:31:16,380 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:31:16,381 - shotaowl - Getting user info : coding_made_eas
+2018-04-15 09:31:59,708 - shotaowl - Trying to like media: 1758105106455667271
+2018-04-15 09:32:00,792 - shotaowl - Liked: 1758105106455667271. Like #47.
+2018-04-15 09:33:31,376 - shotaowl - Trying to like media: 1758057863224751657
+2018-04-15 09:33:33,634 - shotaowl - Liked: 1758057863224751657. Like #48.
+2018-04-15 09:34:43,126 - shotaowl - Trying to follow: 211355623
+2018-04-15 09:34:55,109 - shotaowl - Followed: 211355623 #12.
+2018-04-15 09:35:11,985 - shotaowl - Trying to like media: 1757895157774999867
+2018-04-15 09:35:15,779 - shotaowl - Liked: 1757895157774999867. Like #49.
+2018-04-15 09:36:30,849 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:36:30,850 - shotaowl - Getting user info : robinopunturiero
+2018-04-15 09:36:55,720 - shotaowl - Trying to like media: 1756590545981333273
+2018-04-15 09:37:09,780 - shotaowl - Liked: 1756590545981333273. Like #50.
+2018-04-15 09:38:42,861 - shotaowl - Trying to like media: 1756474046085550462
+2018-04-15 09:38:54,467 - shotaowl - Liked: 1756474046085550462. Like #51.
+2018-04-15 09:40:18,545 - shotaowl - Trying to follow: 1652149453
+2018-04-15 09:43:22,118 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:43:22,119 - shotaowl - Getting user info : remy_the_original_don_dada
+2018-04-15 09:43:30,316 - shotaowl - Trying to like media: 1754420798356214450
+2018-04-15 09:43:30,723 - shotaowl - Liked: 1754420798356214450. Like #52.
+2018-04-15 09:43:30,724 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:33,727 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:36,730 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:39,734 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:42,737 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:45,739 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:48,742 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:51,746 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:54,746 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:43:57,749 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:00,753 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:04,216 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:07,219 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:10,222 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:13,225 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:16,234 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:19,238 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:22,245 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:25,248 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:28,256 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:31,260 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:34,753 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:37,756 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:40,760 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:43,764 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:46,768 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:49,772 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:44:52,780 - shotaowl - Trying to follow: 757091858
+2018-04-15 09:44:53,975 - shotaowl - Followed: 757091858 #13.
+2018-04-15 09:44:57,871 - shotaowl - Trying to like media: 1753753493086594484
+2018-04-15 09:44:58,912 - shotaowl - Liked: 1753753493086594484. Like #53.
+2018-04-15 09:46:41,957 - shotaowl - Trying to like media: 1752235186983948553
+2018-04-15 09:46:42,810 - shotaowl - Liked: 1752235186983948553. Like #54.
+2018-04-15 09:48:02,332 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:48:02,333 - shotaowl - Getting user info : jucy.szoboszlai
+2018-04-15 09:48:15,260 - shotaowl - Trying to like media: 1751482887489907870
+2018-04-15 09:48:15,796 - shotaowl - Liked: 1751482887489907870. Like #55.
+2018-04-15 09:49:37,438 - shotaowl - Trying to like media: 1751104236009424344
+2018-04-15 09:49:38,009 - shotaowl - Liked: 1751104236009424344. Like #56.
+2018-04-15 09:49:44,017 - shotaowl - Trying to follow: 5361554910
+2018-04-15 09:49:46,090 - shotaowl - Followed: 5361554910 #14.
+2018-04-15 09:51:02,372 - shotaowl - Trying to like media: 1750067734556483200
+2018-04-15 09:51:02,940 - shotaowl - Liked: 1750067734556483200. Like #57.
+2018-04-15 09:52:34,283 - shotaowl - Trying to like media: 1749983404247692989
+2018-04-15 09:52:35,110 - shotaowl - Liked: 1749983404247692989. Like #58.
+2018-04-15 09:52:53,561 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:52:53,563 - shotaowl - Getting user info : elles_essentials
+2018-04-15 09:54:15,172 - shotaowl - Trying to like media: 1749520663892716016
+2018-04-15 09:54:16,005 - shotaowl - Liked: 1749520663892716016. Like #59.
+2018-04-15 09:54:19,008 - shotaowl - Get media id by tag: sovarium
+2018-04-15 09:54:23,344 - shotaowl - Removing already liked medias..
+2018-04-15 09:54:29,362 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:32,366 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:35,370 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:38,374 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:41,375 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:44,378 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:47,379 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:50,382 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:53,386 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:56,897 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:54:59,901 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:02,903 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:05,905 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:08,906 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:11,910 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:14,914 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:17,919 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:20,922 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:23,927 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:26,930 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:30,406 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:33,410 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:36,413 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:39,415 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:42,419 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:45,422 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:48,423 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:51,427 - shotaowl - Keep calm - It's your own media ;)
+2018-04-15 09:55:51,427 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:54,431 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:55:57,435 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:00,438 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:03,866 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:06,869 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:09,871 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:12,874 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:15,878 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:18,882 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-15 09:56:21,885 - shotaowl - Already followed before 400008479
+2018-04-15 09:57:43,475 - shotaowl - Keep calm - It's your own media ;)
+2018-04-15 09:58:14,024 - shotaowl - Trying to unfollow #1: 
+2018-04-15 09:58:14,025 - shotaowl - Getting user info : omgshecodes
+2018-04-15 09:58:30,067 - shotaowl - Keep calm - It's your own media ;)
+2018-04-15 09:58:33,071 - shotaowl - Keep calm - It's your own media ;)
+2018-04-15 09:58:39,078 - shotaowl - Get media id by tag: sochi
+2018-04-15 09:58:42,596 - shotaowl - Removing already liked medias..
+2018-04-15 09:58:42,616 - shotaowl - Trying to like media: 1758180363611191938
+2018-04-15 09:58:43,631 - shotaowl - Liked: 1758180363611191938. Like #60.
+2018-04-15 09:58:46,635 - shotaowl - Trying to follow: 4227953744
+2018-04-15 09:58:47,927 - shotaowl - Followed: 4227953744 #15.
+2018-04-15 10:00:10,439 - shotaowl - Trying to like media: 1758179805700250060
+2018-04-15 10:00:11,612 - shotaowl - Liked: 1758179805700250060. Like #61.
+2018-04-15 10:01:45,594 - shotaowl - Trying to like media: 1758180160479408826
+2018-04-15 10:01:47,105 - shotaowl - Liked: 1758180160479408826. Like #62.
+2018-04-15 10:03:15,931 - shotaowl - Trying to like media: 1758180111909649656
+2018-04-15 10:03:17,105 - shotaowl - Liked: 1758180111909649656. Like #63.
+2018-04-15 10:03:20,107 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:03:20,108 - shotaowl - Getting user info : nao__yoshida
+2018-04-15 10:04:06,766 - shotaowl - Trying to follow: 349559932
+2018-04-15 10:04:08,828 - shotaowl - Followed: 349559932 #16.
+2018-04-15 10:04:50,509 - shotaowl - Trying to like media: 1758180034055849792
+2018-04-15 10:04:52,704 - shotaowl - Liked: 1758180034055849792. Like #64.
+2018-04-15 10:06:20,650 - shotaowl - Trying to like media: 1758180031967244960
+2018-04-15 10:06:21,663 - shotaowl - Liked: 1758180031967244960. Like #65.
+2018-04-15 10:07:51,747 - shotaowl - Trying to like media: 1758179869243539146
+2018-04-15 10:07:53,601 - shotaowl - Liked: 1758179869243539146. Like #66.
+2018-04-15 10:08:18,490 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:08:18,491 - shotaowl - Getting user info : mbrody
+2018-04-15 10:09:14,548 - shotaowl - Trying to like media: 1758179588184587050
+2018-04-15 10:09:16,477 - shotaowl - Liked: 1758179588184587050. Like #67.
+2018-04-15 10:09:25,483 - shotaowl - Trying to follow: 2113695639
+2018-04-15 10:09:26,567 - shotaowl - Followed: 2113695639 #17.
+2018-04-15 10:10:51,741 - shotaowl - Trying to like media: 1758179586155076485
+2018-04-15 10:11:00,883 - shotaowl - Liked: 1758179586155076485. Like #68.
+2018-04-15 10:12:33,967 - shotaowl - Trying to like media: 1758179313995005491
+2018-04-15 10:13:09,155 - shotaowl - Liked: 1758179313995005491. Like #69.
+2018-04-15 10:13:39,179 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:13:39,182 - shotaowl - Getting user info : mairhzx
+2018-04-15 10:14:40,774 - shotaowl - Trying to like media: 1758179128077889016
+2018-04-15 10:14:46,298 - shotaowl - Liked: 1758179128077889016. Like #70.
+2018-04-15 10:14:46,298 - shotaowl - Trying to follow: 3289806988
+2018-04-15 10:14:52,260 - shotaowl - Followed: 3289806988 #18.
+2018-04-15 10:16:13,474 - shotaowl - Trying to like media: 1758179121449896285
+2018-04-15 10:16:14,615 - shotaowl - Liked: 1758179121449896285. Like #71.
+2018-04-15 10:17:42,156 - shotaowl - Trying to like media: 1758178692221265445
+2018-04-15 10:17:44,009 - shotaowl - Liked: 1758178692221265445. Like #72.
+2018-04-15 10:18:27,445 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:18:27,446 - shotaowl - Getting user info : reypage
+2018-04-15 10:19:19,491 - shotaowl - Trying to like media: 1758178680108952215
+2018-04-15 10:19:20,561 - shotaowl - Liked: 1758178680108952215. Like #73.
+2018-04-15 10:19:32,986 - shotaowl - Trying to follow: 2236132244
+2018-04-15 10:19:34,516 - shotaowl - Followed: 2236132244 #19.
+2018-04-15 10:20:42,640 - shotaowl - Trying to like media: 1758178638702210300
+2018-04-15 10:20:43,767 - shotaowl - Liked: 1758178638702210300. Like #74.
+2018-04-15 10:22:08,410 - shotaowl - Trying to like media: 1758178448373004570
+2018-04-15 10:22:11,223 - shotaowl - Liked: 1758178448373004570. Like #75.
+2018-04-15 10:23:33,176 - shotaowl - Trying to like media: 1758178359487123664
+2018-04-15 10:23:34,119 - shotaowl - Liked: 1758178359487123664. Like #76.
+2018-04-15 10:23:40,125 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:23:40,126 - shotaowl - Getting user info : musicamundiial
+2018-04-15 10:24:41,767 - shotaowl - Trying to follow: 491326111
+2018-04-15 10:24:42,833 - shotaowl - Followed: 491326111 #20.
+2018-04-15 10:24:55,971 - shotaowl - Trying to like media: 1758178172607518690
+2018-04-15 10:24:56,640 - shotaowl - Liked: 1758178172607518690. Like #77.
+2018-04-15 10:26:24,667 - shotaowl - Trying to like media: 1758178016780182534
+2018-04-15 10:26:25,722 - shotaowl - Liked: 1758178016780182534. Like #78.
+2018-04-15 10:27:59,798 - shotaowl - Trying to like media: 1758177165712578024
+2018-04-15 10:28:01,195 - shotaowl - Liked: 1758177165712578024. Like #79.
+2018-04-15 10:29:02,080 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:29:02,081 - shotaowl - Getting user info : leindastudios
+2018-04-15 10:29:24,043 - shotaowl - Trying to like media: 1758173802182962957
+2018-04-15 10:29:25,294 - shotaowl - Liked: 1758173802182962957. Like #80.
+2018-04-15 10:29:43,307 - shotaowl - Trying to follow: 407400800
+2018-04-15 10:29:45,072 - shotaowl - Followed: 407400800 #21.
+2018-04-15 10:30:45,556 - shotaowl - Trying to like media: 1758177719966207295
+2018-04-15 10:30:46,490 - shotaowl - Liked: 1758177719966207295. Like #81.
+2018-04-15 10:32:20,330 - shotaowl - Trying to like media: 1758177610712962504
+2018-04-15 10:32:21,109 - shotaowl - Liked: 1758177610712962504. Like #82.
+2018-04-15 10:33:37,634 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:33:37,635 - shotaowl - Getting user info : ms.ri44i
+2018-04-15 10:33:47,383 - shotaowl - Trying to like media: 1758176966031496678
+2018-04-15 10:33:48,067 - shotaowl - Liked: 1758176966031496678. Like #83.
+2018-04-15 10:34:21,633 - shotaowl - Trying to follow: 3544947449
+2018-04-15 10:34:22,948 - shotaowl - Followed: 3544947449 #22.
+2018-04-15 10:35:24,561 - shotaowl - Trying to like media: 1758176604347703544
+2018-04-15 10:35:25,440 - shotaowl - Liked: 1758176604347703544. Like #84.
+2018-04-15 10:36:59,367 - shotaowl - Trying to like media: 1758176352613446391
+2018-04-15 10:37:00,339 - shotaowl - Liked: 1758176352613446391. Like #85.
+2018-04-15 10:38:31,759 - shotaowl - Trying to like media: 1758176342513648335
+2018-04-15 10:38:32,997 - shotaowl - Liked: 1758176342513648335. Like #86.
+2018-04-15 10:38:39,002 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:38:39,003 - shotaowl - Getting user info : vitaskaletta
+2018-04-15 10:38:51,311 - shotaowl - Trying to follow: 1313765948
+2018-04-15 10:38:52,416 - shotaowl - Followed: 1313765948 #23.
+2018-04-15 10:40:06,165 - shotaowl - Trying to like media: 1758176333111010889
+2018-04-15 10:40:06,921 - shotaowl - Liked: 1758176333111010889. Like #87.
+2018-04-15 10:41:38,466 - shotaowl - Trying to like media: 1758173461321964643
+2018-04-15 10:41:40,320 - shotaowl - Liked: 1758173461321964643. Like #88.
+2018-04-15 10:43:08,781 - shotaowl - Trying to like media: 1758176172846619811
+2018-04-15 10:43:09,562 - shotaowl - Liked: 1758176172846619811. Like #89.
+2018-04-15 10:43:43,002 - shotaowl - Trying to follow: 2260423656
+2018-04-15 10:43:44,665 - shotaowl - Followed: 2260423656 #24.
+2018-04-15 10:43:45,584 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:43:45,584 - shotaowl - Getting user info : eropkina_kss
+2018-04-15 10:44:40,774 - shotaowl - Trying to like media: 1758176121156241947
+2018-04-15 10:44:41,731 - shotaowl - Liked: 1758176121156241947. Like #90.
+2018-04-15 10:46:09,358 - shotaowl - Keep calm - It's your own media ;)
+2018-04-15 10:46:15,365 - shotaowl - Trying to like media: 1758175749505996934
+2018-04-15 10:46:16,280 - shotaowl - Liked: 1758175749505996934. Like #91.
+2018-04-15 10:47:52,358 - shotaowl - Trying to like media: 1758175690500596483
+2018-04-15 10:47:53,560 - shotaowl - Liked: 1758175690500596483. Like #92.
+2018-04-15 10:48:39,600 - shotaowl - Trying to follow: 555177866
+2018-04-15 10:48:41,005 - shotaowl - Followed: 555177866 #25.
+2018-04-15 10:48:57,645 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:48:57,646 - shotaowl - Getting user info : slimperia
+2018-04-15 10:49:18,982 - shotaowl - Trying to like media: 1758175586382333709
+2018-04-15 10:49:19,745 - shotaowl - Liked: 1758175586382333709. Like #93.
+2018-04-15 10:49:23,252 - shotaowl - Get media id by tag: sochi
+2018-04-15 10:49:25,052 - shotaowl - Removing already liked medias..
+2018-04-15 10:50:40,559 - shotaowl - Trying to like media: 1758206117047177084
+2018-04-15 10:50:41,988 - shotaowl - Liked: 1758206117047177084. Like #94.
+2018-04-15 10:52:07,414 - shotaowl - Trying to like media: 1758206074627703179
+2018-04-15 10:52:08,828 - shotaowl - Liked: 1758206074627703179. Like #95.
+2018-04-15 10:53:24,852 - shotaowl - Trying to follow: 6760870047
+2018-04-15 10:53:26,142 - shotaowl - Followed: 6760870047 #26.
+2018-04-15 10:53:38,822 - shotaowl - Trying to like media: 1758204834949772985
+2018-04-15 10:53:40,884 - shotaowl - Liked: 1758204834949772985. Like #96.
+2018-04-15 10:54:08,363 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:54:08,364 - shotaowl - Getting user info : mittamaritaaa
+2018-04-15 10:55:15,682 - shotaowl - Trying to like media: 1758205719755530978
+2018-04-15 10:55:17,101 - shotaowl - Liked: 1758205719755530978. Like #97.
+2018-04-15 10:56:42,709 - shotaowl - Trying to like media: 1758205637128254430
+2018-04-15 10:56:45,142 - shotaowl - Liked: 1758205637128254430. Like #98.
+2018-04-15 10:58:07,461 - shotaowl - Trying to like media: 1758205638342654185
+2018-04-15 10:58:08,428 - shotaowl - Liked: 1758205638342654185. Like #99.
+2018-04-15 10:58:11,431 - shotaowl - Trying to follow: 19650010
+2018-04-15 10:58:12,884 - shotaowl - Followed: 19650010 #27.
+2018-04-15 10:58:53,124 - shotaowl - Trying to unfollow #1: 
+2018-04-15 10:58:53,125 - shotaowl - Getting user info : lovingstarhema
+2018-04-15 10:59:35,621 - shotaowl - Trying to like media: 1758205614260898191
+2018-04-15 10:59:37,559 - shotaowl - Liked: 1758205614260898191. Like #100.
+2018-04-15 11:01:12,061 - shotaowl - Trying to like media: 1758205521994030444
+2018-04-15 11:01:13,722 - shotaowl - Liked: 1758205521994030444. Like #101.
+2018-04-15 11:02:48,306 - shotaowl - Trying to like media: 1758205258927292635
+2018-04-15 11:02:49,938 - shotaowl - Liked: 1758205258927292635. Like #102.
+2018-04-15 11:02:49,938 - shotaowl - Trying to follow: 321771203
+2018-04-15 11:02:51,122 - shotaowl - Followed: 321771203 #28.
+2018-04-15 11:03:57,917 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:03:57,918 - shotaowl - Getting user info : rocco.naes
+2018-04-15 11:04:10,787 - shotaowl - Trying to like media: 1758205236529250309
+2018-04-15 11:04:12,271 - shotaowl - Liked: 1758205236529250309. Like #103.
+2018-04-15 11:05:39,895 - shotaowl - Trying to like media: 1758205166719813686
+2018-04-15 11:05:41,462 - shotaowl - Liked: 1758205166719813686. Like #104.
+2018-04-15 11:07:00,891 - shotaowl - Trying to like media: 1758205155226374456
+2018-04-15 11:07:02,203 - shotaowl - Liked: 1758205155226374456. Like #105.
+2018-04-15 11:07:44,238 - shotaowl - Trying to follow: 4292246481
+2018-04-15 11:07:45,786 - shotaowl - Followed: 4292246481 #29.
+2018-04-15 11:08:23,077 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:08:23,077 - shotaowl - Getting user info : aaudrey17
+2018-04-15 11:08:29,939 - shotaowl - Trying to like media: 1758205112109967325
+2018-04-15 11:08:31,956 - shotaowl - Liked: 1758205112109967325. Like #106.
+2018-04-15 11:09:50,993 - shotaowl - Trying to like media: 1758205082110840742
+2018-04-15 11:09:52,258 - shotaowl - Liked: 1758205082110840742. Like #107.
+2018-04-15 11:11:14,775 - shotaowl - Trying to like media: 1758204786624045096
+2018-04-15 11:11:16,235 - shotaowl - Liked: 1758204786624045096. Like #108.
+2018-04-15 11:12:25,823 - shotaowl - Trying to follow: 1553337144
+2018-04-15 11:12:27,214 - shotaowl - Followed: 1553337144 #30.
+2018-04-15 11:12:39,982 - shotaowl - Trying to like media: 1758204706981131227
+2018-04-15 11:12:41,331 - shotaowl - Liked: 1758204706981131227. Like #109.
+2018-04-15 11:13:11,814 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:13:11,815 - shotaowl - Getting user info : co_______oc
+2018-04-15 11:14:13,177 - shotaowl - Trying to like media: 1758204696008769057
+2018-04-15 11:14:14,552 - shotaowl - Liked: 1758204696008769057. Like #110.
+2018-04-15 11:14:17,556 - shotaowl - Get media id by tag: газпромлаура
+2018-04-15 11:14:19,620 - shotaowl - Removing already liked medias..
+2018-04-15 11:16:30,678 - shotaowl - Get media id by tag: sochi
+2018-04-15 11:16:33,094 - shotaowl - Removing already liked medias..
+2018-04-15 11:16:33,109 - shotaowl - Trying to like media: 1758219943596599342
+2018-04-15 11:16:34,523 - shotaowl - Liked: 1758219943596599342. Like #111.
+2018-04-15 11:17:08,058 - shotaowl - Trying to follow: 3918261392
+2018-04-15 11:17:09,731 - shotaowl - Followed: 3918261392 #31.
+2018-04-15 11:17:52,938 - shotaowl - Trying to like media: 1758219828362250457
+2018-04-15 11:17:54,285 - shotaowl - Liked: 1758219828362250457. Like #112.
+2018-04-15 11:18:15,305 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:18:15,308 - shotaowl - Getting user info : jucy.szoboszlai
+2018-04-15 11:19:12,589 - shotaowl - Trying to like media: 1758218782377421256
+2018-04-15 11:19:13,800 - shotaowl - Liked: 1758218782377421256. Like #113.
+2018-04-15 11:20:41,499 - shotaowl - Trying to like media: 1758219624752633587
+2018-04-15 11:20:42,591 - shotaowl - Liked: 1758219624752633587. Like #114.
+2018-04-15 11:22:08,093 - shotaowl - Trying to like media: 1758219547176084848
+2018-04-15 11:22:09,724 - shotaowl - Liked: 1758219547176084848. Like #115.
+2018-04-15 11:22:09,725 - shotaowl - Trying to follow: 3548182862
+2018-04-15 11:22:10,737 - shotaowl - Followed: 3548182862 #32.
+2018-04-15 11:22:59,922 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:22:59,923 - shotaowl - Getting user info : nemykinanastya
+2018-04-15 11:23:42,861 - shotaowl - Trying to like media: 1758219492439521690
+2018-04-15 11:23:44,720 - shotaowl - Liked: 1758219492439521690. Like #116.
+2018-04-15 11:25:18,688 - shotaowl - Trying to like media: 1758219517447012364
+2018-04-15 11:25:19,970 - shotaowl - Liked: 1758219517447012364. Like #117.
+2018-04-15 11:26:47,940 - shotaowl - Already followed before 3918261392
+2018-04-15 11:26:53,946 - shotaowl - Trying to like media: 1758219469849901244
+2018-04-15 11:26:57,215 - shotaowl - Liked: 1758219469849901244. Like #118.
+2018-04-15 11:27:24,239 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:27:24,240 - shotaowl - Getting user info : arii.h.k
+2018-04-15 11:28:26,708 - shotaowl - Trying to like media: 1758219455555268485
+2018-04-15 11:28:28,383 - shotaowl - Liked: 1758219455555268485. Like #119.
+2018-04-15 11:29:25,433 - shotaowl - Already followed before 3918261392
+2018-04-15 11:29:56,353 - shotaowl - Trying to like media: 1758219284981844364
+2018-04-15 11:29:57,493 - shotaowl - Liked: 1758219284981844364. Like #120.
+2018-04-15 11:31:26,101 - shotaowl - Trying to like media: 1758219088906522936
+2018-04-15 11:31:27,709 - shotaowl - Liked: 1758219088906522936. Like #121.
+2018-04-15 11:32:01,228 - shotaowl - Trying to follow: 7272588864
+2018-04-15 11:32:19,779 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:32:19,780 - shotaowl - Getting user info : babi.may
+2018-04-15 11:32:53,048 - shotaowl - Trying to like media: 1758218786153424127
+2018-04-15 11:32:54,236 - shotaowl - Liked: 1758218786153424127. Like #122.
+2018-04-15 11:34:25,603 - shotaowl - Trying to like media: 1758218567293320564
+2018-04-15 11:34:26,641 - shotaowl - Liked: 1758218567293320564. Like #123.
+2018-04-15 11:36:03,189 - shotaowl - Trying to like media: 1758218298901000560
+2018-04-15 11:36:04,642 - shotaowl - Liked: 1758218298901000560. Like #124.
+2018-04-15 11:37:07,696 - shotaowl - Trying to follow: 7204433419
+2018-04-15 11:37:24,646 - shotaowl - Trying to like media: 1758217939170945902
+2018-04-15 11:37:25,427 - shotaowl - Liked: 1758217939170945902. Like #125.
+2018-04-15 11:37:31,434 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:37:31,434 - shotaowl - Getting user info : palkanbandekar
+2018-04-15 11:38:56,493 - shotaowl - Trying to like media: 1758217825347271926
+2018-04-15 11:38:57,732 - shotaowl - Liked: 1758217825347271926. Like #126.
+2018-04-15 11:40:22,776 - shotaowl - Trying to like media: 1758217745981725772
+2018-04-15 11:40:24,356 - shotaowl - Liked: 1758217745981725772. Like #127.
+2018-04-15 11:41:43,761 - shotaowl - Trying to follow: 302969874
+2018-04-15 11:41:50,229 - shotaowl - Trying to like media: 1758217680340692586
+2018-04-15 11:41:51,440 - shotaowl - Liked: 1758217680340692586. Like #128.
+2018-04-15 11:42:12,465 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:42:12,475 - shotaowl - Getting user info : prukousagi
+2018-04-15 11:43:16,863 - shotaowl - Trying to like media: 1758217657104093980
+2018-04-15 11:43:18,053 - shotaowl - Liked: 1758217657104093980. Like #129.
+2018-04-15 11:44:46,183 - shotaowl - Trying to like media: 1758217590843705933
+2018-04-15 11:44:47,128 - shotaowl - Liked: 1758217590843705933. Like #130.
+2018-04-15 11:46:09,718 - shotaowl - Trying to like media: 1758217475382857322
+2018-04-15 11:46:11,272 - shotaowl - Liked: 1758217475382857322. Like #131.
+2018-04-15 11:46:35,304 - shotaowl - Trying to follow: 2253720045
+2018-04-15 11:46:38,902 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:46:38,903 - shotaowl - Getting user info : andreasuniverse
+2018-04-15 11:47:45,253 - shotaowl - Trying to like media: 1758217455241847396
+2018-04-15 11:47:46,117 - shotaowl - Liked: 1758217455241847396. Like #132.
+2018-04-15 11:49:14,417 - shotaowl - Trying to like media: 1758216456133591994
+2018-04-15 11:49:15,800 - shotaowl - Liked: 1758216456133591994. Like #133.
+2018-04-15 11:50:49,871 - shotaowl - Trying to like media: 1758216455823765334
+2018-04-15 11:50:52,557 - shotaowl - Liked: 1758216455823765334. Like #134.
+2018-04-15 11:51:11,060 - shotaowl - Trying to unfollow #1: 
+2018-04-15 11:51:11,061 - shotaowl - Getting user info : haven_interior
+2018-04-15 11:51:23,966 - shotaowl - Trying to follow: 3029751477
+2018-04-15 11:52:24,588 - shotaowl - Trying to like media: 1758216263112068218
+2018-04-15 11:52:25,575 - shotaowl - Liked: 1758216263112068218. Like #135.
+2018-04-15 11:53:54,085 - shotaowl - Trying to like media: 1758216178823010491
+2018-04-15 11:53:55,013 - shotaowl - Liked: 1758216178823010491. Like #136.
+2018-04-15 11:53:58,017 - shotaowl - Get media id by tag: совариум
+2018-04-15 11:54:00,747 - shotaowl - Removing already liked medias..
+2018-04-15 11:55:16,737 - shotaowl - Keep calm - It's your own media ;)
