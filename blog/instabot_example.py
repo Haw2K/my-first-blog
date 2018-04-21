@@ -34,7 +34,8 @@ def insta_bot_start(task):
                     unfollow_break_min=15,
                     unfollow_break_max=30,
                     log_mod=1,
-                    proxy='',
+                    #proxy='195.190.124.202:8080',
+                    proxy='d0394ffe96:09de558d36@194.28.194.111:52593',
                     # List of list of words, each of which will be used to generate comment
                     # For example: "This shot feels wow!"
                     comment_list=[["this", "the", "your"],

@@ -54,8 +54,8 @@ class InstaBot:
     url_unfollow = 'https://www.instagram.com/web/friendships/%s/unfollow/'
     url_login = 'https://www.instagram.com/accounts/login/ajax/'
     url_logout = 'https://www.instagram.com/accounts/logout/'
-    url_media_detail = 'https://www.instagram.com/p/%s/?__a=1'
-    url_user_detail = 'https://www.instagram.com/%s/?__a=1'
+    url_media_detail = 'https://www.instagram.com/p/%s/?__a1'
+    url_user_detail = 'https://www.instagram.com/%s/?__a1'
     api_user_detail = 'https://i.instagram.com/api/v1/users/%s/info/'
 
     user_agent = "" ""
@@ -841,89 +841,94 @@ class InstaBot:
             else:
                 checking = False
 
-        if self.login_status:
-            log_string = "Getting user info : %s" % current_user
-            self.write_log(log_string)
-            if self.login_status == 1:
-                url_tag = self.url_user_detail % (current_user)
-                try:
-                    r = self.s.get(url_tag)
-                    all_data = json.loads(r.text)
+        #Danil2180420
+        self.write_log(current_user)
+        self.unfollow(current_id)
+        insert_unfollow_count(self, user_id=current_id)
 
-#danil
-
-                    user_info = all_data['graphql']['user']
-                    i = 0
-                    log_string = "Checking user info.."
-                    self.write_log(log_string)
-
-                    follows = user_info['edge_follow']['count']
-                    follower = user_info['edge_followed_by']['count']
-                    media = user_info['edge_media_collections']['count']
-                    follow_viewer = user_info['follows_viewer']
-                    followed_by_viewer = user_info[
-                        'followed_by_viewer']
-                    requested_by_viewer = user_info[
-                        'requested_by_viewer']
-                    has_requested_viewer = user_info[
-                        'has_requested_viewer']
-                    log_string = "Follower : %i" % (follower)
-                    self.write_log(log_string)
-                    log_string = "Following : %s" % (follows)
-                    self.write_log(log_string)
-                    log_string = "Media : %i" % (media)
-                    self.write_log(log_string)
-                    if follows == 0 or follower / follows > 2:
-                        self.is_selebgram = True
-                        self.is_fake_account = False
-                        print('   >>>This is probably Selebgram account')
-                    elif follower == 0 or follows / follower > 2:
-                        self.is_fake_account = True
-                        self.is_selebgram = False
-                        print('   >>>This is probably Fake account')
-                    else:
-                        self.is_selebgram = False
-                        self.is_fake_account = False
-                        print('   >>>This is a normal account')
-
-                    if media > 0 and follows / media < 25 and follower / media < 25:
-                        self.is_active_user = True
-                        print('   >>>This user is active')
-                    else:
-                        self.is_active_user = False
-                        print('   >>>This user is passive')
-
-                    if follow_viewer or has_requested_viewer:
-                        self.is_follower = True
-                        print("   >>>This account is following you")
-                    else:
-                        self.is_follower = False
-                        print('   >>>This account is NOT following you')
-
-                    if followed_by_viewer or requested_by_viewer:
-                        self.is_following = True
-                        print('   >>>You are following this account')
-
-                    else:
-                        self.is_following = False
-                        print('   >>>You are NOT following this account')
-
-                except:
-                    logging.exception("Except on auto_unfollow!")
-                    time.sleep(3)
-                    return False
-            else:
-                return False
-
-            if (
-                    self.is_selebgram is not False
-                    or self.is_fake_account is not False
-                    or self.is_active_user is not True
-                    or self.is_follower is not True
-            ):
-                self.write_log(current_user)
-                self.unfollow(current_id)
-                insert_unfollow_count(self, user_id=current_id)
+#         if self.login_status:
+#             log_string = "Getting user info : %s" % current_user
+#             self.write_log(log_string)
+#             if self.login_status == 1:
+#                 url_tag = self.url_user_detail % (current_user)
+#                 try:
+#                     r = self.s.get(url_tag)
+#                     all_data = json.loads(r.text)
+#
+# #danil
+#
+#                     user_info = all_data['graphql']['user']
+#                     i = 0
+#                     log_string = "Checking user info.."
+#                     self.write_log(log_string)
+#
+#                     follows = user_info['edge_follow']['count']
+#                     follower = user_info['edge_followed_by']['count']
+#                     media = user_info['edge_media_collections']['count']
+#                     follow_viewer = user_info['follows_viewer']
+#                     followed_by_viewer = user_info[
+#                         'followed_by_viewer']
+#                     requested_by_viewer = user_info[
+#                         'requested_by_viewer']
+#                     has_requested_viewer = user_info[
+#                         'has_requested_viewer']
+#                     log_string = "Follower : %i" % (follower)
+#                     self.write_log(log_string)
+#                     log_string = "Following : %s" % (follows)
+#                     self.write_log(log_string)
+#                     log_string = "Media : %i" % (media)
+#                     self.write_log(log_string)
+#                     if follows == 0 or follower / follows > 2:
+#                         self.is_selebgram = True
+#                         self.is_fake_account = False
+#                         print('   >>>This is probably Selebgram account')
+#                     elif follower == 0 or follows / follower > 2:
+#                         self.is_fake_account = True
+#                         self.is_selebgram = False
+#                         print('   >>>This is probably Fake account')
+#                     else:
+#                         self.is_selebgram = False
+#                         self.is_fake_account = False
+#                         print('   >>>This is a normal account')
+#
+#                     if media > 0 and follows / media < 25 and follower / media < 25:
+#                         self.is_active_user = True
+#                         print('   >>>This user is active')
+#                     else:
+#                         self.is_active_user = False
+#                         print('   >>>This user is passive')
+#
+#                     if follow_viewer or has_requested_viewer:
+#                         self.is_follower = True
+#                         print("   >>>This account is following you")
+#                     else:
+#                         self.is_follower = False
+#                         print('   >>>This account is NOT following you')
+#
+#                     if followed_by_viewer or requested_by_viewer:
+#                         self.is_following = True
+#                         print('   >>>You are following this account')
+#
+#                     else:
+#                         self.is_following = False
+#                         print('   >>>You are NOT following this account')
+#
+#                 except:
+#                     logging.exception("Except on auto_unfollow!")
+#                     time.sleep(3)
+#                     return False
+#             else:
+#                 return False
+#
+#             if (
+#                     self.is_selebgram is not False
+#                     or self.is_fake_account is not False
+#                     or self.is_active_user is not True
+#                     or self.is_follower is not True
+#             ):
+#                 self.write_log(current_user)
+#                 self.unfollow(current_id)
+#                 insert_unfollow_count(self, user_id=current_id)
 
     def get_media_id_recent_feed(self):
         if self.login_status:

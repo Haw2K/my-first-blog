@@ -21,6 +21,9 @@ def insta_bot_start(task):
         bot = InstaBot(
                     login="shotaowl",
                     password="5891Danil",
+                    #login="haw22k",
+                    #password="Mitra123",
+                    #user_id_take='7134637717',
                     user_id_take='2233349262',
                     like_per_day=1000,
                     comments_per_day=0,
@@ -28,12 +31,13 @@ def insta_bot_start(task):
                     tag_blacklist=[],
                     user_blacklist={},
                     max_like_for_one_tag=50,
-                    follow_per_day=300,
+                    follow_per_day=0,
                     follow_time=24 * 60+1,
                     unfollow_per_day=300,
                     unfollow_break_min=15,
                     unfollow_break_max=30,
                     log_mod=1,
+                    #proxy='195.190.124.202:8080',
                     proxy='',
                     # List of list of words, each of which will be used to generate comment
                     # For example: "This shot feels wow!"

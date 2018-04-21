@@ -1,0 +1,14 @@
+2018-04-17 14:52:24,898 - haw22k - Instabot v1.2.0 started at 17.04.2018 14:52:
+
+2018-04-17 14:52:24,898 - haw22k - Trying to login as haw22k...
+
+2018-04-17 14:52:29,663 - haw22k - haw22k login success!
+2018-04-17 14:52:29,663 - haw22k - Get media id by tag: code
+2018-04-17 14:52:31,367 - haw22k - Removing already liked medias..
+2018-04-17 14:52:31,399 - haw22k - Trying to like media: 1759778263000758382
+2018-04-17 14:52:32,441 - haw22k - Liked: 1759778263000758382. Like #1.
+2018-04-17 14:52:32,442 - haw22k - Trying to follow: 1714701079
+2018-04-17 14:52:33,563 - haw22k - Followed: 1714701079 #1.
+2018-04-17 14:52:34,238 - haw22k - Trying to unfollow #1: 
+2018-04-17 14:52:34,240 - haw22k - Getting user info : groovywitch666
+2018-04-17 14:53:14,990 - haw22k - Trying to unfollow: 1714701079

@@ -35,7 +35,7 @@ cursor = db.cursor()
 #modx_insta_accounts
 #insta_tasks_results
 # запрос к БД
-sql = """SELECT * FROM insta_tasks_results"""
+sql = """SELECT * FROM modx_insta_accounts"""
 
 # sql = '''SELECT modx_insta_likes.id, modx_insta_likes.account_id, modx_insta_likes.type_id, modx_insta_likes.tags,
 #       modx_insta_accounts.user_id, modx_insta_accounts.login, modx_insta_accounts.password
@@ -91,5 +91,8 @@ for rec in data:
 # cursor.execute('''INSERT INTO modx_insta_likes(account_id, type_id, tags, active) VALUES (%s,%s,%s,1)''',
 #                             (account_id, 1, 'code, sleep, repeat',))
 # #
+
+# cursor.execute('''UPDATE modx_insta_accounts SET password =  %s WHERE user_id = %s and login = %s and password = %s''',('Mitra321', 2, 'haw22k', 'Mitra123',))
+#
 # db.commit()
 db.close()

@@ -1,0 +1,2262 @@
+2018-04-20 10:21:51,988 - shotaowl - Instabot v1.2.0 started at 20.04.2018 10:21:
+
+2018-04-20 10:21:51,989 - shotaowl - Trying to login as shotaowl...
+
+2018-04-20 10:21:57,259 - shotaowl - shotaowl login success!
+2018-04-20 10:21:57,260 - shotaowl - Get media id by tag: сочи
+2018-04-20 10:22:00,111 - shotaowl - Removing already liked medias..
+2018-04-20 10:22:00,154 - shotaowl - Trying to like media: 1761816484005591641
+2018-04-20 10:22:01,388 - shotaowl - Liked: 1761816484005591641. Like #1.
+2018-04-20 10:22:01,390 - shotaowl - Trying to follow: 5766888777
+2018-04-20 10:22:02,455 - shotaowl - Followed: 5766888777 #1.
+2018-04-20 10:22:04,270 - shotaowl - Trying to unfollow #1: 
+2018-04-20 10:22:04,273 - shotaowl - instababynew
+2018-04-20 10:22:05,687 - shotaowl - Unfollowed: 3108680757 #1.
+2018-04-20 10:23:20,781 - shotaowl - Trying to like media: 1761816328035076448
+2018-04-20 10:23:21,836 - shotaowl - Liked: 1761816328035076448. Like #2.
+2018-04-20 10:24:48,926 - shotaowl - Trying to like media: 1761816294941886675
+2018-04-20 10:24:50,885 - shotaowl - Liked: 1761816294941886675. Like #3.
+2018-04-20 10:26:14,971 - shotaowl - Trying to like media: 1761816236240228310
+2018-04-20 10:26:16,010 - shotaowl - Liked: 1761816236240228310. Like #4.
+2018-04-20 10:26:34,025 - shotaowl - Trying to follow: 6775621900
+2018-04-20 10:26:41,188 - shotaowl - Followed: 6775621900 #2.
+2018-04-20 10:27:00,148 - shotaowl - Trying to unfollow #2: 
+2018-04-20 10:27:00,153 - shotaowl - emamiku
+2018-04-20 10:27:02,250 - shotaowl - Unfollowed: 5334838097 #2.
+2018-04-20 10:27:38,299 - shotaowl - Trying to like media: 1761816126842849293
+2018-04-20 10:27:39,325 - shotaowl - Liked: 1761816126842849293. Like #5.
+2018-04-20 10:29:06,409 - shotaowl - Trying to like media: 1761816122220601795
+2018-04-20 10:29:07,591 - shotaowl - Liked: 1761816122220601795. Like #6.
+2018-04-20 10:30:34,669 - shotaowl - Trying to like media: 1761816083347691441
+2018-04-20 10:30:41,513 - shotaowl - Liked: 1761816083347691441. Like #7.
+2018-04-20 10:31:29,560 - shotaowl - Trying to follow: 6915357555
+2018-04-20 10:31:32,224 - shotaowl - Followed: 6915357555 #3.
+2018-04-20 10:31:48,304 - shotaowl - Trying to unfollow #3: 
+2018-04-20 10:31:48,305 - shotaowl - mister_glitch
+2018-04-20 10:31:48,960 - shotaowl - Unfollowed: 31687374 #3.
+2018-04-20 10:32:03,976 - shotaowl - Trying to like media: 1761815961981670063
+2018-04-20 10:32:08,789 - shotaowl - Liked: 1761815961981670063. Like #8.
+2018-04-20 10:33:41,878 - shotaowl - Trying to like media: 1761815946984405985
+2018-04-20 10:33:43,029 - shotaowl - Liked: 1761815946984405985. Like #9.
+2018-04-20 10:35:10,111 - shotaowl - Trying to like media: 1761815928049244566
+2018-04-20 10:35:11,752 - shotaowl - Liked: 1761815928049244566. Like #10.
+2018-04-20 10:36:17,809 - shotaowl - Trying to unfollow #4: 
+2018-04-20 10:36:17,811 - shotaowl - beanietheo
+2018-04-20 10:36:18,821 - shotaowl - Unfollowed: 3537137191 #4.
+2018-04-20 10:36:36,843 - shotaowl - Trying to like media: 1761815914333933256
+2018-04-20 10:36:38,358 - shotaowl - Liked: 1761815914333933256. Like #11.
+2018-04-20 10:36:44,365 - shotaowl - Trying to follow: 419141301
+2018-04-20 10:36:45,298 - shotaowl - Followed: 419141301 #4.
+2018-04-20 10:38:01,221 - shotaowl - Trying to like media: 1761815889881510414
+2018-04-20 10:38:02,826 - shotaowl - Liked: 1761815889881510414. Like #12.
+2018-04-20 10:39:35,910 - shotaowl - Trying to like media: 1761815885470678538
+2018-04-20 10:39:41,154 - shotaowl - Liked: 1761815885470678538. Like #13.
+2018-04-20 10:40:56,222 - shotaowl - Trying to unfollow #5: 
+2018-04-20 10:40:56,224 - shotaowl - viktoriavasilevskaya
+2018-04-20 10:40:57,501 - shotaowl - Unfollowed: 1657618840 #5.
+2018-04-20 10:41:09,523 - shotaowl - Trying to like media: 1761815881156973567
+2018-04-20 10:41:14,073 - shotaowl - Liked: 1761815881156973567. Like #14.
+2018-04-20 10:41:47,100 - shotaowl - Trying to follow: 7050733137
+2018-04-20 10:41:48,344 - shotaowl - Followed: 7050733137 #5.
+2018-04-20 10:42:43,559 - shotaowl - Trying to like media: 1761815765512967867
+2018-04-20 10:42:44,474 - shotaowl - Liked: 1761815765512967867. Like #15.
+2018-04-20 10:44:05,557 - shotaowl - Trying to like media: 1761815850027290427
+2018-04-20 10:44:06,704 - shotaowl - Liked: 1761815850027290427. Like #16.
+2018-04-20 10:45:42,787 - shotaowl - Trying to like media: 1761815806122764124
+2018-04-20 10:45:44,235 - shotaowl - Liked: 1761815806122764124. Like #17.
+2018-04-20 10:46:11,258 - shotaowl - Already followed before 5766888777
+2018-04-20 10:46:14,262 - shotaowl - Trying to unfollow #6: 
+2018-04-20 10:46:14,264 - shotaowl - luxysilk
+2018-04-20 10:46:14,976 - shotaowl - Unfollowed: 4285598084 #6.
+2018-04-20 10:47:03,018 - shotaowl - Trying to like media: 1761815718032279998
+2018-04-20 10:47:04,101 - shotaowl - Liked: 1761815718032279998. Like #18.
+2018-04-20 10:48:25,179 - shotaowl - Trying to follow: 1473449004
+2018-04-20 10:48:26,249 - shotaowl - Followed: 1473449004 #6.
+2018-04-20 10:48:39,219 - shotaowl - Trying to like media: 1761815695451435105
+2018-04-20 10:48:41,236 - shotaowl - Liked: 1761815695451435105. Like #19.
+2018-04-20 10:50:14,329 - shotaowl - Trying to like media: 1761815592070069437
+2018-04-20 10:50:15,314 - shotaowl - Liked: 1761815592070069437. Like #20.
+2018-04-20 10:50:39,342 - shotaowl - Trying to unfollow #7: 
+2018-04-20 10:50:39,344 - shotaowl - stinejustesen
+2018-04-20 10:50:43,098 - shotaowl - Unfollowed: 265976269 #7.
+2018-04-20 10:51:52,175 - shotaowl - Trying to like media: 1761815560386921480
+2018-04-20 10:51:55,650 - shotaowl - Liked: 1761815560386921480. Like #21.
+2018-04-20 10:51:58,654 - shotaowl - Get media id by tag: совариум
+2018-04-20 10:52:03,167 - shotaowl - Removing already liked medias..
+2018-04-20 10:53:27,306 - shotaowl - Already followed before 1983725610
+2018-04-20 10:55:24,418 - shotaowl - Get media id by tag: сочи
+2018-04-20 10:55:27,050 - shotaowl - Removing already liked medias..
+2018-04-20 10:55:27,101 - shotaowl - Trying to like media: 1761833313918470375
+2018-04-20 10:55:28,319 - shotaowl - Liked: 1761833313918470375. Like #22.
+2018-04-20 10:55:40,333 - shotaowl - Trying to unfollow #8: 
+2018-04-20 10:55:40,336 - shotaowl - akhilkalidasan
+2018-04-20 10:55:41,209 - shotaowl - Unfollowed: 1694052004 #8.
+2018-04-20 10:55:56,234 - shotaowl - Trying to follow: 4528338962
+2018-04-20 10:55:57,157 - shotaowl - Followed: 4528338962 #7.
+2018-04-20 10:57:02,109 - shotaowl - Trying to like media: 1761833295353482295
+2018-04-20 10:57:03,180 - shotaowl - Liked: 1761833295353482295. Like #23.
+2018-04-20 10:58:39,270 - shotaowl - Trying to like media: 1761833248176833814
+2018-04-20 10:58:40,816 - shotaowl - Liked: 1761833248176833814. Like #24.
+2018-04-20 11:00:04,898 - shotaowl - Trying to like media: 1761833243068669116
+2018-04-20 11:00:05,938 - shotaowl - Liked: 1761833243068669116. Like #25.
+2018-04-20 11:00:44,972 - shotaowl - Trying to follow: 7539256750
+2018-04-20 11:00:46,499 - shotaowl - Followed: 7539256750 #8.
+2018-04-20 11:00:47,246 - shotaowl - Trying to unfollow #9: 
+2018-04-20 11:00:47,248 - shotaowl - kyu_uu.ri
+2018-04-20 11:00:48,476 - shotaowl - Unfollowed: 6091137070 #9.
+2018-04-20 11:01:36,529 - shotaowl - Trying to like media: 1761833046506392331
+2018-04-20 11:01:37,733 - shotaowl - Liked: 1761833046506392331. Like #26.
+2018-04-20 11:03:04,813 - shotaowl - Trying to like media: 1761833014244748203
+2018-04-20 11:03:06,227 - shotaowl - Liked: 1761833014244748203. Like #27.
+2018-04-20 11:04:27,307 - shotaowl - Trying to like media: 1761832999563800965
+2018-04-20 11:04:33,676 - shotaowl - Liked: 1761832999563800965. Like #28.
+2018-04-20 11:04:36,681 - shotaowl - Get media id by tag: сочи
+2018-04-20 11:04:40,364 - shotaowl - Removing already liked medias..
+2018-04-20 11:05:34,453 - shotaowl - Trying to follow: 2159211618
+2018-04-20 11:05:38,181 - shotaowl - Followed: 2159211618 #9.
+2018-04-20 11:05:56,339 - shotaowl - Trying to like media: 1761837841090000680
+2018-04-20 11:05:58,056 - shotaowl - Liked: 1761837841090000680. Like #29.
+2018-04-20 11:05:58,056 - shotaowl - Trying to unfollow #10: 
+2018-04-20 11:05:58,058 - shotaowl - madabymada
+2018-04-20 11:06:00,131 - shotaowl - Unfollowed: 270807992 #10.
+2018-04-20 11:07:21,218 - shotaowl - Trying to like media: 1761837816033199722
+2018-04-20 11:07:22,873 - shotaowl - Liked: 1761837816033199722. Like #30.
+2018-04-20 11:08:55,961 - shotaowl - Trying to like media: 1761837806747715209
+2018-04-20 11:08:57,756 - shotaowl - Liked: 1761837806747715209. Like #31.
+2018-04-20 11:10:27,841 - shotaowl - Trying to like media: 1761837684860417335
+2018-04-20 11:10:28,980 - shotaowl - Liked: 1761837684860417335. Like #32.
+2018-04-20 11:10:31,982 - shotaowl - Trying to unfollow #11: 
+2018-04-20 11:10:31,984 - shotaowl - kotterigram
+2018-04-20 11:10:33,572 - shotaowl - Unfollowed: 3106096904 #11.
+2018-04-20 11:10:54,602 - shotaowl - Trying to follow: 2282102028
+2018-04-20 11:10:55,465 - shotaowl - Followed: 2282102028 #10.
+2018-04-20 11:11:51,013 - shotaowl - Trying to like media: 1761837562908659140
+2018-04-20 11:11:52,456 - shotaowl - Liked: 1761837562908659140. Like #33.
+2018-04-20 11:13:16,542 - shotaowl - Trying to like media: 1761837533824838828
+2018-04-20 11:13:18,162 - shotaowl - Liked: 1761837533824838828. Like #34.
+2018-04-20 11:14:45,243 - shotaowl - Trying to like media: 1761837421199917958
+2018-04-20 11:14:46,806 - shotaowl - Liked: 1761837421199917958. Like #35.
+2018-04-20 11:15:07,822 - shotaowl - Trying to unfollow #12: 
+2018-04-20 11:15:07,824 - shotaowl - haven_interior
+2018-04-20 11:15:08,628 - shotaowl - Unfollowed: 1436502896 #12.
+2018-04-20 11:15:56,679 - shotaowl - Trying to follow: 1120721095
+2018-04-20 11:15:57,786 - shotaowl - Followed: 1120721095 #11.
+2018-04-20 11:16:10,803 - shotaowl - Trying to like media: 1761837389691846462
+2018-04-20 11:16:11,808 - shotaowl - Liked: 1761837389691846462. Like #36.
+2018-04-20 11:17:41,887 - shotaowl - Trying to like media: 1761837315216464170
+2018-04-20 11:17:43,058 - shotaowl - Liked: 1761837315216464170. Like #37.
+2018-04-20 11:19:13,138 - shotaowl - Trying to like media: 1761837289614739293
+2018-04-20 11:19:14,921 - shotaowl - Liked: 1761837289614739293. Like #38.
+2018-04-20 11:20:02,968 - shotaowl - Trying to unfollow #13: 
+2018-04-20 11:20:02,970 - shotaowl - vitzedirektor
+2018-04-20 11:20:03,914 - shotaowl - Unfollowed: 4285639085 #13.
+2018-04-20 11:20:39,956 - shotaowl - Trying to like media: 1761837259055668749
+2018-04-20 11:20:41,330 - shotaowl - Liked: 1761837259055668749. Like #39.
+2018-04-20 11:21:05,354 - shotaowl - Trying to follow: 1461113114
+2018-04-20 11:21:06,327 - shotaowl - Followed: 1461113114 #12.
+2018-04-20 11:22:07,568 - shotaowl - Trying to like media: 1761837135717785405
+2018-04-20 11:22:08,948 - shotaowl - Liked: 1761837135717785405. Like #40.
+2018-04-20 11:23:30,014 - shotaowl - Trying to like media: 1761837089193920434
+2018-04-20 11:23:30,990 - shotaowl - Liked: 1761837089193920434. Like #41.
+2018-04-20 11:24:58,066 - shotaowl - Trying to like media: 1761837068383074346
+2018-04-20 11:24:59,462 - shotaowl - Liked: 1761837068383074346. Like #42.
+2018-04-20 11:25:17,478 - shotaowl - Trying to unfollow #14: 
+2018-04-20 11:25:17,480 - shotaowl - nofunnolifee
+2018-04-20 11:25:18,014 - shotaowl - Unfollowed: 2264583747 #14.
+2018-04-20 11:26:03,064 - shotaowl - Trying to follow: 7292688080
+2018-04-20 11:26:04,196 - shotaowl - Followed: 7292688080 #13.
+2018-04-20 11:26:23,288 - shotaowl - Trying to like media: 1761837003597908958
+2018-04-20 11:26:24,294 - shotaowl - Liked: 1761837003597908958. Like #43.
+2018-04-20 11:27:48,370 - shotaowl - Trying to like media: 1761836921482292283
+2018-04-20 11:27:49,380 - shotaowl - Liked: 1761836921482292283. Like #44.
+2018-04-20 11:29:19,454 - shotaowl - Trying to like media: 1761836871476048347
+2018-04-20 11:29:20,838 - shotaowl - Liked: 1761836871476048347. Like #45.
+2018-04-20 11:29:56,874 - shotaowl - Trying to unfollow #15: 
+2018-04-20 11:29:56,876 - shotaowl - ryleeblake15
+2018-04-20 11:29:57,642 - shotaowl - Unfollowed: 6692622466 #15.
+2018-04-20 11:30:45,695 - shotaowl - Trying to like media: 1761836636444623657
+2018-04-20 11:30:46,932 - shotaowl - Liked: 1761836636444623657. Like #46.
+2018-04-20 11:31:13,957 - shotaowl - Trying to follow: 1579957475
+2018-04-20 11:31:15,159 - shotaowl - Followed: 1579957475 #14.
+2018-04-20 11:32:16,318 - shotaowl - Trying to like media: 1761836552013766276
+2018-04-20 11:32:17,130 - shotaowl - Liked: 1761836552013766276. Like #47.
+2018-04-20 11:33:38,208 - shotaowl - Trying to like media: 1761836548338234766
+2018-04-20 11:33:38,915 - shotaowl - Liked: 1761836548338234766. Like #48.
+2018-04-20 11:35:02,989 - shotaowl - Trying to like media: 1761836533140062200
+2018-04-20 11:35:04,108 - shotaowl - Liked: 1761836533140062200. Like #49.
+2018-04-20 11:35:16,122 - shotaowl - Trying to unfollow #16: 
+2018-04-20 11:35:16,124 - shotaowl - miniktosbikler
+2018-04-20 11:35:16,896 - shotaowl - Unfollowed: 7414120878 #16.
+2018-04-20 11:35:46,932 - shotaowl - Trying to follow: 7107840575
+2018-04-20 11:35:48,198 - shotaowl - Followed: 7107840575 #15.
+2018-04-20 11:36:26,074 - shotaowl - Trying to like media: 1761836524791405656
+2018-04-20 11:36:27,078 - shotaowl - Liked: 1761836524791405656. Like #50.
+2018-04-20 11:37:57,152 - shotaowl - Trying to like media: 1761836519667442691
+2018-04-20 11:37:58,276 - shotaowl - Liked: 1761836519667442691. Like #51.
+2018-04-20 11:39:25,360 - shotaowl - Trying to like media: 1761836509181015784
+2018-04-20 11:39:26,974 - shotaowl - Liked: 1761836509181015784. Like #52.
+2018-04-20 11:39:53,996 - shotaowl - Trying to unfollow #17: 
+2018-04-20 11:39:53,997 - shotaowl - vinidiktova_a
+2018-04-20 11:39:54,888 - shotaowl - Unfollowed: 420204807 #17.
+2018-04-20 11:40:36,937 - shotaowl - Trying to follow: 3595006153
+2018-04-20 11:40:38,154 - shotaowl - Followed: 3595006153 #16.
+2018-04-20 11:41:00,011 - shotaowl - Trying to like media: 1761836471106298042
+2018-04-20 11:41:00,718 - shotaowl - Liked: 1761836471106298042. Like #53.
+2018-04-20 11:42:30,799 - shotaowl - Trying to like media: 1761836442390196295
+2018-04-20 11:42:31,608 - shotaowl - Liked: 1761836442390196295. Like #54.
+2018-04-20 11:43:58,683 - shotaowl - Trying to like media: 1761836403519196018
+2018-04-20 11:44:00,550 - shotaowl - Liked: 1761836403519196018. Like #55.
+2018-04-20 11:44:15,564 - shotaowl - Trying to unfollow #18: 
+2018-04-20 11:44:15,566 - shotaowl - shelly_styr
+2018-04-20 11:44:16,498 - shotaowl - Unfollowed: 1821390749 #18.
+2018-04-20 11:45:31,578 - shotaowl - Trying to like media: 1761836402100607162
+2018-04-20 11:45:32,520 - shotaowl - Liked: 1761836402100607162. Like #56.
+2018-04-20 11:45:38,527 - shotaowl - Trying to follow: 3168480182
+2018-04-20 11:45:40,332 - shotaowl - Followed: 3168480182 #17.
+2018-04-20 11:46:53,482 - shotaowl - Trying to like media: 1761836376793043707
+2018-04-20 11:46:54,219 - shotaowl - Liked: 1761836376793043707. Like #57.
+2018-04-20 11:48:15,289 - shotaowl - Trying to like media: 1761836323684245148
+2018-04-20 11:48:16,768 - shotaowl - Liked: 1761836323684245148. Like #58.
+2018-04-20 11:49:01,804 - shotaowl - Trying to unfollow #19: 
+2018-04-20 11:49:01,806 - shotaowl - jaxtonjx
+2018-04-20 11:49:03,536 - shotaowl - Unfollowed: 16826017 #19.
+2018-04-20 11:49:39,579 - shotaowl - Trying to like media: 1761836285825451952
+2018-04-20 11:49:40,506 - shotaowl - Liked: 1761836285825451952. Like #59.
+2018-04-20 11:50:49,572 - shotaowl - Already followed before 7330054832
+2018-04-20 11:51:10,586 - shotaowl - Trying to like media: 1761836273686940945
+2018-04-20 11:51:11,625 - shotaowl - Liked: 1761836273686940945. Like #60.
+2018-04-20 11:52:35,704 - shotaowl - Trying to like media: 1761836254477164221
+2018-04-20 11:52:37,068 - shotaowl - Liked: 1761836254477164221. Like #61.
+2018-04-20 11:53:07,102 - shotaowl - Trying to follow: 6697777029
+2018-04-20 11:53:08,030 - shotaowl - Followed: 6697777029 #18.
+2018-04-20 11:53:33,115 - shotaowl - Trying to unfollow #20: 
+2018-04-20 11:53:33,121 - shotaowl - nyuzhella_mahasetia
+2018-04-20 11:53:33,890 - shotaowl - Unfollowed: 1989919710 #20.
+2018-04-20 11:54:12,936 - shotaowl - Trying to like media: 1761836202627003081
+2018-04-20 11:54:13,754 - shotaowl - Liked: 1761836202627003081. Like #62.
+2018-04-20 11:55:40,839 - shotaowl - Trying to like media: 1761836156331664416
+2018-04-20 11:55:41,811 - shotaowl - Liked: 1761836156331664416. Like #63.
+2018-04-20 11:56:59,880 - shotaowl - Trying to like media: 1761836116031796730
+2018-04-20 11:57:01,136 - shotaowl - Liked: 1761836116031796730. Like #64.
+2018-04-20 11:58:16,207 - shotaowl - Trying to follow: 4715857066
+2018-04-20 11:58:17,444 - shotaowl - Followed: 4715857066 #19.
+2018-04-20 11:58:24,943 - shotaowl - Trying to unfollow #21: 
+2018-04-20 11:58:24,944 - shotaowl - zoeh16
+2018-04-20 11:58:26,468 - shotaowl - Unfollowed: 448854186 #21.
+2018-04-20 11:58:29,478 - shotaowl - Trying to like media: 1761836088166259644
+2018-04-20 11:58:30,764 - shotaowl - Liked: 1761836088166259644. Like #65.
+2018-04-20 11:59:54,830 - shotaowl - Trying to like media: 1761836035157551240
+2018-04-20 11:59:55,879 - shotaowl - Liked: 1761836035157551240. Like #66.
+2018-04-20 12:01:28,968 - shotaowl - Trying to like media: 1761836022935491519
+2018-04-20 12:01:31,274 - shotaowl - Liked: 1761836022935491519. Like #67.
+2018-04-20 12:02:52,353 - shotaowl - Trying to like media: 1761835934805845541
+2018-04-20 12:02:53,036 - shotaowl - Liked: 1761835934805845541. Like #68.
+2018-04-20 12:03:32,075 - shotaowl - Trying to follow: 1988970398
+2018-04-20 12:03:34,080 - shotaowl - Followed: 1988970398 #20.
+2018-04-20 12:03:43,936 - shotaowl - Trying to unfollow #22: 
+2018-04-20 12:03:43,938 - shotaowl - mamiyuri_twins
+2018-04-20 12:03:44,740 - shotaowl - Unfollowed: 4648391997 #22.
+2018-04-20 12:04:14,774 - shotaowl - Trying to like media: 1761831883283872827
+2018-04-20 12:04:15,693 - shotaowl - Liked: 1761831883283872827. Like #69.
+2018-04-20 12:05:33,770 - shotaowl - Trying to like media: 1761835793011345870
+2018-04-20 12:05:34,804 - shotaowl - Liked: 1761835793011345870. Like #70.
+2018-04-20 12:07:04,888 - shotaowl - Trying to like media: 1761835773969106888
+2018-04-20 12:07:06,530 - shotaowl - Liked: 1761835773969106888. Like #71.
+2018-04-20 12:07:57,577 - shotaowl - Trying to follow: 7015221062
+2018-04-20 12:07:58,728 - shotaowl - Followed: 7015221062 #21.
+2018-04-20 12:08:32,852 - shotaowl - Trying to unfollow #23: 
+2018-04-20 12:08:32,853 - shotaowl - fra25a
+2018-04-20 12:08:33,837 - shotaowl - Unfollowed: 315800610 #23.
+2018-04-20 12:08:36,848 - shotaowl - Trying to like media: 1761835762050235989
+2018-04-20 12:08:37,803 - shotaowl - Liked: 1761835762050235989. Like #72.
+2018-04-20 12:08:40,807 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 12:08:42,746 - shotaowl - Removing already liked medias..
+2018-04-20 12:10:00,857 - shotaowl - Trying to like media: 1761869769928514363
+2018-04-20 12:10:01,939 - shotaowl - Liked: 1761869769928514363. Like #73.
+2018-04-20 12:11:35,019 - shotaowl - Trying to like media: 1761869050639494965
+2018-04-20 12:11:36,854 - shotaowl - Liked: 1761869050639494965. Like #74.
+2018-04-20 12:12:45,917 - shotaowl - Already followed before 26498072
+2018-04-20 12:13:03,933 - shotaowl - Trying to like media: 1761865268593609163
+2018-04-20 12:13:05,109 - shotaowl - Liked: 1761865268593609163. Like #75.
+2018-04-20 12:13:08,111 - shotaowl - Get media id by tag: совариум
+2018-04-20 12:13:10,761 - shotaowl - Removing already liked medias..
+2018-04-20 12:13:34,853 - shotaowl - Trying to unfollow #24: 
+2018-04-20 12:13:34,855 - shotaowl - self_service_car_wash
+2018-04-20 12:13:35,943 - shotaowl - Unfollowed: 4227953744 #24.
+2018-04-20 12:15:24,050 - shotaowl - Trying to follow: 2175897612
+2018-04-20 12:15:24,632 - shotaowl - Followed: 2175897612 #22.
+2018-04-20 12:16:40,914 - shotaowl - Get media id by tag: sovarium
+2018-04-20 12:16:43,916 - shotaowl - Removing already liked medias..
+2018-04-20 12:18:20,044 - shotaowl - Trying to unfollow #25: 
+2018-04-20 12:18:20,046 - shotaowl - yari_venom
+2018-04-20 12:18:20,993 - shotaowl - Unfollowed: 959468097 #25.
+2018-04-20 12:19:18,049 - shotaowl - Get media id by tag: sochi
+2018-04-20 12:19:23,074 - shotaowl - Removing already liked medias..
+2018-04-20 12:19:23,124 - shotaowl - Trying to like media: 1761875109595034713
+2018-04-20 12:19:24,588 - shotaowl - Liked: 1761875109595034713. Like #76.
+2018-04-20 12:20:00,619 - shotaowl - Trying to follow: 7556956169
+2018-04-20 12:20:01,867 - shotaowl - Followed: 7556956169 #23.
+2018-04-20 12:20:44,990 - shotaowl - Trying to like media: 1761874980998388281
+2018-04-20 12:20:46,125 - shotaowl - Liked: 1761874980998388281. Like #77.
+2018-04-20 12:22:19,226 - shotaowl - Trying to like media: 1761874969355373383
+2018-04-20 12:22:41,710 - shotaowl - Liked: 1761874969355373383. Like #78.
+2018-04-20 12:23:38,756 - shotaowl - Trying to unfollow #26: 
+2018-04-20 12:23:38,759 - shotaowl - yildizseld
+2018-04-20 12:23:39,981 - shotaowl - Unfollowed: 180033379 #26.
+2018-04-20 12:24:10,016 - shotaowl - Trying to like media: 1761874546418587426
+2018-04-20 12:24:11,164 - shotaowl - Liked: 1761874546418587426. Like #79.
+2018-04-20 12:24:29,174 - shotaowl - Already followed before 7556956169
+2018-04-20 12:25:29,230 - shotaowl - Trying to like media: 1761874506840557657
+2018-04-20 12:25:30,339 - shotaowl - Liked: 1761874506840557657. Like #80.
+2018-04-20 12:26:51,407 - shotaowl - Trying to follow: 241877369
+2018-04-20 12:26:54,044 - shotaowl - Followed: 241877369 #24.
+2018-04-20 12:26:59,759 - shotaowl - Trying to like media: 1761874462615067443
+2018-04-20 12:27:00,787 - shotaowl - Liked: 1761874462615067443. Like #81.
+2018-04-20 12:28:33,882 - shotaowl - Trying to like media: 1761874021391212329
+2018-04-20 12:28:35,504 - shotaowl - Liked: 1761874021391212329. Like #82.
+2018-04-20 12:28:38,508 - shotaowl - Trying to unfollow #27: 
+2018-04-20 12:28:38,513 - shotaowl - _shamsher_pb06
+2018-04-20 12:28:41,920 - shotaowl - Unfollowed: 4221530764 #27.
+2018-04-20 12:30:12,019 - shotaowl - Trying to like media: 1761873968451300001
+2018-04-20 12:30:13,205 - shotaowl - Liked: 1761873968451300001. Like #83.
+2018-04-20 12:31:49,286 - shotaowl - Trying to like media: 1761873686561103542
+2018-04-20 12:31:51,185 - shotaowl - Liked: 1761873686561103542. Like #84.
+2018-04-20 12:31:54,187 - shotaowl - Trying to follow: 4164131234
+2018-04-20 12:31:55,312 - shotaowl - Followed: 4164131234 #25.
+2018-04-20 12:33:27,238 - shotaowl - Trying to like media: 1761873279846545087
+2018-04-20 12:33:30,140 - shotaowl - Liked: 1761873279846545087. Like #85.
+2018-04-20 12:33:54,157 - shotaowl - Trying to unfollow #28: 
+2018-04-20 12:33:54,162 - shotaowl - twiceforeverfanclub
+2018-04-20 12:33:56,686 - shotaowl - Unfollowed: 3482892725 #28.
+2018-04-20 12:34:50,744 - shotaowl - Trying to like media: 1761873275694233802
+2018-04-20 12:34:52,069 - shotaowl - Liked: 1761873275694233802. Like #86.
+2018-04-20 12:36:22,147 - shotaowl - Trying to like media: 1761873252458679770
+2018-04-20 12:36:23,730 - shotaowl - Liked: 1761873252458679770. Like #87.
+2018-04-20 12:37:08,769 - shotaowl - Trying to follow: 3142144403
+2018-04-20 12:37:17,020 - shotaowl - Followed: 3142144403 #26.
+2018-04-20 12:37:55,822 - shotaowl - Trying to like media: 1761873225614588738
+2018-04-20 12:37:57,627 - shotaowl - Liked: 1761873225614588738. Like #88.
+2018-04-20 12:38:21,654 - shotaowl - Trying to unfollow #29: 
+2018-04-20 12:38:21,660 - shotaowl - jeane_neji
+2018-04-20 12:38:23,852 - shotaowl - Unfollowed: 2052900168 #29.
+2018-04-20 12:39:32,925 - shotaowl - Trying to like media: 1761873202035139129
+2018-04-20 12:39:33,916 - shotaowl - Liked: 1761873202035139129. Like #89.
+2018-04-20 12:41:10,015 - shotaowl - Trying to like media: 1761873194938277453
+2018-04-20 12:41:12,865 - shotaowl - Liked: 1761873194938277453. Like #90.
+2018-04-20 12:42:03,903 - shotaowl - Already followed before 3548182862
+2018-04-20 12:42:39,940 - shotaowl - Trying to like media: 1761873107914014663
+2018-04-20 12:42:40,683 - shotaowl - Not liked: 400
+2018-04-20 12:43:37,737 - shotaowl - Trying to unfollow #30: 
+2018-04-20 12:43:37,739 - shotaowl - s.e.s.t.i.n.a
+2018-04-20 12:43:39,321 - shotaowl - Unfollowed: 7135101423 #30.
+2018-04-20 12:44:00,348 - shotaowl - Trying to like media: 1761873086121906650
+2018-04-20 12:44:03,512 - shotaowl - Liked: 1761873086121906650. Like #91.
+2018-04-20 12:44:36,543 - shotaowl - Trying to follow: 1572590249
+2018-04-20 12:44:44,641 - shotaowl - Followed: 1572590249 #27.
+2018-04-20 12:45:24,139 - shotaowl - Trying to like media: 1761873048782464357
+2018-04-20 12:45:26,409 - shotaowl - Liked: 1761873048782464357. Like #92.
+2018-04-20 12:46:47,480 - shotaowl - Trying to like media: 1761872930713502245
+2018-04-20 12:46:48,385 - shotaowl - Liked: 1761872930713502245. Like #93.
+2018-04-20 12:48:12,455 - shotaowl - Trying to like media: 1761872702240639324
+2018-04-20 12:48:14,016 - shotaowl - Liked: 1761872702240639324. Like #94.
+2018-04-20 12:48:56,053 - shotaowl - Trying to unfollow #31: 
+2018-04-20 12:48:56,056 - shotaowl - unitedsetups
+2018-04-20 12:48:56,944 - shotaowl - Unfollowed: 2909761302 #31.
+2018-04-20 12:49:38,992 - shotaowl - Trying to like media: 1761872522364887925
+2018-04-20 12:49:40,103 - shotaowl - Liked: 1761872522364887925. Like #95.
+2018-04-20 12:49:40,104 - shotaowl - Trying to follow: 7281417970
+2018-04-20 12:49:41,380 - shotaowl - Followed: 7281417970 #28.
+2018-04-20 12:51:10,170 - shotaowl - Trying to like media: 1761848777731012692
+2018-04-20 12:51:11,458 - shotaowl - Liked: 1761848777731012692. Like #96.
+2018-04-20 12:52:44,548 - shotaowl - Trying to like media: 1761872463274407774
+2018-04-20 12:52:46,453 - shotaowl - Liked: 1761872463274407774. Like #97.
+2018-04-20 12:53:28,493 - shotaowl - Trying to unfollow #32: 
+2018-04-20 12:53:28,495 - shotaowl - bcok2323
+2018-04-20 12:53:29,559 - shotaowl - Unfollowed: 289745807 #32.
+2018-04-20 12:54:08,592 - shotaowl - Trying to follow: 7040006831
+2018-04-20 12:54:10,160 - shotaowl - Followed: 7040006831 #29.
+2018-04-20 12:54:14,470 - shotaowl - Trying to like media: 1761872445280661496
+2018-04-20 12:54:15,692 - shotaowl - Liked: 1761872445280661496. Like #98.
+2018-04-20 12:55:36,740 - shotaowl - Trying to like media: 1761872080855744000
+2018-04-20 12:55:37,424 - shotaowl - Liked: 1761872080855744000. Like #99.
+2018-04-20 12:57:13,509 - shotaowl - Trying to like media: 1761872068323688726
+2018-04-20 12:57:14,824 - shotaowl - Liked: 1761872068323688726. Like #100.
+2018-04-20 12:58:02,868 - shotaowl - Trying to unfollow #33: 
+2018-04-20 12:58:02,870 - shotaowl - alanapoli
+2018-04-20 12:58:04,157 - shotaowl - Unfollowed: 49494758 #33.
+2018-04-20 12:58:40,186 - shotaowl - Trying to like media: 1761872054271302931
+2018-04-20 12:58:41,279 - shotaowl - Liked: 1761872054271302931. Like #101.
+2018-04-20 12:59:17,313 - shotaowl - Already followed before 1540003123
+2018-04-20 13:00:02,351 - shotaowl - Trying to like media: 1761867373277528829
+2018-04-20 13:00:03,217 - shotaowl - Liked: 1761867373277528829. Like #102.
+2018-04-20 13:01:24,294 - shotaowl - Trying to like media: 1761871894719852896
+2018-04-20 13:01:26,093 - shotaowl - Not liked: 400
+2018-04-20 13:01:29,105 - shotaowl - Trying to follow: 7059860601
+2018-04-20 13:01:29,968 - shotaowl - Followed: 7059860601 #30.
+2018-04-20 13:02:42,959 - shotaowl - Trying to unfollow #34: 
+2018-04-20 13:02:42,960 - shotaowl - heaven_brands_shoes
+2018-04-20 13:02:43,725 - shotaowl - Unfollowed: 6292109316 #34.
+2018-04-20 13:02:46,734 - shotaowl - Trying to like media: 1761871822023930693
+2018-04-20 13:02:48,507 - shotaowl - Liked: 1761871822023930693. Like #103.
+2018-04-20 13:04:15,588 - shotaowl - Trying to like media: 1761871766046861652
+2018-04-20 13:04:17,238 - shotaowl - Liked: 1761871766046861652. Like #104.
+2018-04-20 13:05:47,312 - shotaowl - Trying to like media: 1761871727863263890
+2018-04-20 13:05:49,841 - shotaowl - Liked: 1761871727863263890. Like #105.
+2018-04-20 13:06:07,853 - shotaowl - Already followed before 2122284972
+2018-04-20 13:07:13,916 - shotaowl - Trying to like media: 1761871698939148467
+2018-04-20 13:07:14,596 - shotaowl - Liked: 1761871698939148467. Like #106.
+2018-04-20 13:07:23,604 - shotaowl - Trying to unfollow #35: 
+2018-04-20 13:07:23,606 - shotaowl - riinaslvt
+2018-04-20 13:07:25,374 - shotaowl - Unfollowed: 7066826938 #35.
+2018-04-20 13:08:19,430 - shotaowl - Trying to follow: 6930159162
+2018-04-20 13:08:20,882 - shotaowl - Followed: 6930159162 #31.
+2018-04-20 13:08:43,826 - shotaowl - Trying to like media: 1761871532542747059
+2018-04-20 13:08:44,835 - shotaowl - Liked: 1761871532542747059. Like #107.
+2018-04-20 13:08:47,838 - shotaowl - Get media id by tag: krasnaypolyna
+2018-04-20 13:08:49,672 - shotaowl - Removing already liked medias..
+2018-04-20 13:12:07,898 - shotaowl - Trying to unfollow #36: 
+2018-04-20 13:12:07,900 - shotaowl - denissistek
+2018-04-20 13:12:09,276 - shotaowl - Unfollowed: 1001527124 #36.
+2018-04-20 13:12:39,309 - shotaowl - Get media id by tag: сочи
+2018-04-20 13:12:41,449 - shotaowl - Removing already liked medias..
+2018-04-20 13:12:41,498 - shotaowl - Trying to like media: 1761902340460737719
+2018-04-20 13:12:42,855 - shotaowl - Liked: 1761902340460737719. Like #108.
+2018-04-20 13:12:57,868 - shotaowl - Trying to follow: 1704989616
+2018-04-20 13:12:59,155 - shotaowl - Followed: 1704989616 #32.
+2018-04-20 13:14:18,137 - shotaowl - Trying to like media: 1761902064784845133
+2018-04-20 13:14:21,413 - shotaowl - Liked: 1761902064784845133. Like #109.
+2018-04-20 13:15:39,483 - shotaowl - Trying to like media: 1761902048686739403
+2018-04-20 13:15:40,767 - shotaowl - Liked: 1761902048686739403. Like #110.
+2018-04-20 13:17:01,841 - shotaowl - Trying to unfollow #37: 
+2018-04-20 13:17:01,843 - shotaowl - vttoferro
+2018-04-20 13:17:02,671 - shotaowl - Unfollowed: 2134529803 #37.
+2018-04-20 13:17:14,690 - shotaowl - Trying to like media: 1761902032657884685
+2018-04-20 13:17:16,867 - shotaowl - Liked: 1761902032657884685. Like #111.
+2018-04-20 13:17:49,890 - shotaowl - Trying to follow: 3471011464
+2018-04-20 13:17:51,105 - shotaowl - Followed: 3471011464 #33.
+2018-04-20 13:18:49,915 - shotaowl - Trying to like media: 1761901893037852686
+2018-04-20 13:18:51,401 - shotaowl - Liked: 1761901893037852686. Like #112.
+2018-04-20 13:20:27,475 - shotaowl - Trying to like media: 1761901883482760858
+2018-04-20 13:20:28,942 - shotaowl - Liked: 1761901883482760858. Like #113.
+2018-04-20 13:21:37,996 - shotaowl - Trying to unfollow #38: 
+2018-04-20 13:21:37,998 - shotaowl - nataliyasalina
+2018-04-20 13:21:39,937 - shotaowl - Unfollowed: 1391085197 #38.
+2018-04-20 13:21:48,952 - shotaowl - Trying to like media: 1761901681040629730
+2018-04-20 13:21:50,103 - shotaowl - Liked: 1761901681040629730. Like #114.
+2018-04-20 13:22:38,147 - shotaowl - Trying to follow: 5439533101
+2018-04-20 13:22:39,087 - shotaowl - Followed: 5439533101 #34.
+2018-04-20 13:23:10,152 - shotaowl - Trying to like media: 1761901671493787476
+2018-04-20 13:23:11,037 - shotaowl - Liked: 1761901671493787476. Like #115.
+2018-04-20 13:24:47,133 - shotaowl - Trying to like media: 1761901671544551959
+2018-04-20 13:24:48,770 - shotaowl - Liked: 1761901671544551959. Like #116.
+2018-04-20 13:26:18,848 - shotaowl - Trying to like media: 1761901506465128901
+2018-04-20 13:26:25,849 - shotaowl - Liked: 1761901506465128901. Like #117.
+2018-04-20 13:26:34,857 - shotaowl - Trying to unfollow #39: 
+2018-04-20 13:26:34,859 - shotaowl - jacopolampo
+2018-04-20 13:26:36,265 - shotaowl - Unfollowed: 367572884 #39.
+2018-04-20 13:27:06,300 - shotaowl - Trying to follow: 1674452860
+2018-04-20 13:27:07,335 - shotaowl - Followed: 1674452860 #35.
+2018-04-20 13:27:50,654 - shotaowl - Trying to like media: 1761901496674529990
+2018-04-20 13:27:52,140 - shotaowl - Liked: 1761901496674529990. Like #118.
+2018-04-20 13:27:55,144 - shotaowl - Get media id by tag: krasnaypolyna
+2018-04-20 13:27:57,143 - shotaowl - Removing already liked medias..
+2018-04-20 13:31:48,401 - shotaowl - Get media id by tag: sovarium
+2018-04-20 13:32:04,920 - shotaowl - Removing already liked medias..
+2018-04-20 13:32:04,955 - shotaowl - Trying to unfollow #40: 
+2018-04-20 13:32:04,957 - shotaowl - hajarasingh
+2018-04-20 13:32:07,804 - shotaowl - Unfollowed: 246121949 #40.
+2018-04-20 13:32:19,821 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 13:32:22,825 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 13:32:25,828 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 13:32:28,837 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 13:32:31,840 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 13:32:34,843 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 13:32:37,847 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 13:32:40,849 - shotaowl - Already followed before 400008479
+2018-04-20 13:34:40,955 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 13:34:43,097 - shotaowl - Removing already liked medias..
+2018-04-20 13:34:43,132 - shotaowl - Trying to like media: 1761913325535753888
+2018-04-20 13:34:44,947 - shotaowl - Liked: 1761913325535753888. Like #119.
+2018-04-20 13:35:11,975 - shotaowl - Already followed before 2343658472
+2018-04-20 13:36:06,032 - shotaowl - Trying to like media: 1761912648156303336
+2018-04-20 13:36:07,461 - shotaowl - Liked: 1761912648156303336. Like #120.
+2018-04-20 13:37:04,518 - shotaowl - Trying to unfollow #41: 
+2018-04-20 13:37:04,519 - shotaowl - bigcat_50
+2018-04-20 13:37:06,331 - shotaowl - Unfollowed: 55982268 #41.
+2018-04-20 13:37:36,370 - shotaowl - Trying to like media: 1761911646831649496
+2018-04-20 13:37:37,587 - shotaowl - Liked: 1761911646831649496. Like #121.
+2018-04-20 13:37:49,601 - shotaowl - Trying to follow: 812089080
+2018-04-20 13:37:50,643 - shotaowl - Followed: 812089080 #36.
+2018-04-20 13:38:57,542 - shotaowl - Trying to like media: 1761906073607876832
+2018-04-20 13:38:59,083 - shotaowl - Liked: 1761906073607876832. Like #122.
+2018-04-20 13:40:35,167 - shotaowl - Trying to like media: 1761910609590132467
+2018-04-20 13:40:37,527 - shotaowl - Liked: 1761910609590132467. Like #123.
+2018-04-20 13:41:31,573 - shotaowl - Trying to unfollow #42: 
+2018-04-20 13:41:31,576 - shotaowl - 05____mmm
+2018-04-20 13:41:32,263 - shotaowl - Unfollowed: 7005619453 #42.
+2018-04-20 13:42:05,304 - shotaowl - Trying to like media: 1761909665057628790
+2018-04-20 13:42:06,461 - shotaowl - Liked: 1761909665057628790. Like #124.
+2018-04-20 13:43:03,514 - shotaowl - Trying to follow: 5630009384
+2018-04-20 13:43:04,825 - shotaowl - Followed: 5630009384 #37.
+2018-04-20 13:43:42,364 - shotaowl - Trying to like media: 1761908424414659743
+2018-04-20 13:43:43,431 - shotaowl - Liked: 1761908424414659743. Like #125.
+2018-04-20 13:45:13,517 - shotaowl - Trying to like media: 1761908006915431410
+2018-04-20 13:45:14,832 - shotaowl - Liked: 1761908006915431410. Like #126.
+2018-04-20 13:45:17,834 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 13:45:20,265 - shotaowl - Removing already liked medias..
+2018-04-20 13:45:59,335 - shotaowl - Trying to unfollow #43: 
+2018-04-20 13:45:59,337 - shotaowl - iam_stevethedog
+2018-04-20 13:46:00,478 - shotaowl - Unfollowed: 6254128546 #43.
+2018-04-20 13:46:45,527 - shotaowl - Trying to like media: 1761918165250307395
+2018-04-20 13:46:46,722 - shotaowl - Liked: 1761918165250307395. Like #127.
+2018-04-20 13:47:55,783 - shotaowl - Already followed before 293964503
+2018-04-20 13:48:13,804 - shotaowl - Trying to like media: 1761911410416512522
+2018-04-20 13:48:14,711 - shotaowl - Liked: 1761911410416512522. Like #128.
+2018-04-20 13:49:38,788 - shotaowl - Trying to like media: 1761910335374454462
+2018-04-20 13:49:40,860 - shotaowl - Liked: 1761910335374454462. Like #129.
+2018-04-20 13:50:13,894 - shotaowl - Trying to follow: 245714818
+2018-04-20 13:50:15,076 - shotaowl - Followed: 245714818 #38.
+2018-04-20 13:50:58,221 - shotaowl - Trying to unfollow #44: 
+2018-04-20 13:50:58,224 - shotaowl - hideyoiskawaii
+2018-04-20 13:50:59,065 - shotaowl - Unfollowed: 6111879311 #44.
+2018-04-20 13:51:14,086 - shotaowl - Trying to like media: 1761909589962798160
+2018-04-20 13:51:15,063 - shotaowl - Liked: 1761909589962798160. Like #130.
+2018-04-20 13:52:48,148 - shotaowl - Trying to like media: 1761909467421956432
+2018-04-20 13:52:49,393 - shotaowl - Liked: 1761909467421956432. Like #131.
+2018-04-20 13:54:19,486 - shotaowl - Trying to like media: 1761909162487698955
+2018-04-20 13:54:21,688 - shotaowl - Liked: 1761909162487698955. Like #132.
+2018-04-20 13:55:30,759 - shotaowl - Trying to follow: 3752470060
+2018-04-20 13:55:32,109 - shotaowl - Followed: 3752470060 #39.
+2018-04-20 13:55:51,638 - shotaowl - Trying to like media: 1761908941590540014
+2018-04-20 13:55:53,286 - shotaowl - Liked: 1761908941590540014. Like #133.
+2018-04-20 13:56:14,305 - shotaowl - Trying to unfollow #45: 
+2018-04-20 13:56:14,306 - shotaowl - vibrant_vibes_on
+2018-04-20 13:56:14,904 - shotaowl - Unfollowed: 7455423550 #45.
+2018-04-20 13:57:26,988 - shotaowl - Trying to like media: 1761908832278449801
+2018-04-20 13:57:28,121 - shotaowl - Liked: 1761908832278449801. Like #134.
+2018-04-20 13:59:01,209 - shotaowl - Trying to like media: 1761908024723975959
+2018-04-20 13:59:02,642 - shotaowl - Liked: 1761908024723975959. Like #135.
+2018-04-20 14:00:35,730 - shotaowl - Trying to like media: 1761907696855372821
+2018-04-20 14:00:36,433 - shotaowl - Liked: 1761907696855372821. Like #136.
+2018-04-20 14:00:45,444 - shotaowl - Trying to follow: 7357681453
+2018-04-20 14:00:46,929 - shotaowl - Followed: 7357681453 #40.
+2018-04-20 14:00:56,986 - shotaowl - Trying to unfollow #46: 
+2018-04-20 14:00:56,987 - shotaowl - work_johann
+2018-04-20 14:00:57,923 - shotaowl - Unfollowed: 3249631066 #46.
+2018-04-20 14:02:03,992 - shotaowl - Trying to like media: 1761905665594711692
+2018-04-20 14:02:05,122 - shotaowl - Liked: 1761905665594711692. Like #137.
+2018-04-20 14:03:32,199 - shotaowl - Trying to like media: 1761899233731281758
+2018-04-20 14:03:33,697 - shotaowl - Liked: 1761899233731281758. Like #138.
+2018-04-20 14:05:09,771 - shotaowl - Trying to like media: 1761896837297820702
+2018-04-20 14:05:10,789 - shotaowl - Liked: 1761896837297820702. Like #139.
+2018-04-20 14:05:16,794 - shotaowl - Trying to follow: 5040199036
+2018-04-20 14:05:18,200 - shotaowl - Followed: 5040199036 #41.
+2018-04-20 14:06:13,253 - shotaowl - Trying to unfollow #47: 
+2018-04-20 14:06:13,255 - shotaowl - lindymaygo
+2018-04-20 14:06:14,404 - shotaowl - Unfollowed: 7486599586 #47.
+2018-04-20 14:06:32,428 - shotaowl - Trying to like media: 1761896107379545570
+2018-04-20 14:06:33,607 - shotaowl - Liked: 1761896107379545570. Like #140.
+2018-04-20 14:08:03,692 - shotaowl - Trying to like media: 1761895734388493509
+2018-04-20 14:08:04,680 - shotaowl - Liked: 1761895734388493509. Like #141.
+2018-04-20 14:09:25,751 - shotaowl - Trying to like media: 1761891323014297106
+2018-04-20 14:09:27,526 - shotaowl - Liked: 1761891323014297106. Like #142.
+2018-04-20 14:10:09,561 - shotaowl - Trying to follow: 1369363169
+2018-04-20 14:10:10,702 - shotaowl - Followed: 1369363169 #42.
+2018-04-20 14:10:38,733 - shotaowl - Trying to unfollow #48: 
+2018-04-20 14:10:38,735 - shotaowl - badansaziiran
+2018-04-20 14:10:39,748 - shotaowl - Unfollowed: 2377231004 #48.
+2018-04-20 14:10:51,765 - shotaowl - Trying to like media: 1761890760707418974
+2018-04-20 14:10:52,568 - shotaowl - Liked: 1761890760707418974. Like #143.
+2018-04-20 14:12:19,637 - shotaowl - Trying to like media: 1761877152373153815
+2018-04-20 14:12:20,593 - shotaowl - Liked: 1761877152373153815. Like #144.
+2018-04-20 14:13:50,680 - shotaowl - Trying to like media: 1761873479815544159
+2018-04-20 14:13:52,486 - shotaowl - Liked: 1761873479815544159. Like #145.
+2018-04-20 14:13:55,491 - shotaowl - Get media id by tag: газпромлаура
+2018-04-20 14:13:57,587 - shotaowl - Removing already liked medias..
+2018-04-20 14:15:27,708 - shotaowl - Already followed before 225931782
+2018-04-20 14:15:30,711 - shotaowl - Trying to unfollow #49: 
+2018-04-20 14:15:30,715 - shotaowl - mrmrgrm
+2018-04-20 14:15:31,703 - shotaowl - Unfollowed: 4346375228 #49.
+2018-04-20 14:16:25,751 - shotaowl - Get media id by tag: sovarium
+2018-04-20 14:16:28,105 - shotaowl - Removing already liked medias..
+2018-04-20 14:18:04,263 - shotaowl - Trying to follow: 3974767035
+2018-04-20 14:18:05,338 - shotaowl - Followed: 3974767035 #43.
+2018-04-20 14:19:03,264 - shotaowl - Get media id by tag: krasnaypolyna
+2018-04-20 14:19:05,544 - shotaowl - Removing already liked medias..
+2018-04-20 14:20:35,680 - shotaowl - Trying to unfollow #50: 
+2018-04-20 14:20:35,682 - shotaowl - travidoris
+2018-04-20 14:20:36,674 - shotaowl - Unfollowed: 652575139 #50.
+2018-04-20 14:21:39,751 - shotaowl - Get media id by tag: sochi
+2018-04-20 14:21:42,057 - shotaowl - Removing already liked medias..
+2018-04-20 14:21:42,108 - shotaowl - Trying to like media: 1761936600626341763
+2018-04-20 14:21:43,324 - shotaowl - Liked: 1761936600626341763. Like #146.
+2018-04-20 14:23:04,407 - shotaowl - Trying to follow: 280860509
+2018-04-20 14:23:07,003 - shotaowl - Followed: 280860509 #44.
+2018-04-20 14:23:11,477 - shotaowl - Trying to like media: 1761936263882965137
+2018-04-20 14:23:13,267 - shotaowl - Liked: 1761936263882965137. Like #147.
+2018-04-20 14:24:37,355 - shotaowl - Trying to like media: 1761935768141370938
+2018-04-20 14:24:38,424 - shotaowl - Liked: 1761935768141370938. Like #148.
+2018-04-20 14:25:47,491 - shotaowl - Trying to unfollow #51: 
+2018-04-20 14:25:47,493 - shotaowl - ksenikin
+2018-04-20 14:25:48,990 - shotaowl - Unfollowed: 419141301 #51.
+2018-04-20 14:26:04,015 - shotaowl - Trying to like media: 1761934992949505194
+2018-04-20 14:26:05,506 - shotaowl - Liked: 1761934992949505194. Like #149.
+2018-04-20 14:27:29,591 - shotaowl - Trying to like media: 1761932091447357616
+2018-04-20 14:27:30,635 - shotaowl - Liked: 1761932091447357616. Like #150.
+2018-04-20 14:28:15,683 - shotaowl - Trying to follow: 7025079828
+2018-04-20 14:28:17,289 - shotaowl - Followed: 7025079828 #45.
+2018-04-20 14:28:54,357 - shotaowl - Trying to like media: 1761934349417317004
+2018-04-20 14:28:55,607 - shotaowl - Liked: 1761934349417317004. Like #151.
+2018-04-20 14:30:28,696 - shotaowl - Trying to like media: 1761933697161220943
+2018-04-20 14:30:29,601 - shotaowl - Liked: 1761933697161220943. Like #152.
+2018-04-20 14:30:38,609 - shotaowl - Trying to unfollow #52: 
+2018-04-20 14:30:38,611 - shotaowl - aykutyasakci
+2018-04-20 14:30:41,282 - shotaowl - Unfollowed: 2155095850 #52.
+2018-04-20 14:31:53,356 - shotaowl - Trying to like media: 1761933142707775149
+2018-04-20 14:31:53,889 - shotaowl - Liked: 1761933142707775149. Like #153.
+2018-04-20 14:33:23,994 - shotaowl - Trying to like media: 1761932348254881273
+2018-04-20 14:33:25,733 - shotaowl - Liked: 1761932348254881273. Like #154.
+2018-04-20 14:33:31,742 - shotaowl - Trying to follow: 1510828921
+2018-04-20 14:33:32,806 - shotaowl - Followed: 1510828921 #46.
+2018-04-20 14:34:52,415 - shotaowl - Trying to like media: 1761932268094843219
+2018-04-20 14:34:53,340 - shotaowl - Liked: 1761932268094843219. Like #155.
+2018-04-20 14:35:23,371 - shotaowl - Trying to unfollow #53: 
+2018-04-20 14:35:23,373 - shotaowl - anxietyinabox
+2018-04-20 14:35:24,837 - shotaowl - Unfollowed: 7514089511 #53.
+2018-04-20 14:36:15,893 - shotaowl - Trying to like media: 1761932067833420802
+2018-04-20 14:36:16,609 - shotaowl - Liked: 1761932067833420802. Like #156.
+2018-04-20 14:37:37,694 - shotaowl - Trying to like media: 1761931219032339107
+2018-04-20 14:37:39,122 - shotaowl - Liked: 1761931219032339107. Like #157.
+2018-04-20 14:38:12,159 - shotaowl - Trying to follow: 5725317781
+2018-04-20 14:38:13,348 - shotaowl - Followed: 5725317781 #47.
+2018-04-20 14:39:14,534 - shotaowl - Trying to like media: 1761931219274533030
+2018-04-20 14:39:15,824 - shotaowl - Liked: 1761931219274533030. Like #158.
+2018-04-20 14:40:24,901 - shotaowl - Trying to unfollow #54: 
+2018-04-20 14:40:24,904 - shotaowl - rudyandclyde
+2018-04-20 14:40:25,874 - shotaowl - Unfollowed: 6946322554 #54.
+2018-04-20 14:40:46,908 - shotaowl - Trying to like media: 1761931082649039282
+2018-04-20 14:40:48,537 - shotaowl - Liked: 1761931082649039282. Like #159.
+2018-04-20 14:42:15,624 - shotaowl - Trying to like media: 1761930914608613376
+2018-04-20 14:42:16,659 - shotaowl - Liked: 1761930914608613376. Like #160.
+2018-04-20 14:43:25,735 - shotaowl - Trying to follow: 2119733957
+2018-04-20 14:43:29,436 - shotaowl - Followed: 2119733957 #48.
+2018-04-20 14:43:54,314 - shotaowl - Trying to like media: 1761930003800197788
+2018-04-20 14:43:55,083 - shotaowl - Liked: 1761930003800197788. Like #161.
+2018-04-20 14:45:22,165 - shotaowl - Trying to unfollow #55: 
+2018-04-20 14:45:22,167 - shotaowl - mpernozzoli
+2018-04-20 14:45:22,945 - shotaowl - Unfollowed: 2122838329 #55.
+2018-04-20 14:45:25,958 - shotaowl - Trying to like media: 1761929525437964624
+2018-04-20 14:45:27,463 - shotaowl - Liked: 1761929525437964624. Like #162.
+2018-04-20 14:46:57,558 - shotaowl - Trying to like media: 1761929357766913444
+2018-04-20 14:46:58,784 - shotaowl - Liked: 1761929357766913444. Like #163.
+2018-04-20 14:48:16,864 - shotaowl - Trying to follow: 337707425
+2018-04-20 14:48:19,220 - shotaowl - Followed: 337707425 #49.
+2018-04-20 14:48:29,368 - shotaowl - Trying to like media: 1761929260812460818
+2018-04-20 14:48:30,087 - shotaowl - Liked: 1761929260812460818. Like #164.
+2018-04-20 14:50:06,182 - shotaowl - Trying to like media: 1761929213751044745
+2018-04-20 14:50:06,905 - shotaowl - Liked: 1761929213751044745. Like #165.
+2018-04-20 14:50:36,935 - shotaowl - Trying to unfollow #56: 
+2018-04-20 14:50:36,937 - shotaowl - roni_group
+2018-04-20 14:50:39,092 - shotaowl - Unfollowed: 1416856793 #56.
+2018-04-20 14:51:27,141 - shotaowl - Trying to like media: 1761928781378342616
+2018-04-20 14:51:27,929 - shotaowl - Liked: 1761928781378342616. Like #166.
+2018-04-20 14:52:58,030 - shotaowl - Trying to like media: 1761928509577623413
+2018-04-20 14:52:59,281 - shotaowl - Liked: 1761928509577623413. Like #167.
+2018-04-20 14:53:02,286 - shotaowl - Trying to follow: 222303613
+2018-04-20 14:53:04,037 - shotaowl - Followed: 222303613 #50.
+2018-04-20 14:54:29,202 - shotaowl - Trying to like media: 1761928450959390449
+2018-04-20 14:54:30,110 - shotaowl - Liked: 1761928450959390449. Like #168.
+2018-04-20 14:54:33,112 - shotaowl - Get media id by tag: сочи
+2018-04-20 14:54:35,950 - shotaowl - Removing already liked medias..
+2018-04-20 14:55:48,101 - shotaowl - Trying to unfollow #57: 
+2018-04-20 14:55:48,108 - shotaowl - iggibs
+2018-04-20 14:55:48,650 - shotaowl - Unfollowed: 1902110274 #57.
+2018-04-20 14:55:57,674 - shotaowl - Trying to like media: 1761953597421414018
+2018-04-20 14:55:59,490 - shotaowl - Liked: 1761953597421414018. Like #169.
+2018-04-20 14:57:29,578 - shotaowl - Trying to like media: 1761953541151770949
+2018-04-20 14:57:30,593 - shotaowl - Liked: 1761953541151770949. Like #170.
+2018-04-20 14:57:30,595 - shotaowl - Trying to follow: 6379189502
+2018-04-20 14:57:32,264 - shotaowl - Followed: 6379189502 #51.
+2018-04-20 14:58:54,396 - shotaowl - Trying to like media: 1761953543877983562
+2018-04-20 14:58:55,572 - shotaowl - Liked: 1761953543877983562. Like #171.
+2018-04-20 15:00:22,659 - shotaowl - Trying to like media: 1761953428426143449
+2018-04-20 15:00:24,310 - shotaowl - Liked: 1761953428426143449. Like #172.
+2018-04-20 15:00:45,332 - shotaowl - Trying to unfollow #58: 
+2018-04-20 15:00:45,338 - shotaowl - annashootka
+2018-04-20 15:00:45,984 - shotaowl - Unfollowed: 3160678979 #58.
+2018-04-20 15:01:58,068 - shotaowl - Trying to like media: 1761953382162419077
+2018-04-20 15:01:59,287 - shotaowl - Liked: 1761953382162419077. Like #173.
+2018-04-20 15:02:50,333 - shotaowl - Trying to follow: 3912910175
+2018-04-20 15:02:52,019 - shotaowl - Followed: 3912910175 #52.
+2018-04-20 15:03:26,094 - shotaowl - Trying to like media: 1761953276431406349
+2018-04-20 15:03:27,019 - shotaowl - Liked: 1761953276431406349. Like #174.
+2018-04-20 15:04:57,118 - shotaowl - Trying to like media: 1761953268790258524
+2018-04-20 15:04:58,211 - shotaowl - Liked: 1761953268790258524. Like #175.
+2018-04-20 15:05:52,271 - shotaowl - Trying to unfollow #59: 
+2018-04-20 15:05:52,277 - shotaowl - alisa_fashion_shop2017
+2018-04-20 15:05:53,832 - shotaowl - Unfollowed: 6197257623 #59.
+2018-04-20 15:06:29,886 - shotaowl - Trying to like media: 1761952987193060658
+2018-04-20 15:06:31,196 - shotaowl - Liked: 1761952987193060658. Like #176.
+2018-04-20 15:08:04,291 - shotaowl - Trying to like media: 1761952982804851964
+2018-04-20 15:08:05,347 - shotaowl - Liked: 1761952982804851964. Like #177.
+2018-04-20 15:08:08,350 - shotaowl - Trying to follow: 3645088948
+2018-04-20 15:08:10,059 - shotaowl - Followed: 3645088948 #53.
+2018-04-20 15:09:29,078 - shotaowl - Trying to like media: 1761952916544304425
+2018-04-20 15:09:30,180 - shotaowl - Liked: 1761952916544304425. Like #178.
+2018-04-20 15:10:36,248 - shotaowl - Trying to unfollow #60: 
+2018-04-20 15:10:36,249 - shotaowl - irshad__lone
+2018-04-20 15:10:37,931 - shotaowl - Unfollowed: 1942757727 #60.
+2018-04-20 15:11:04,974 - shotaowl - Trying to like media: 1761952817213826533
+2018-04-20 15:11:06,082 - shotaowl - Liked: 1761952817213826533. Like #179.
+2018-04-20 15:12:27,166 - shotaowl - Trying to like media: 1761952572309860766
+2018-04-20 15:12:28,198 - shotaowl - Liked: 1761952572309860766. Like #180.
+2018-04-20 15:13:04,238 - shotaowl - Trying to follow: 7102254856
+2018-04-20 15:13:05,893 - shotaowl - Followed: 7102254856 #54.
+2018-04-20 15:13:49,211 - shotaowl - Trying to like media: 1761952567862373006
+2018-04-20 15:13:50,185 - shotaowl - Liked: 1761952567862373006. Like #181.
+2018-04-20 15:15:17,274 - shotaowl - Trying to like media: 1761952543871999600
+2018-04-20 15:15:18,448 - shotaowl - Liked: 1761952543871999600. Like #182.
+2018-04-20 15:15:18,448 - shotaowl - Trying to unfollow #61: 
+2018-04-20 15:15:18,452 - shotaowl - glazedmangos
+2018-04-20 15:15:19,902 - shotaowl - Unfollowed: 6525411091 #61.
+2018-04-20 15:16:46,993 - shotaowl - Trying to like media: 1761951569374418578
+2018-04-20 15:16:47,239 - shotaowl - Not liked: 400
+2018-04-20 15:17:47,304 - shotaowl - Trying to follow: 3712742553
+2018-04-20 15:17:48,859 - shotaowl - Followed: 3712742553 #55.
+2018-04-20 15:18:16,792 - shotaowl - Trying to like media: 1761952489597664489
+2018-04-20 15:18:17,661 - shotaowl - Liked: 1761952489597664489. Like #183.
+2018-04-20 15:19:38,745 - shotaowl - Trying to like media: 1761952413756424183
+2018-04-20 15:19:39,660 - shotaowl - Liked: 1761952413756424183. Like #184.
+2018-04-20 15:19:54,674 - shotaowl - Trying to unfollow #62: 
+2018-04-20 15:19:54,677 - shotaowl - henrythe_bully
+2018-04-20 15:19:56,145 - shotaowl - Unfollowed: 497137971 #62.
+2018-04-20 15:20:59,211 - shotaowl - Trying to like media: 1761952418913978077
+2018-04-20 15:21:00,209 - shotaowl - Liked: 1761952418913978077. Like #185.
+2018-04-20 15:22:21,286 - shotaowl - Trying to like media: 1761952242192440761
+2018-04-20 15:22:22,201 - shotaowl - Liked: 1761952242192440761. Like #186.
+2018-04-20 15:22:25,206 - shotaowl - Trying to follow: 7055062029
+2018-04-20 15:22:26,964 - shotaowl - Followed: 7055062029 #56.
+2018-04-20 15:23:51,961 - shotaowl - Trying to like media: 1761952182556777018
+2018-04-20 15:23:53,214 - shotaowl - Liked: 1761952182556777018. Like #187.
+2018-04-20 15:24:41,260 - shotaowl - Trying to unfollow #63: 
+2018-04-20 15:24:41,262 - shotaowl - yaylaciogluhome
+2018-04-20 15:24:42,461 - shotaowl - Unfollowed: 2250845929 #63.
+2018-04-20 15:25:21,506 - shotaowl - Trying to like media: 1761952065839341190
+2018-04-20 15:25:22,252 - shotaowl - Liked: 1761952065839341190. Like #188.
+2018-04-20 15:26:46,339 - shotaowl - Trying to like media: 1761951983595549494
+2018-04-20 15:26:47,071 - shotaowl - Liked: 1761951983595549494. Like #189.
+2018-04-20 15:26:59,086 - shotaowl - Trying to follow: 289515186
+2018-04-20 15:27:00,383 - shotaowl - Followed: 289515186 #57.
+2018-04-20 15:28:13,463 - shotaowl - Trying to like media: 1761951431784492321
+2018-04-20 15:28:14,069 - shotaowl - Liked: 1761951431784492321. Like #190.
+2018-04-20 15:29:23,156 - shotaowl - Trying to unfollow #64: 
+2018-04-20 15:29:23,158 - shotaowl - supremesongs
+2018-04-20 15:29:24,222 - shotaowl - Unfollowed: 7395690863 #64.
+2018-04-20 15:29:39,245 - shotaowl - Trying to like media: 1761951354963025791
+2018-04-20 15:29:39,983 - shotaowl - Liked: 1761951354963025791. Like #191.
+2018-04-20 15:31:01,066 - shotaowl - Trying to like media: 1761951217473757656
+2018-04-20 15:31:01,992 - shotaowl - Liked: 1761951217473757656. Like #192.
+2018-04-20 15:32:20,071 - shotaowl - Trying to follow: 7306721082
+2018-04-20 15:32:21,718 - shotaowl - Followed: 7306721082 #58.
+2018-04-20 15:32:28,698 - shotaowl - Trying to like media: 1761951205352150889
+2018-04-20 15:32:29,415 - shotaowl - Liked: 1761951205352150889. Like #193.
+2018-04-20 15:33:56,504 - shotaowl - Trying to like media: 1761951118033830403
+2018-04-20 15:33:57,804 - shotaowl - Liked: 1761951118033830403. Like #194.
+2018-04-20 15:34:33,836 - shotaowl - Trying to unfollow #65: 
+2018-04-20 15:34:33,838 - shotaowl - loukoum_the_rabbit
+2018-04-20 15:34:35,214 - shotaowl - Unfollowed: 7507123706 #65.
+2018-04-20 15:35:35,278 - shotaowl - Trying to like media: 1761945828412699302
+2018-04-20 15:35:36,191 - shotaowl - Liked: 1761945828412699302. Like #195.
+2018-04-20 15:37:03,278 - shotaowl - Trying to like media: 1761951029768775541
+2018-04-20 15:37:04,169 - shotaowl - Liked: 1761951029768775541. Like #196.
+2018-04-20 15:37:31,195 - shotaowl - Trying to follow: 7537919515
+2018-04-20 15:37:33,030 - shotaowl - Followed: 7537919515 #59.
+2018-04-20 15:38:25,093 - shotaowl - Trying to like media: 1761951013747008437
+2018-04-20 15:38:26,036 - shotaowl - Liked: 1761951013747008437. Like #197.
+2018-04-20 15:39:38,101 - shotaowl - Trying to unfollow #66: 
+2018-04-20 15:39:38,103 - shotaowl - greed_tokyo
+2018-04-20 15:39:38,833 - shotaowl - Unfollowed: 353019829 #66.
+2018-04-20 15:39:50,850 - shotaowl - Trying to like media: 1761950920030441375
+2018-04-20 15:39:52,260 - shotaowl - Liked: 1761950920030441375. Like #198.
+2018-04-20 15:41:22,334 - shotaowl - Trying to like media: 1761950832930168276
+2018-04-20 15:41:23,194 - shotaowl - Liked: 1761950832930168276. Like #199.
+2018-04-20 15:42:08,233 - shotaowl - Trying to follow: 2581671746
+2018-04-20 15:42:09,659 - shotaowl - Followed: 2581671746 #60.
+2018-04-20 15:42:52,771 - shotaowl - Trying to like media: 1761950812445267517
+2018-04-20 15:42:53,824 - shotaowl - Liked: 1761950812445267517. Like #200.
+2018-04-20 15:44:14,900 - shotaowl - Trying to like media: 1761950803990855548
+2018-04-20 15:44:16,116 - shotaowl - Liked: 1761950803990855548. Like #201.
+2018-04-20 15:44:28,126 - shotaowl - Trying to unfollow #67: 
+2018-04-20 15:44:28,130 - shotaowl - sillybeautiful
+2018-04-20 15:44:29,527 - shotaowl - Unfollowed: 1637138403 #67.
+2018-04-20 15:45:38,605 - shotaowl - Trying to like media: 1761950741345081149
+2018-04-20 15:45:39,511 - shotaowl - Liked: 1761950741345081149. Like #202.
+2018-04-20 15:46:51,578 - shotaowl - Trying to follow: 4069719028
+2018-04-20 15:46:53,002 - shotaowl - Followed: 4069719028 #61.
+2018-04-20 15:47:11,947 - shotaowl - Trying to like media: 1761950731377986413
+2018-04-20 15:47:13,087 - shotaowl - Liked: 1761950731377986413. Like #203.
+2018-04-20 15:47:16,091 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 15:47:17,575 - shotaowl - Removing already liked medias..
+2018-04-20 15:48:44,707 - shotaowl - Trying to like media: 1761979409554116270
+2018-04-20 15:48:45,812 - shotaowl - Liked: 1761979409554116270. Like #204.
+2018-04-20 15:49:45,873 - shotaowl - Trying to unfollow #68: 
+2018-04-20 15:49:45,876 - shotaowl - dalila9093
+2018-04-20 15:49:47,139 - shotaowl - Unfollowed: 1436415997 #68.
+2018-04-20 15:50:08,174 - shotaowl - Trying to like media: 1761979363384358492
+2018-04-20 15:50:09,404 - shotaowl - Liked: 1761979363384358492. Like #205.
+2018-04-20 15:51:24,465 - shotaowl - Already followed before 7524496510
+2018-04-20 15:51:33,476 - shotaowl - Trying to like media: 1761976705670855848
+2018-04-20 15:51:34,500 - shotaowl - Liked: 1761976705670855848. Like #206.
+2018-04-20 15:53:10,601 - shotaowl - Trying to like media: 1761975884838241854
+2018-04-20 15:53:12,013 - shotaowl - Liked: 1761975884838241854. Like #207.
+2018-04-20 15:53:51,056 - shotaowl - Already followed before 7524496510
+2018-04-20 15:54:24,093 - shotaowl - Trying to unfollow #69: 
+2018-04-20 15:54:24,095 - shotaowl - dogooliver
+2018-04-20 15:54:24,811 - shotaowl - Unfollowed: 5564268252 #69.
+2018-04-20 15:54:42,835 - shotaowl - Trying to like media: 1761975746894939034
+2018-04-20 15:54:44,405 - shotaowl - Liked: 1761975746894939034. Like #208.
+2018-04-20 15:56:05,485 - shotaowl - Trying to like media: 1761975090336463564
+2018-04-20 15:56:06,591 - shotaowl - Liked: 1761975090336463564. Like #209.
+2018-04-20 15:56:12,593 - shotaowl - Already followed before 7524496510
+2018-04-20 15:57:27,669 - shotaowl - Trying to like media: 1761974553271587959
+2018-04-20 15:57:28,994 - shotaowl - Liked: 1761974553271587959. Like #210.
+2018-04-20 15:58:44,074 - shotaowl - Trying to follow: 292222199
+2018-04-20 15:58:45,210 - shotaowl - Followed: 292222199 #62.
+2018-04-20 15:58:49,115 - shotaowl - Trying to like media: 1761969044229275446
+2018-04-20 15:58:50,524 - shotaowl - Liked: 1761969044229275446. Like #211.
+2018-04-20 15:58:59,533 - shotaowl - Trying to unfollow #70: 
+2018-04-20 15:58:59,534 - shotaowl - nerdroof
+2018-04-20 15:59:00,320 - shotaowl - Unfollowed: 1626718563 #70.
+2018-04-20 16:00:15,398 - shotaowl - Trying to like media: 1761973816224376762
+2018-04-20 16:00:16,265 - shotaowl - Liked: 1761973816224376762. Like #212.
+2018-04-20 16:01:46,352 - shotaowl - Trying to like media: 1761972732206432582
+2018-04-20 16:01:47,784 - shotaowl - Liked: 1761972732206432582. Like #213.
+2018-04-20 16:03:17,874 - shotaowl - Trying to like media: 1761972220962587447
+2018-04-20 16:03:18,826 - shotaowl - Liked: 1761972220962587447. Like #214.
+2018-04-20 16:03:33,841 - shotaowl - Trying to follow: 4489022246
+2018-04-20 16:03:35,008 - shotaowl - Followed: 4489022246 #63.
+2018-04-20 16:03:50,953 - shotaowl - Trying to unfollow #71: 
+2018-04-20 16:03:50,955 - shotaowl - ruresident
+2018-04-20 16:03:51,492 - shotaowl - Unfollowed: 287259215 #71.
+2018-04-20 16:04:45,537 - shotaowl - Trying to like media: 1761971760922948035
+2018-04-20 16:04:46,313 - shotaowl - Liked: 1761971760922948035. Like #215.
+2018-04-20 16:06:10,391 - shotaowl - Trying to like media: 1761968173600937245
+2018-04-20 16:06:11,286 - shotaowl - Liked: 1761968173600937245. Like #216.
+2018-04-20 16:07:32,367 - shotaowl - Trying to like media: 1761968074607001295
+2018-04-20 16:07:33,845 - shotaowl - Liked: 1761968074607001295. Like #217.
+2018-04-20 16:08:30,895 - shotaowl - Trying to unfollow #72: 
+2018-04-20 16:08:30,896 - shotaowl - ryan_wagz23
+2018-04-20 16:08:31,653 - shotaowl - Unfollowed: 1426443790 #72.
+2018-04-20 16:08:49,679 - shotaowl - Already followed before 449245984
+2018-04-20 16:08:55,687 - shotaowl - Trying to like media: 1761966568366867933
+2018-04-20 16:08:56,267 - shotaowl - Liked: 1761966568366867933. Like #218.
+2018-04-20 16:10:29,343 - shotaowl - Trying to like media: 1761966335119702507
+2018-04-20 16:10:30,315 - shotaowl - Liked: 1761966335119702507. Like #219.
+2018-04-20 16:11:18,368 - shotaowl - Trying to follow: 1422113100
+2018-04-20 16:11:19,634 - shotaowl - Followed: 1422113100 #64.
+2018-04-20 16:11:59,602 - shotaowl - Trying to like media: 1761966055805495953
+2018-04-20 16:12:00,361 - shotaowl - Liked: 1761966055805495953. Like #220.
+2018-04-20 16:13:24,438 - shotaowl - Trying to like media: 1761963648434452334
+2018-04-20 16:13:25,463 - shotaowl - Liked: 1761963648434452334. Like #221.
+2018-04-20 16:13:49,486 - shotaowl - Trying to unfollow #73: 
+2018-04-20 16:13:49,488 - shotaowl - hodor1985
+2018-04-20 16:13:50,829 - shotaowl - Unfollowed: 494152678 #73.
+2018-04-20 16:14:56,888 - shotaowl - Trying to like media: 1761963364362718952
+2018-04-20 16:14:57,974 - shotaowl - Liked: 1761963364362718952. Like #222.
+2018-04-20 16:16:19,055 - shotaowl - Trying to like media: 1761963352468223671
+2018-04-20 16:16:20,402 - shotaowl - Liked: 1761963352468223671. Like #223.
+2018-04-20 16:16:26,407 - shotaowl - Trying to follow: 5591679304
+2018-04-20 16:16:27,377 - shotaowl - Followed: 5591679304 #65.
+2018-04-20 16:17:46,448 - shotaowl - Trying to like media: 1761963039874974846
+2018-04-20 16:17:47,326 - shotaowl - Liked: 1761963039874974846. Like #224.
+2018-04-20 16:18:17,353 - shotaowl - Trying to unfollow #74: 
+2018-04-20 16:18:17,354 - shotaowl - miscela_shop
+2018-04-20 16:18:18,676 - shotaowl - Unfollowed: 2875185980 #74.
+2018-04-20 16:19:09,730 - shotaowl - Trying to like media: 1761962782797177673
+2018-04-20 16:19:10,877 - shotaowl - Liked: 1761962782797177673. Like #225.
+2018-04-20 16:20:37,946 - shotaowl - Trying to like media: 1761962670162260633
+2018-04-20 16:20:38,738 - shotaowl - Liked: 1761962670162260633. Like #226.
+2018-04-20 16:21:23,786 - shotaowl - Already followed before 4137187726
+2018-04-20 16:22:05,823 - shotaowl - Trying to like media: 1761962659677530542
+2018-04-20 16:22:07,384 - shotaowl - Liked: 1761962659677530542. Like #227.
+2018-04-20 16:22:52,431 - shotaowl - Trying to unfollow #75: 
+2018-04-20 16:22:52,436 - shotaowl - _loginova_n_a_
+2018-04-20 16:22:53,541 - shotaowl - Unfollowed: 3643968064 #75.
+2018-04-20 16:23:29,586 - shotaowl - Trying to like media: 1761961522400477440
+2018-04-20 16:23:30,686 - shotaowl - Liked: 1761961522400477440. Like #228.
+2018-04-20 16:23:54,706 - shotaowl - Already followed before 4137187726
+2018-04-20 16:24:54,755 - shotaowl - Trying to like media: 1761961287385096284
+2018-04-20 16:24:55,786 - shotaowl - Liked: 1761961287385096284. Like #229.
+2018-04-20 16:26:28,879 - shotaowl - Trying to like media: 1761960684605073727
+2018-04-20 16:26:30,072 - shotaowl - Liked: 1761960684605073727. Like #230.
+2018-04-20 16:26:33,077 - shotaowl - Get media id by tag: сочи
+2018-04-20 16:26:34,718 - shotaowl - Removing already liked medias..
+2018-04-20 16:26:34,762 - shotaowl - Trying to follow: 282201505
+2018-04-20 16:26:35,656 - shotaowl - Followed: 282201505 #66.
+2018-04-20 16:27:57,402 - shotaowl - Trying to like media: 1761999378041476090
+2018-04-20 16:27:58,339 - shotaowl - Liked: 1761999378041476090. Like #231.
+2018-04-20 16:28:07,347 - shotaowl - Trying to unfollow #76: 
+2018-04-20 16:28:07,349 - shotaowl - life_hacks_tips123
+2018-04-20 16:28:08,702 - shotaowl - Unfollowed: 7359334552 #76.
+2018-04-20 16:29:32,785 - shotaowl - Trying to like media: 1761998719592668767
+2018-04-20 16:29:34,042 - shotaowl - Liked: 1761998719592668767. Like #232.
+2018-04-20 16:31:01,142 - shotaowl - Trying to like media: 1761998515565207251
+2018-04-20 16:31:03,284 - shotaowl - Liked: 1761998515565207251. Like #233.
+2018-04-20 16:31:06,288 - shotaowl - Get media id by tag: krasnaypolyna
+2018-04-20 16:31:08,020 - shotaowl - Removing already liked medias..
+2018-04-20 16:31:35,092 - shotaowl - Already followed before 533620809
+2018-04-20 16:32:47,147 - shotaowl - Trying to unfollow #77: 
+2018-04-20 16:32:47,149 - shotaowl - yuigram_28
+2018-04-20 16:32:48,020 - shotaowl - Unfollowed: 7230598442 #77.
+2018-04-20 16:34:03,109 - shotaowl - Already followed before 3934637824
+2018-04-20 16:35:09,180 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 16:35:10,930 - shotaowl - Removing already liked medias..
+2018-04-20 16:35:10,971 - shotaowl - Trying to like media: 1761994472751004195
+2018-04-20 16:35:11,777 - shotaowl - Liked: 1761994472751004195. Like #234.
+2018-04-20 16:36:41,862 - shotaowl - Already followed before 7524496510
+2018-04-20 16:36:44,866 - shotaowl - Trying to like media: 1761993945795375495
+2018-04-20 16:36:45,746 - shotaowl - Liked: 1761993945795375495. Like #235.
+2018-04-20 16:37:27,782 - shotaowl - Trying to unfollow #78: 
+2018-04-20 16:37:27,784 - shotaowl - kutsushitaya_lumine_ofuna
+2018-04-20 16:37:29,103 - shotaowl - Unfollowed: 3598692661 #78.
+2018-04-20 16:38:08,150 - shotaowl - Trying to like media: 1761993165990351454
+2018-04-20 16:38:08,979 - shotaowl - Liked: 1761993165990351454. Like #236.
+2018-04-20 16:38:54,022 - shotaowl - Already followed before 7524496510
+2018-04-20 16:39:33,049 - shotaowl - Trying to like media: 1761988938358354458
+2018-04-20 16:39:33,988 - shotaowl - Liked: 1761988938358354458. Like #237.
+2018-04-20 16:41:07,077 - shotaowl - Trying to like media: 1761988005377530683
+2018-04-20 16:41:08,456 - shotaowl - Liked: 1761988005377530683. Like #238.
+2018-04-20 16:41:23,468 - shotaowl - Already followed before 7524496510
+2018-04-20 16:42:23,526 - shotaowl - Trying to unfollow #79: 
+2018-04-20 16:42:23,528 - shotaowl - livefredericksellfrederick
+2018-04-20 16:42:24,611 - shotaowl - Unfollowed: 6314742467 #79.
+2018-04-20 16:42:39,634 - shotaowl - Trying to like media: 1761987064653732431
+2018-04-20 16:42:40,768 - shotaowl - Liked: 1761987064653732431. Like #239.
+2018-04-20 16:43:58,832 - shotaowl - Trying to follow: 7050567616
+2018-04-20 16:43:59,763 - shotaowl - Followed: 7050567616 #67.
+2018-04-20 16:44:12,747 - shotaowl - Trying to like media: 1761972786421923277
+2018-04-20 16:44:14,206 - shotaowl - Liked: 1761972786421923277. Like #240.
+2018-04-20 16:45:41,283 - shotaowl - Trying to like media: 1761959196985058934
+2018-04-20 16:45:42,363 - shotaowl - Liked: 1761959196985058934. Like #241.
+2018-04-20 16:47:00,443 - shotaowl - Trying to like media: 1761956344313007132
+2018-04-20 16:47:01,766 - shotaowl - Liked: 1761956344313007132. Like #242.
+2018-04-20 16:47:37,802 - shotaowl - Trying to unfollow #80: 
+2018-04-20 16:47:37,804 - shotaowl - eileenisabelkitty
+2018-04-20 16:47:38,483 - shotaowl - Unfollowed: 5087876555 #80.
+2018-04-20 16:48:38,549 - shotaowl - Trying to like media: 1761954862029330673
+2018-04-20 16:48:39,439 - shotaowl - Liked: 1761954862029330673. Like #243.
+2018-04-20 16:48:57,462 - shotaowl - Trying to follow: 767602806
+2018-04-20 16:48:58,370 - shotaowl - Followed: 767602806 #68.
+2018-04-20 16:50:11,277 - shotaowl - Trying to like media: 1761954410656658344
+2018-04-20 16:50:12,190 - shotaowl - Liked: 1761954410656658344. Like #244.
+2018-04-20 16:51:33,281 - shotaowl - Trying to like media: 1761949081280050675
+2018-04-20 16:51:34,550 - shotaowl - Liked: 1761949081280050675. Like #245.
+2018-04-20 16:52:07,590 - shotaowl - Trying to unfollow #81: 
+2018-04-20 16:52:07,593 - shotaowl - korpspiracy
+2018-04-20 16:52:08,541 - shotaowl - Unfollowed: 4316663651 #81.
+2018-04-20 16:52:56,602 - shotaowl - Trying to like media: 1761948033517832358
+2018-04-20 16:52:57,409 - shotaowl - Liked: 1761948033517832358. Like #246.
+2018-04-20 16:53:21,429 - shotaowl - Already followed before 7524496510
+2018-04-20 16:54:27,501 - shotaowl - Trying to like media: 1761946607638923632
+2018-04-20 16:54:28,428 - shotaowl - Liked: 1761946607638923632. Like #247.
+2018-04-20 16:55:52,516 - shotaowl - Already followed before 7524496510
+2018-04-20 16:55:58,522 - shotaowl - Trying to like media: 1761943964942096026
+2018-04-20 16:56:00,841 - shotaowl - Liked: 1761943964942096026. Like #248.
+2018-04-20 16:56:51,891 - shotaowl - Trying to unfollow #82: 
+2018-04-20 16:56:51,893 - shotaowl - tabbyokinawa
+2018-04-20 16:56:52,619 - shotaowl - Unfollowed: 5426174452 #82.
+2018-04-20 16:57:34,670 - shotaowl - Trying to like media: 1761942848275829076
+2018-04-20 16:57:35,556 - shotaowl - Liked: 1761942848275829076. Like #249.
+2018-04-20 16:58:26,598 - shotaowl - Already followed before 7524496510
+2018-04-20 16:58:56,627 - shotaowl - Trying to like media: 1761941962648472088
+2018-04-20 16:58:57,433 - shotaowl - Liked: 1761941962648472088. Like #250.
+2018-04-20 17:00:27,519 - shotaowl - Trying to like media: 1761939649632514603
+2018-04-20 17:00:28,950 - shotaowl - Liked: 1761939649632514603. Like #251.
+2018-04-20 17:01:01,979 - shotaowl - Trying to follow: 3929673288
+2018-04-20 17:01:03,159 - shotaowl - Followed: 3929673288 #69.
+2018-04-20 17:01:49,228 - shotaowl - Trying to unfollow #83: 
+2018-04-20 17:01:49,231 - shotaowl - gemini2986
+2018-04-20 17:01:50,152 - shotaowl - Unfollowed: 582482089 #83.
+2018-04-20 17:01:56,169 - shotaowl - Trying to like media: 1761938190351260022
+2018-04-20 17:01:56,898 - shotaowl - Liked: 1761938190351260022. Like #252.
+2018-04-20 17:03:29,999 - shotaowl - Keep calm - It's already liked ;)
+2018-04-20 17:03:33,004 - shotaowl - Trying to like media: 1761937611579347912
+2018-04-20 17:03:33,899 - shotaowl - Liked: 1761937611579347912. Like #253.
+2018-04-20 17:05:03,982 - shotaowl - Trying to like media: 1761937444763512321
+2018-04-20 17:05:05,518 - shotaowl - Liked: 1761937444763512321. Like #254.
+2018-04-20 17:05:35,552 - shotaowl - Already followed before 3929673288
+2018-04-20 17:06:26,605 - shotaowl - Trying to like media: 1761937090076238982
+2018-04-20 17:06:27,640 - shotaowl - Liked: 1761937090076238982. Like #255.
+2018-04-20 17:07:03,678 - shotaowl - Trying to unfollow #84: 
+2018-04-20 17:07:03,680 - shotaowl - lartediincidere
+2018-04-20 17:07:05,203 - shotaowl - Unfollowed: 6000128777 #84.
+2018-04-20 17:07:59,262 - shotaowl - Trying to follow: 2079813100
+2018-04-20 17:08:00,511 - shotaowl - Followed: 2079813100 #70.
+2018-04-20 17:08:04,691 - shotaowl - Trying to like media: 1761934948942853950
+2018-04-20 17:08:05,638 - shotaowl - Liked: 1761934948942853950. Like #256.
+2018-04-20 17:09:23,726 - shotaowl - Trying to like media: 1761933263268763030
+2018-04-20 17:09:24,789 - shotaowl - Liked: 1761933263268763030. Like #257.
+2018-04-20 17:11:00,889 - shotaowl - Trying to like media: 1761931537554909421
+2018-04-20 17:11:02,344 - shotaowl - Liked: 1761931537554909421. Like #258.
+2018-04-20 17:12:17,419 - shotaowl - Trying to unfollow #85: 
+2018-04-20 17:12:17,420 - shotaowl - yui738
+2018-04-20 17:12:18,110 - shotaowl - Unfollowed: 218736024 #85.
+2018-04-20 17:12:33,127 - shotaowl - Trying to like media: 1761931476108467037
+2018-04-20 17:12:34,475 - shotaowl - Liked: 1761931476108467037. Like #259.
+2018-04-20 17:12:34,476 - shotaowl - Trying to follow: 497772740
+2018-04-20 17:12:35,235 - shotaowl - Followed: 497772740 #71.
+2018-04-20 17:14:00,100 - shotaowl - Trying to like media: 1761925639868359902
+2018-04-20 17:14:01,266 - shotaowl - Liked: 1761925639868359902. Like #260.
+2018-04-20 17:15:34,354 - shotaowl - Trying to like media: 1761924889457135583
+2018-04-20 17:15:35,852 - shotaowl - Liked: 1761924889457135583. Like #261.
+2018-04-20 17:17:08,946 - shotaowl - Trying to like media: 1761924374471922947
+2018-04-20 17:17:09,796 - shotaowl - Liked: 1761924374471922947. Like #262.
+2018-04-20 17:17:36,825 - shotaowl - Trying to unfollow #86: 
+2018-04-20 17:17:36,832 - shotaowl - _mimimiko_
+2018-04-20 17:17:38,203 - shotaowl - Unfollowed: 4769800523 #86.
+2018-04-20 17:17:44,218 - shotaowl - Trying to follow: 1701289703
+2018-04-20 17:17:45,365 - shotaowl - Followed: 1701289703 #72.
+2018-04-20 17:18:46,346 - shotaowl - Trying to like media: 1761920736711496123
+2018-04-20 17:18:47,469 - shotaowl - Liked: 1761920736711496123. Like #263.
+2018-04-20 17:20:14,558 - shotaowl - Trying to like media: 1761920197173017953
+2018-04-20 17:20:15,485 - shotaowl - Liked: 1761920197173017953. Like #264.
+2018-04-20 17:21:42,576 - shotaowl - Trying to like media: 1761919052237204024
+2018-04-20 17:21:44,025 - shotaowl - Liked: 1761919052237204024. Like #265.
+2018-04-20 17:22:02,044 - shotaowl - Trying to unfollow #87: 
+2018-04-20 17:22:02,047 - shotaowl - mococo520
+2018-04-20 17:22:02,796 - shotaowl - Unfollowed: 3563069789 #87.
+2018-04-20 17:22:26,831 - shotaowl - Already followed before 293964503
+2018-04-20 17:23:23,894 - shotaowl - Trying to like media: 1759426365054515605
+2018-04-20 17:23:24,814 - shotaowl - Liked: 1759426365054515605. Like #266.
+2018-04-20 17:24:48,905 - shotaowl - Trying to like media: 1759426018395249041
+2018-04-20 17:24:50,338 - shotaowl - Liked: 1759426018395249041. Like #267.
+2018-04-20 17:24:53,343 - shotaowl - Already followed before 7524496510
+2018-04-20 17:26:23,437 - shotaowl - Trying to like media: 1759425482396599691
+2018-04-20 17:26:24,199 - shotaowl - Liked: 1759425482396599691. Like #268.
+2018-04-20 17:27:09,241 - shotaowl - Already followed before 7524496510
+2018-04-20 17:27:21,258 - shotaowl - Trying to unfollow #88: 
+2018-04-20 17:27:21,264 - shotaowl - nykmoon__select
+2018-04-20 17:27:22,670 - shotaowl - Unfollowed: 7033712074 #88.
+2018-04-20 17:27:55,716 - shotaowl - Trying to like media: 1759424883601121138
+2018-04-20 17:27:56,659 - shotaowl - Liked: 1759424883601121138. Like #269.
+2018-04-20 17:29:20,747 - shotaowl - Already followed before 7524496510
+2018-04-20 17:29:29,761 - shotaowl - Trying to like media: 1759424268917403609
+2018-04-20 17:29:30,571 - shotaowl - Liked: 1759424268917403609. Like #270.
+2018-04-20 17:31:06,675 - shotaowl - Trying to like media: 1759423758420256464
+2018-04-20 17:31:07,951 - shotaowl - Liked: 1759423758420256464. Like #271.
+2018-04-20 17:31:46,992 - shotaowl - Already followed before 7524496510
+2018-04-20 17:32:32,048 - shotaowl - Trying to like media: 1759423058357517690
+2018-04-20 17:32:32,835 - shotaowl - Liked: 1759423058357517690. Like #272.
+2018-04-20 17:32:32,836 - shotaowl - Trying to unfollow #89: 
+2018-04-20 17:32:32,840 - shotaowl - mayyu217
+2018-04-20 17:32:33,952 - shotaowl - Unfollowed: 8485150 #89.
+2018-04-20 17:33:52,046 - shotaowl - Trying to like media: 1759411007912402661
+2018-04-20 17:33:52,910 - shotaowl - Liked: 1759411007912402661. Like #273.
+2018-04-20 17:34:07,922 - shotaowl - Already followed before 7524496510
+2018-04-20 17:35:13,988 - shotaowl - Trying to like media: 1759406907535482296
+2018-04-20 17:35:15,296 - shotaowl - Liked: 1759406907535482296. Like #274.
+2018-04-20 17:36:24,361 - shotaowl - Trying to follow: 487302429
+2018-04-20 17:36:25,558 - shotaowl - Followed: 487302429 #73.
+2018-04-20 17:36:50,561 - shotaowl - Get media id by tag: совариум
+2018-04-20 17:36:52,901 - shotaowl - Removing already liked medias..
+2018-04-20 17:37:22,994 - shotaowl - Trying to unfollow #90: 
+2018-04-20 17:37:23,000 - shotaowl - il0vewhatil0ve
+2018-04-20 17:37:24,047 - shotaowl - Unfollowed: 6349239 #90.
+2018-04-20 17:38:51,142 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 17:38:52,842 - shotaowl - Removing already liked medias..
+2018-04-20 17:38:52,906 - shotaowl - Trying to like media: 1762006132270300538
+2018-04-20 17:38:54,494 - shotaowl - Liked: 1762006132270300538. Like #275.
+2018-04-20 17:40:21,576 - shotaowl - Trying to like media: 1762005559638665215
+2018-04-20 17:40:23,422 - shotaowl - Liked: 1762005559638665215. Like #276.
+2018-04-20 17:40:50,447 - shotaowl - Already followed before 7524496510
+2018-04-20 17:41:50,500 - shotaowl - Trying to like media: 1762003467469349726
+2018-04-20 17:41:51,948 - shotaowl - Liked: 1762003467469349726. Like #277.
+2018-04-20 17:41:51,948 - shotaowl - Trying to unfollow #91: 
+2018-04-20 17:41:51,953 - shotaowl - sochi.bag
+2018-04-20 17:41:52,849 - shotaowl - Unfollowed: 7435385925 #91.
+2018-04-20 17:43:28,951 - shotaowl - Already followed before 487302429
+2018-04-20 17:43:34,958 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 17:43:36,370 - shotaowl - Removing already liked medias..
+2018-04-20 17:43:36,419 - shotaowl - Trying to like media: 1762036958778809032
+2018-04-20 17:43:37,792 - shotaowl - Liked: 1762036958778809032. Like #278.
+2018-04-20 17:45:04,884 - shotaowl - Trying to like media: 1762035566764772599
+2018-04-20 17:45:05,971 - shotaowl - Liked: 1762035566764772599. Like #279.
+2018-04-20 17:45:57,019 - shotaowl - Trying to follow: 412640164
+2018-04-20 17:45:58,662 - shotaowl - Followed: 412640164 #74.
+2018-04-20 17:46:35,563 - shotaowl - Trying to like media: 1762034923709303089
+2018-04-20 17:46:36,788 - shotaowl - Liked: 1762034923709303089. Like #280.
+2018-04-20 17:46:36,789 - shotaowl - Trying to unfollow #92: 
+2018-04-20 17:46:36,794 - shotaowl - yuji00725
+2018-04-20 17:46:37,721 - shotaowl - Unfollowed: 2366606823 #92.
+2018-04-20 17:47:55,812 - shotaowl - Trying to like media: 1762028360748499162
+2018-04-20 17:47:57,169 - shotaowl - Liked: 1762028360748499162. Like #281.
+2018-04-20 17:49:18,246 - shotaowl - Trying to like media: 1762025715241623693
+2018-04-20 17:49:19,711 - shotaowl - Liked: 1762025715241623693. Like #282.
+2018-04-20 17:50:31,785 - shotaowl - Trying to follow: 423097017
+2018-04-20 17:50:33,078 - shotaowl - Followed: 423097017 #75.
+2018-04-20 17:50:43,073 - shotaowl - Trying to like media: 1762015126074188609
+2018-04-20 17:50:44,624 - shotaowl - Liked: 1762015126074188609. Like #283.
+2018-04-20 17:51:47,696 - shotaowl - Trying to unfollow #93: 
+2018-04-20 17:51:47,697 - shotaowl - outwayder
+2018-04-20 17:51:48,780 - shotaowl - Unfollowed: 2154772940 #93.
+2018-04-20 17:52:18,824 - shotaowl - Trying to like media: 1762013152848841021
+2018-04-20 17:52:19,546 - shotaowl - Liked: 1762013152848841021. Like #284.
+2018-04-20 17:53:43,636 - shotaowl - Trying to like media: 1762010047444312507
+2018-04-20 17:53:44,622 - shotaowl - Liked: 1762010047444312507. Like #285.
+2018-04-20 17:55:05,713 - shotaowl - Trying to like media: 1762006642172805224
+2018-04-20 17:55:07,202 - shotaowl - Liked: 1762006642172805224. Like #286.
+2018-04-20 17:55:46,242 - shotaowl - Trying to follow: 6193968632
+2018-04-20 17:55:47,310 - shotaowl - Followed: 6193968632 #76.
+2018-04-20 17:56:24,323 - shotaowl - Trying to unfollow #94: 
+2018-04-20 17:56:24,330 - shotaowl - nozhi_sochi
+2018-04-20 17:56:25,446 - shotaowl - Unfollowed: 6248454409 #94.
+2018-04-20 17:56:28,454 - shotaowl - Trying to like media: 1762002184331099921
+2018-04-20 17:56:29,089 - shotaowl - Liked: 1762002184331099921. Like #287.
+2018-04-20 17:58:02,182 - shotaowl - Trying to like media: 1761997462837867150
+2018-04-20 17:58:03,520 - shotaowl - Liked: 1761997462837867150. Like #288.
+2018-04-20 17:59:39,616 - shotaowl - Trying to like media: 1761996671581129482
+2018-04-20 17:59:41,308 - shotaowl - Liked: 1761996671581129482. Like #289.
+2018-04-20 18:01:02,392 - shotaowl - Trying to follow: 190684304
+2018-04-20 18:01:03,244 - shotaowl - Followed: 190684304 #77.
+2018-04-20 18:01:13,210 - shotaowl - Trying to like media: 1761992626000552233
+2018-04-20 18:01:14,871 - shotaowl - Liked: 1761992626000552233. Like #290.
+2018-04-20 18:01:20,877 - shotaowl - Trying to unfollow #95: 
+2018-04-20 18:01:20,884 - shotaowl - iam_mayukokakei
+2018-04-20 18:01:21,797 - shotaowl - Unfollowed: 3292640541 #95.
+2018-04-20 18:02:45,893 - shotaowl - Trying to like media: 1761986738764610481
+2018-04-20 18:02:46,881 - shotaowl - Liked: 1761986738764610481. Like #291.
+2018-04-20 18:04:16,974 - shotaowl - Trying to like media: 1761985584609538978
+2018-04-20 18:04:18,392 - shotaowl - Liked: 1761985584609538978. Like #292.
+2018-04-20 18:05:42,478 - shotaowl - Trying to like media: 1761982573158662595
+2018-04-20 18:05:43,331 - shotaowl - Liked: 1761982573158662595. Like #293.
+2018-04-20 18:06:19,370 - shotaowl - Trying to follow: 1520429679
+2018-04-20 18:06:21,212 - shotaowl - Followed: 1520429679 #78.
+2018-04-20 18:06:31,140 - shotaowl - Trying to unfollow #96: 
+2018-04-20 18:06:31,146 - shotaowl - snapchat_code_add_sc
+2018-04-20 18:06:31,695 - shotaowl - Unfollowed: 7081253908 #96.
+2018-04-20 18:07:10,746 - shotaowl - Trying to like media: 1761979976214384350
+2018-04-20 18:07:11,773 - shotaowl - Liked: 1761979976214384350. Like #294.
+2018-04-20 18:08:47,873 - shotaowl - Trying to like media: 1761970161408392990
+2018-04-20 18:08:49,691 - shotaowl - Liked: 1761970161408392990. Like #295.
+2018-04-20 18:10:19,777 - shotaowl - Trying to like media: 1761966847027479448
+2018-04-20 18:10:21,501 - shotaowl - Liked: 1761966847027479448. Like #296.
+2018-04-20 18:10:48,526 - shotaowl - Trying to follow: 40210047
+2018-04-20 18:10:49,550 - shotaowl - Followed: 40210047 #79.
+2018-04-20 18:11:26,565 - shotaowl - Trying to unfollow #97: 
+2018-04-20 18:11:26,571 - shotaowl - yuka81_
+2018-04-20 18:11:27,488 - shotaowl - Unfollowed: 1464458132 #97.
+2018-04-20 18:11:42,519 - shotaowl - Trying to like media: 1761965849773055455
+2018-04-20 18:11:43,423 - shotaowl - Liked: 1761965849773055455. Like #297.
+2018-04-20 18:13:10,517 - shotaowl - Trying to like media: 1706859861650607113
+2018-04-20 18:13:11,742 - shotaowl - Liked: 1706859861650607113. Like #298.
+2018-04-20 18:13:14,745 - shotaowl - Get media id by tag: газпромлаура
+2018-04-20 18:13:16,949 - shotaowl - Removing already liked medias..
+2018-04-20 18:15:23,135 - shotaowl - Already followed before 1292609305
+2018-04-20 18:15:44,153 - shotaowl - Get media id by tag: sochi
+2018-04-20 18:15:45,946 - shotaowl - Removing already liked medias..
+2018-04-20 18:15:46,022 - shotaowl - Trying to like media: 1762054810817248171
+2018-04-20 18:15:47,674 - shotaowl - Liked: 1762054810817248171. Like #299.
+2018-04-20 18:16:23,714 - shotaowl - Trying to unfollow #98: 
+2018-04-20 18:16:23,716 - shotaowl - browngrottaarts
+2018-04-20 18:16:24,637 - shotaowl - Unfollowed: 3070014023 #98.
+2018-04-20 18:17:18,693 - shotaowl - Trying to like media: 1762050959992906268
+2018-04-20 18:17:19,789 - shotaowl - Liked: 1762050959992906268. Like #300.
+2018-04-20 18:17:43,820 - shotaowl - Trying to follow: 376478996
+2018-04-20 18:17:44,563 - shotaowl - Followed: 376478996 #80.
+2018-04-20 18:18:51,396 - shotaowl - Trying to like media: 1762051015258826748
+2018-04-20 18:18:52,293 - shotaowl - Liked: 1762051015258826748. Like #301.
+2018-04-20 18:20:19,384 - shotaowl - Trying to like media: 1762048995910744222
+2018-04-20 18:20:20,946 - shotaowl - Liked: 1762048995910744222. Like #302.
+2018-04-20 18:21:39,026 - shotaowl - Trying to unfollow #99: 
+2018-04-20 18:21:39,029 - shotaowl - ivan_breadman
+2018-04-20 18:21:39,969 - shotaowl - Unfollowed: 362088272 #99.
+2018-04-20 18:21:42,986 - shotaowl - Trying to like media: 1762048410788439439
+2018-04-20 18:21:44,612 - shotaowl - Liked: 1762048410788439439. Like #303.
+2018-04-20 18:22:32,657 - shotaowl - Trying to follow: 5391556276
+2018-04-20 18:22:33,640 - shotaowl - Followed: 5391556276 #81.
+2018-04-20 18:23:19,610 - shotaowl - Trying to like media: 1762047763775033967
+2018-04-20 18:23:20,564 - shotaowl - Liked: 1762047763775033967. Like #304.
+2018-04-20 18:24:50,648 - shotaowl - Trying to like media: 1762047171101890947
+2018-04-20 18:24:51,838 - shotaowl - Liked: 1762047171101890947. Like #305.
+2018-04-20 18:26:12,920 - shotaowl - Trying to like media: 1762046266625602058
+2018-04-20 18:26:15,084 - shotaowl - Liked: 1762046266625602058. Like #306.
+2018-04-20 18:26:54,120 - shotaowl - Trying to unfollow #100: 
+2018-04-20 18:26:54,127 - shotaowl - kimberlyannyork
+2018-04-20 18:26:55,021 - shotaowl - Unfollowed: 3171984565 #100.
+2018-04-20 18:27:01,036 - shotaowl - Already followed before 25388114
+2018-04-20 18:27:46,082 - shotaowl - Trying to like media: 1762044490690245699
+2018-04-20 18:27:46,972 - shotaowl - Liked: 1762044490690245699. Like #307.
+2018-04-20 18:29:17,060 - shotaowl - Trying to like media: 1762044379843014210
+2018-04-20 18:29:17,897 - shotaowl - Liked: 1762044379843014210. Like #308.
+2018-04-20 18:29:38,919 - shotaowl - Trying to follow: 346693186
+2018-04-20 18:29:40,467 - shotaowl - Followed: 346693186 #82.
+2018-04-20 18:30:50,399 - shotaowl - Trying to like media: 1762043004052648641
+2018-04-20 18:30:51,155 - shotaowl - Liked: 1762043004052648641. Like #309.
+2018-04-20 18:31:42,214 - shotaowl - Trying to unfollow #101: 
+2018-04-20 18:31:42,220 - shotaowl - nb_family_sochi
+2018-04-20 18:31:43,726 - shotaowl - Unfollowed: 4062303227 #101.
+2018-04-20 18:32:28,783 - shotaowl - Trying to like media: 1762042985027115061
+2018-04-20 18:32:29,792 - shotaowl - Liked: 1762042985027115061. Like #310.
+2018-04-20 18:33:56,876 - shotaowl - Trying to like media: 1762042744508908037
+2018-04-20 18:33:57,751 - shotaowl - Liked: 1762042744508908037. Like #311.
+2018-04-20 18:34:54,808 - shotaowl - Already followed before 6073877261
+2018-04-20 18:35:27,847 - shotaowl - Trying to like media: 1762042253667532011
+2018-04-20 18:35:29,351 - shotaowl - Liked: 1762042253667532011. Like #312.
+2018-04-20 18:36:53,433 - shotaowl - Trying to unfollow #102: 
+2018-04-20 18:36:53,440 - shotaowl - pushbafoto
+2018-04-20 18:36:54,446 - shotaowl - Unfollowed: 3752470060 #102.
+2018-04-20 18:37:06,471 - shotaowl - Trying to like media: 1762041073474979843
+2018-04-20 18:37:07,884 - shotaowl - Liked: 1762041073474979843. Like #313.
+2018-04-20 18:37:28,904 - shotaowl - Already followed before 5391556276
+2018-04-20 18:38:25,957 - shotaowl - Trying to like media: 1762040503216775482
+2018-04-20 18:38:26,970 - shotaowl - Liked: 1762040503216775482. Like #314.
+2018-04-20 18:39:51,044 - shotaowl - Trying to like media: 1762036313753635945
+2018-04-20 18:39:52,515 - shotaowl - Liked: 1762036313753635945. Like #315.
+2018-04-20 18:40:04,527 - shotaowl - Trying to follow: 363054120
+2018-04-20 18:40:05,380 - shotaowl - Followed: 363054120 #83.
+2018-04-20 18:41:12,381 - shotaowl - Trying to like media: 1762036225697219157
+2018-04-20 18:41:13,124 - shotaowl - Liked: 1762036225697219157. Like #316.
+2018-04-20 18:41:28,141 - shotaowl - Trying to unfollow #103: 
+2018-04-20 18:41:28,144 - shotaowl - prikhodkosofia
+2018-04-20 18:41:29,700 - shotaowl - Unfollowed: 3958435490 #103.
+2018-04-20 18:42:44,782 - shotaowl - Trying to like media: 1762032765716310444
+2018-04-20 18:42:45,693 - shotaowl - Liked: 1762032765716310444. Like #317.
+2018-04-20 18:44:15,784 - shotaowl - Trying to like media: 1762032322512560845
+2018-04-20 18:44:17,233 - shotaowl - Liked: 1762032322512560845. Like #318.
+2018-04-20 18:45:14,290 - shotaowl - Already followed before 7208374288
+2018-04-20 18:45:44,319 - shotaowl - Trying to like media: 1762032130453579051
+2018-04-20 18:45:45,340 - shotaowl - Liked: 1762032130453579051. Like #319.
+2018-04-20 18:46:15,373 - shotaowl - Trying to unfollow #104: 
+2018-04-20 18:46:15,380 - shotaowl - love_nvrsk
+2018-04-20 18:46:16,654 - shotaowl - Unfollowed: 1501964249 #104.
+2018-04-20 18:47:13,716 - shotaowl - Trying to like media: 1762031009065736365
+2018-04-20 18:47:14,533 - shotaowl - Liked: 1762031009065736365. Like #320.
+2018-04-20 18:47:47,564 - shotaowl - Trying to follow: 4076909218
+2018-04-20 18:47:48,866 - shotaowl - Followed: 4076909218 #84.
+2018-04-20 18:48:37,884 - shotaowl - Trying to like media: 1762027154844353235
+2018-04-20 18:48:39,241 - shotaowl - Liked: 1762027154844353235. Like #321.
+2018-04-20 18:50:03,331 - shotaowl - Trying to like media: 1762026803210679521
+2018-04-20 18:50:04,227 - shotaowl - Liked: 1762026803210679521. Like #322.
+2018-04-20 18:50:49,267 - shotaowl - Trying to unfollow #105: 
+2018-04-20 18:50:49,272 - shotaowl - reaf_channel
+2018-04-20 18:50:50,704 - shotaowl - Unfollowed: 7527383978 #105.
+2018-04-20 18:51:32,758 - shotaowl - Trying to like media: 1762022722596134327
+2018-04-20 18:51:33,906 - shotaowl - Liked: 1762022722596134327. Like #323.
+2018-04-20 18:52:39,966 - shotaowl - Already followed before 1992764628
+2018-04-20 18:53:00,991 - shotaowl - Trying to like media: 1762022132080890917
+2018-04-20 18:53:01,775 - shotaowl - Liked: 1762022132080890917. Like #324.
+2018-04-20 18:54:25,873 - shotaowl - Trying to like media: 1762019288434171790
+2018-04-20 18:54:27,230 - shotaowl - Liked: 1762019288434171790. Like #325.
+2018-04-20 18:55:03,270 - shotaowl - Already followed before 1994094762
+2018-04-20 18:55:21,292 - shotaowl - Trying to unfollow #106: 
+2018-04-20 18:55:21,298 - shotaowl - glenndumontelcartoons
+2018-04-20 18:55:22,255 - shotaowl - Unfollowed: 4968124110 #106.
+2018-04-20 18:55:58,294 - shotaowl - Trying to like media: 1762016969287527084
+2018-04-20 18:56:00,189 - shotaowl - Liked: 1762016969287527084. Like #326.
+2018-04-20 18:57:27,283 - shotaowl - Already followed before 3413851099
+2018-04-20 18:57:36,296 - shotaowl - Trying to like media: 1762016532912488098
+2018-04-20 18:57:37,193 - shotaowl - Liked: 1762016532912488098. Like #327.
+2018-04-20 18:59:10,286 - shotaowl - Trying to like media: 1762014224307236193
+2018-04-20 18:59:11,595 - shotaowl - Liked: 1762014224307236193. Like #328.
+2018-04-20 18:59:14,599 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 18:59:15,844 - shotaowl - Removing already liked medias..
+2018-04-20 18:59:45,918 - shotaowl - Trying to unfollow #107: 
+2018-04-20 18:59:45,924 - shotaowl - safirastar777
+2018-04-20 18:59:46,855 - shotaowl - Unfollowed: 1120721095 #107.
+2018-04-20 18:59:49,870 - shotaowl - Trying to follow: 4280936135
+2018-04-20 18:59:50,736 - shotaowl - Followed: 4280936135 #85.
+2018-04-20 19:00:39,688 - shotaowl - Trying to like media: 1762056079485670240
+2018-04-20 19:00:40,722 - shotaowl - Liked: 1762056079485670240. Like #329.
+2018-04-20 19:02:13,820 - shotaowl - Trying to like media: 1762053662643193694
+2018-04-20 19:02:14,587 - shotaowl - Liked: 1762053662643193694. Like #330.
+2018-04-20 19:03:35,677 - shotaowl - Trying to like media: 1762046804001003317
+2018-04-20 19:03:37,396 - shotaowl - Liked: 1762046804001003317. Like #331.
+2018-04-20 19:04:16,440 - shotaowl - Trying to unfollow #108: 
+2018-04-20 19:04:16,449 - shotaowl - proftreyd_snab_hotel
+2018-04-20 19:04:17,407 - shotaowl - Unfollowed: 6680827768 #108.
+2018-04-20 19:04:47,444 - shotaowl - Trying to follow: 1975549865
+2018-04-20 19:04:48,484 - shotaowl - Followed: 1975549865 #86.
+2018-04-20 19:05:01,480 - shotaowl - Trying to like media: 1762040778614682478
+2018-04-20 19:05:02,493 - shotaowl - Liked: 1762040778614682478. Like #332.
+2018-04-20 19:06:41,601 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 19:06:42,954 - shotaowl - Removing already liked medias..
+2018-04-20 19:06:43,044 - shotaowl - Trying to like media: 1762043336728685973
+2018-04-20 19:06:44,257 - shotaowl - Liked: 1762043336728685973. Like #333.
+2018-04-20 19:08:08,339 - shotaowl - Trying to like media: 1762042738176182395
+2018-04-20 19:08:09,222 - shotaowl - Liked: 1762042738176182395. Like #334.
+2018-04-20 19:09:09,285 - shotaowl - Trying to unfollow #109: 
+2018-04-20 19:09:09,291 - shotaowl - alexkirin29
+2018-04-20 19:09:10,371 - shotaowl - Unfollowed: 301443570 #109.
+2018-04-20 19:09:40,415 - shotaowl - Trying to like media: 1762037882548119024
+2018-04-20 19:09:41,264 - shotaowl - Liked: 1762037882548119024. Like #335.
+2018-04-20 19:10:02,281 - shotaowl - Trying to follow: 7202836473
+2018-04-20 19:10:02,985 - shotaowl - Followed: 7202836473 #87.
+2018-04-20 19:11:10,009 - shotaowl - Trying to like media: 1762036828150184837
+2018-04-20 19:11:10,736 - shotaowl - Liked: 1762036828150184837. Like #336.
+2018-04-20 19:12:43,828 - shotaowl - Trying to like media: 1762036062211672948
+2018-04-20 19:12:45,137 - shotaowl - Liked: 1762036062211672948. Like #337.
+2018-04-20 19:14:12,214 - shotaowl - Trying to unfollow #110: 
+2018-04-20 19:14:12,220 - shotaowl - fchanelipss
+2018-04-20 19:14:12,962 - shotaowl - Unfollowed: 7207531442 #110.
+2018-04-20 19:14:15,978 - shotaowl - Trying to like media: 1762035584673295420
+2018-04-20 19:14:17,702 - shotaowl - Liked: 1762035584673295420. Like #338.
+2018-04-20 19:15:11,757 - shotaowl - Already followed before 7202836473
+2018-04-20 19:15:50,800 - shotaowl - Trying to like media: 1762030898645980888
+2018-04-20 19:15:51,335 - shotaowl - Liked: 1762030898645980888. Like #339.
+2018-04-20 19:17:21,442 - shotaowl - Trying to like media: 1762030456104924735
+2018-04-20 19:17:22,578 - shotaowl - Liked: 1762030456104924735. Like #340.
+2018-04-20 19:17:46,601 - shotaowl - Already followed before 7202836473
+2018-04-20 19:18:46,669 - shotaowl - Trying to like media: 1762028971396930577
+2018-04-20 19:18:47,390 - shotaowl - Liked: 1762028971396930577. Like #341.
+2018-04-20 19:18:50,394 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 19:18:52,252 - shotaowl - Removing already liked medias..
+2018-04-20 19:18:58,325 - shotaowl - Trying to unfollow #111: 
+2018-04-20 19:18:58,331 - shotaowl - kalugin.photo
+2018-04-20 19:18:59,060 - shotaowl - Unfollowed: 4030667725 #111.
+2018-04-20 19:20:11,132 - shotaowl - Trying to like media: 1762086337161720711
+2018-04-20 19:20:11,856 - shotaowl - Liked: 1762086337161720711. Like #342.
+2018-04-20 19:20:20,866 - shotaowl - Already followed before 4277380592
+2018-04-20 19:21:35,936 - shotaowl - Trying to like media: 1762083461302189103
+2018-04-20 19:21:37,072 - shotaowl - Liked: 1762083461302189103. Like #343.
+2018-04-20 19:22:43,129 - shotaowl - Already followed before 3419911783
+2018-04-20 19:23:01,152 - shotaowl - Trying to like media: 1762077338381817725
+2018-04-20 19:23:02,207 - shotaowl - Liked: 1762077338381817725. Like #344.
+2018-04-20 19:24:08,278 - shotaowl - Trying to unfollow #112: 
+2018-04-20 19:24:08,284 - shotaowl - shopkrd16
+2018-04-20 19:24:09,516 - shotaowl - Unfollowed: 3419911783 #112.
+2018-04-20 19:24:24,549 - shotaowl - Trying to like media: 1355669461641960331
+2018-04-20 19:24:25,179 - shotaowl - Liked: 1355669461641960331. Like #345.
+2018-04-20 19:24:28,183 - shotaowl - Get media id by tag: sovarium
+2018-04-20 19:24:29,871 - shotaowl - Removing already liked medias..
+2018-04-20 19:24:59,960 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:02,965 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:05,970 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:08,976 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:11,980 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:14,983 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:17,987 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:20,993 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:23,995 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:27,000 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:30,002 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:33,005 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:36,009 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:39,014 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:42,018 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:45,023 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:48,027 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:51,032 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:54,037 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:25:57,038 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:00,043 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:03,047 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:06,052 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:09,056 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:12,062 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:15,066 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:18,071 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:21,076 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:24,079 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:27,084 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:26:30,090 - shotaowl - Already followed before 400008479
+2018-04-20 19:28:30,207 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 19:28:31,971 - shotaowl - Removing already liked medias..
+2018-04-20 19:28:35,043 - shotaowl - Get media id by tag: krasnaypolyna
+2018-04-20 19:28:36,505 - shotaowl - Removing already liked medias..
+2018-04-20 19:28:45,572 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:28:48,576 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 19:28:51,581 - shotaowl - Trying to follow: 1343889901
+2018-04-20 19:28:52,373 - shotaowl - Followed: 1343889901 #88.
+2018-04-20 19:29:08,102 - shotaowl - Trying to unfollow #113: 
+2018-04-20 19:29:08,111 - shotaowl - sabry_brex
+2018-04-20 19:29:08,610 - shotaowl - Unfollowed: 47876515 #113.
+2018-04-20 19:31:11,749 - shotaowl - Get media id by tag: sochi
+2018-04-20 19:31:14,253 - shotaowl - Removing already liked medias..
+2018-04-20 19:31:14,303 - shotaowl - Trying to like media: 1762092118103648911
+2018-04-20 19:31:15,505 - shotaowl - Liked: 1762092118103648911. Like #346.
+2018-04-20 19:32:39,598 - shotaowl - Trying to like media: 1762091956849539497
+2018-04-20 19:32:40,587 - shotaowl - Liked: 1762091956849539497. Like #347.
+2018-04-20 19:33:19,627 - shotaowl - Trying to follow: 3680714615
+2018-04-20 19:33:20,751 - shotaowl - Followed: 3680714615 #89.
+2018-04-20 19:33:42,753 - shotaowl - Trying to unfollow #114: 
+2018-04-20 19:33:42,760 - shotaowl - my_breakup_diary__
+2018-04-20 19:33:43,265 - shotaowl - Unfollowed: 5722013321 #114.
+2018-04-20 19:34:10,304 - shotaowl - Trying to like media: 1762089007790991954
+2018-04-20 19:34:11,137 - shotaowl - Liked: 1762089007790991954. Like #348.
+2018-04-20 19:35:41,232 - shotaowl - Trying to like media: 1762088356450976684
+2018-04-20 19:35:42,051 - shotaowl - Liked: 1762088356450976684. Like #349.
+2018-04-20 19:37:06,145 - shotaowl - Trying to like media: 1762088233951682629
+2018-04-20 19:37:07,147 - shotaowl - Liked: 1762088233951682629. Like #350.
+2018-04-20 19:37:58,207 - shotaowl - Trying to follow: 343300695
+2018-04-20 19:37:59,190 - shotaowl - Followed: 343300695 #90.
+2018-04-20 19:38:20,985 - shotaowl - Trying to unfollow #115: 
+2018-04-20 19:38:20,991 - shotaowl - yuumi_0533
+2018-04-20 19:38:21,712 - shotaowl - Unfollowed: 6822353552 #115.
+2018-04-20 19:38:42,742 - shotaowl - Trying to like media: 1762088182840405416
+2018-04-20 19:38:43,257 - shotaowl - Liked: 1762088182840405416. Like #351.
+2018-04-20 19:40:07,332 - shotaowl - Trying to like media: 1762087178757712953
+2018-04-20 19:40:08,061 - shotaowl - Liked: 1762087178757712953. Like #352.
+2018-04-20 19:41:38,153 - shotaowl - Trying to like media: 1762086936552846390
+2018-04-20 19:41:39,453 - shotaowl - Liked: 1762086936552846390. Like #353.
+2018-04-20 19:42:45,522 - shotaowl - Trying to unfollow #116: 
+2018-04-20 19:42:45,527 - shotaowl - yorkie_brie
+2018-04-20 19:42:46,576 - shotaowl - Unfollowed: 4363843640 #116.
+2018-04-20 19:43:10,619 - shotaowl - Trying to like media: 1762084976982229728
+2018-04-20 19:43:11,906 - shotaowl - Liked: 1762084976982229728. Like #354.
+2018-04-20 19:43:14,910 - shotaowl - Trying to follow: 2274541625
+2018-04-20 19:43:15,674 - shotaowl - Followed: 2274541625 #91.
+2018-04-20 19:44:37,697 - shotaowl - Trying to like media: 1762083798901780525
+2018-04-20 19:44:38,594 - shotaowl - Liked: 1762083798901780525. Like #355.
+2018-04-20 19:46:02,688 - shotaowl - Trying to like media: 1762083706636786209
+2018-04-20 19:46:03,758 - shotaowl - Liked: 1762083706636786209. Like #356.
+2018-04-20 19:47:12,842 - shotaowl - Trying to unfollow #117: 
+2018-04-20 19:47:12,848 - shotaowl - paul_nameless
+2018-04-20 19:47:13,396 - shotaowl - Unfollowed: 5593118459 #117.
+2018-04-20 19:47:40,435 - shotaowl - Trying to like media: 1762083454012697141
+2018-04-20 19:47:41,809 - shotaowl - Liked: 1762083454012697141. Like #357.
+2018-04-20 19:47:41,811 - shotaowl - Trying to follow: 7028986488
+2018-04-20 19:47:42,854 - shotaowl - Followed: 7028986488 #92.
+2018-04-20 19:49:10,658 - shotaowl - Trying to like media: 1762082409397312863
+2018-04-20 19:49:11,578 - shotaowl - Liked: 1762082409397312863. Like #358.
+2018-04-20 19:50:41,672 - shotaowl - Trying to like media: 1762080825879659361
+2018-04-20 19:50:42,846 - shotaowl - Liked: 1762080825879659361. Like #359.
+2018-04-20 19:52:03,920 - shotaowl - Trying to like media: 1762078576173114861
+2018-04-20 19:52:04,420 - shotaowl - Liked: 1762078576173114861. Like #360.
+2018-04-20 19:52:22,433 - shotaowl - Trying to unfollow #118: 
+2018-04-20 19:52:22,438 - shotaowl - baloo_catmaestro
+2018-04-20 19:52:23,919 - shotaowl - Unfollowed: 7434530099 #118.
+2018-04-20 19:52:32,946 - shotaowl - Trying to follow: 7236851328
+2018-04-20 19:52:33,920 - shotaowl - Followed: 7236851328 #93.
+2018-04-20 19:53:31,753 - shotaowl - Trying to like media: 1762077171458722979
+2018-04-20 19:53:32,460 - shotaowl - Liked: 1762077171458722979. Like #361.
+2018-04-20 19:54:59,553 - shotaowl - Trying to like media: 1762069650870202280
+2018-04-20 19:55:00,294 - shotaowl - Liked: 1762069650870202280. Like #362.
+2018-04-20 19:56:21,376 - shotaowl - Trying to like media: 1762069228812734204
+2018-04-20 19:56:22,779 - shotaowl - Liked: 1762069228812734204. Like #363.
+2018-04-20 19:56:58,818 - shotaowl - Trying to unfollow #119: 
+2018-04-20 19:56:58,825 - shotaowl - nunnifoorocket
+2018-04-20 19:56:59,536 - shotaowl - Unfollowed: 2323182874 #119.
+2018-04-20 19:57:20,571 - shotaowl - Trying to follow: 1328593426
+2018-04-20 19:57:21,471 - shotaowl - Followed: 1328593426 #94.
+2018-04-20 19:57:58,851 - shotaowl - Trying to like media: 1762068505773218651
+2018-04-20 19:57:59,367 - shotaowl - Liked: 1762068505773218651. Like #364.
+2018-04-20 19:59:29,458 - shotaowl - Trying to like media: 1762059460430004361
+2018-04-20 19:59:30,214 - shotaowl - Liked: 1762059460430004361. Like #365.
+2018-04-20 20:00:51,302 - shotaowl - Trying to like media: 1762057445486895841
+2018-04-20 20:00:52,576 - shotaowl - Liked: 1762057445486895841. Like #366.
+2018-04-20 20:01:43,627 - shotaowl - Trying to unfollow #120: 
+2018-04-20 20:01:43,633 - shotaowl - we_luv__himachal
+2018-04-20 20:01:44,411 - shotaowl - Unfollowed: 7264138649 #120.
+2018-04-20 20:02:05,443 - shotaowl - Trying to follow: 6676477209
+2018-04-20 20:02:06,423 - shotaowl - Followed: 6676477209 #95.
+2018-04-20 20:02:19,396 - shotaowl - Trying to like media: 1762057931597243330
+2018-04-20 20:02:20,227 - shotaowl - Liked: 1762057931597243330. Like #367.
+2018-04-20 20:03:47,316 - shotaowl - Trying to like media: 1762058221424221292
+2018-04-20 20:03:48,158 - shotaowl - Liked: 1762058221424221292. Like #368.
+2018-04-20 20:05:15,251 - shotaowl - Trying to like media: 1762056043424117007
+2018-04-20 20:05:16,343 - shotaowl - Liked: 1762056043424117007. Like #369.
+2018-04-20 20:06:49,429 - shotaowl - Trying to unfollow #121: 
+2018-04-20 20:06:49,435 - shotaowl - elenamalyshenko
+2018-04-20 20:06:50,558 - shotaowl - Unfollowed: 394146198 #121.
+2018-04-20 20:06:59,579 - shotaowl - Trying to like media: 1726968771316658439
+2018-04-20 20:07:00,964 - shotaowl - Liked: 1726968771316658439. Like #370.
+2018-04-20 20:07:03,968 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 20:07:05,187 - shotaowl - Removing already liked medias..
+2018-04-20 20:07:05,237 - shotaowl - Trying to follow: 2060612971
+2018-04-20 20:07:06,243 - shotaowl - Followed: 2060612971 #96.
+2018-04-20 20:08:28,135 - shotaowl - Trying to like media: 1719465539467863534
+2018-04-20 20:08:28,887 - shotaowl - Liked: 1719465539467863534. Like #371.
+2018-04-20 20:09:52,971 - shotaowl - Trying to like media: 1719460242464459478
+2018-04-20 20:09:54,213 - shotaowl - Liked: 1719460242464459478. Like #372.
+2018-04-20 20:09:57,216 - shotaowl - Get media id by tag: совариум
+2018-04-20 20:09:58,988 - shotaowl - Removing already liked medias..
+2018-04-20 20:11:47,135 - shotaowl - Trying to unfollow #122: 
+2018-04-20 20:11:47,136 - shotaowl - chloesoffice
+2018-04-20 20:11:48,254 - shotaowl - Unfollowed: 2946411052 #122.
+2018-04-20 20:12:21,305 - shotaowl - Already followed before 6910474388
+2018-04-20 20:13:21,374 - shotaowl - Get media id by tag: krasnaypolyna
+2018-04-20 20:13:23,329 - shotaowl - Removing already liked medias..
+2018-04-20 20:14:50,473 - shotaowl - Already followed before 3934637824
+2018-04-20 20:15:56,541 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 20:15:57,942 - shotaowl - Removing already liked medias..
+2018-04-20 20:15:57,994 - shotaowl - Trying to like media: 1762114500243489940
+2018-04-20 20:15:59,031 - shotaowl - Liked: 1762114500243489940. Like #373.
+2018-04-20 20:16:02,035 - shotaowl - Get media id by tag: газпромлаура
+2018-04-20 20:16:03,776 - shotaowl - Removing already liked medias..
+2018-04-20 20:16:15,843 - shotaowl - Trying to unfollow #123: 
+2018-04-20 20:16:15,849 - shotaowl - anatoliy_gugnin
+2018-04-20 20:16:16,364 - shotaowl - Unfollowed: 1763301718 #123.
+2018-04-20 20:17:07,420 - shotaowl - Already followed before 4744833440
+2018-04-20 20:18:31,513 - shotaowl - Get media id by tag: сочи
+2018-04-20 20:18:33,155 - shotaowl - Removing already liked medias..
+2018-04-20 20:18:33,214 - shotaowl - Trying to like media: 1762116555519688253
+2018-04-20 20:18:34,598 - shotaowl - Liked: 1762116555519688253. Like #374.
+2018-04-20 20:18:37,602 - shotaowl - Get media id by tag: sochi
+2018-04-20 20:18:38,929 - shotaowl - Removing already liked medias..
+2018-04-20 20:19:27,074 - shotaowl - Trying to follow: 3660621621
+2018-04-20 20:19:28,010 - shotaowl - Followed: 3660621621 #97.
+2018-04-20 20:19:55,994 - shotaowl - Trying to like media: 1762116461130083468
+2018-04-20 20:19:56,545 - shotaowl - Liked: 1762116461130083468. Like #375.
+2018-04-20 20:20:47,598 - shotaowl - Trying to unfollow #124: 
+2018-04-20 20:20:47,603 - shotaowl - lackfasad_krasnodar
+2018-04-20 20:20:48,350 - shotaowl - Unfollowed: 7306721082 #124.
+2018-04-20 20:21:30,400 - shotaowl - Trying to like media: 1762115341990001224
+2018-04-20 20:21:30,981 - shotaowl - Liked: 1762115341990001224. Like #376.
+2018-04-20 20:22:55,072 - shotaowl - Trying to like media: 1762113128823714452
+2018-04-20 20:22:55,734 - shotaowl - Liked: 1762113128823714452. Like #377.
+2018-04-20 20:24:19,818 - shotaowl - Trying to like media: 1762114555642048509
+2018-04-20 20:24:21,029 - shotaowl - Liked: 1762114555642048509. Like #378.
+2018-04-20 20:24:21,031 - shotaowl - Trying to follow: 5674913366
+2018-04-20 20:24:21,948 - shotaowl - Followed: 5674913366 #98.
+2018-04-20 20:25:25,735 - shotaowl - Trying to unfollow #125: 
+2018-04-20 20:25:25,740 - shotaowl - jhonerdeejay
+2018-04-20 20:25:26,342 - shotaowl - Unfollowed: 393852101 #125.
+2018-04-20 20:25:47,377 - shotaowl - Trying to like media: 1762114247226414006
+2018-04-20 20:25:47,981 - shotaowl - Liked: 1762114247226414006. Like #379.
+2018-04-20 20:27:21,077 - shotaowl - Trying to like media: 1762113877867708646
+2018-04-20 20:27:21,351 - shotaowl - Not liked: 400
+2018-04-20 20:28:48,444 - shotaowl - Trying to like media: 1762111750575370558
+2018-04-20 20:28:51,047 - shotaowl - Liked: 1762111750575370558. Like #380.
+2018-04-20 20:29:06,063 - shotaowl - Already followed before 3413851099
+2018-04-20 20:30:00,117 - shotaowl - Trying to unfollow #126: 
+2018-04-20 20:30:00,121 - shotaowl - rakgar7
+2018-04-20 20:30:00,684 - shotaowl - Unfollowed: 291500113 #126.
+2018-04-20 20:30:18,713 - shotaowl - Trying to like media: 1762111099393447646
+2018-04-20 20:30:19,684 - shotaowl - Liked: 1762111099393447646. Like #381.
+2018-04-20 20:31:37,768 - shotaowl - Trying to follow: 6245298747
+2018-04-20 20:31:38,999 - shotaowl - Followed: 6245298747 #99.
+2018-04-20 20:31:45,710 - shotaowl - Trying to like media: 1762110972414578785
+2018-04-20 20:31:47,118 - shotaowl - Liked: 1762110972414578785. Like #382.
+2018-04-20 20:33:20,219 - shotaowl - Trying to like media: 1762107899700986667
+2018-04-20 20:33:20,816 - shotaowl - Liked: 1762107899700986667. Like #383.
+2018-04-20 20:34:38,897 - shotaowl - Trying to unfollow #127: 
+2018-04-20 20:34:38,902 - shotaowl - 7seals7spirits7lamps7eyes7horn
+2018-04-20 20:34:39,840 - shotaowl - Unfollowed: 1555147961 #127.
+2018-04-20 20:34:51,868 - shotaowl - Trying to like media: 1762104092135798563
+2018-04-20 20:34:52,396 - shotaowl - Liked: 1762104092135798563. Like #384.
+2018-04-20 20:34:55,399 - shotaowl - Get media id by tag: sovarium
+2018-04-20 20:34:56,869 - shotaowl - Removing already liked medias..
+2018-04-20 20:36:32,983 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 20:36:35,987 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 20:36:38,991 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 20:36:41,996 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 20:36:44,999 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 20:36:48,004 - shotaowl - Already followed before 400008479
+2018-04-20 20:38:48,122 - shotaowl - Get media id by tag: sochi
+2018-04-20 20:38:49,982 - shotaowl - Removing already liked medias..
+2018-04-20 20:38:50,057 - shotaowl - Trying to like media: 1762124525183238853
+2018-04-20 20:38:50,852 - shotaowl - Liked: 1762124525183238853. Like #385.
+2018-04-20 20:38:59,863 - shotaowl - Trying to follow: 4657523913
+2018-04-20 20:39:00,948 - shotaowl - Followed: 4657523913 #100.
+2018-04-20 20:39:16,718 - shotaowl - Trying to unfollow #128: 
+2018-04-20 20:39:16,724 - shotaowl - sukegramu
+2018-04-20 20:39:17,564 - shotaowl - Unfollowed: 7302748637 #128.
+2018-04-20 20:40:20,647 - shotaowl - Trying to like media: 1762123332055731133
+2018-04-20 20:40:21,607 - shotaowl - Liked: 1762123332055731133. Like #386.
+2018-04-20 20:41:48,708 - shotaowl - Trying to like media: 1762122745699994786
+2018-04-20 20:41:49,568 - shotaowl - Liked: 1762122745699994786. Like #387.
+2018-04-20 20:43:13,661 - shotaowl - Trying to like media: 1762122339557098881
+2018-04-20 20:43:15,231 - shotaowl - Liked: 1762122339557098881. Like #388.
+2018-04-20 20:43:36,253 - shotaowl - Trying to follow: 1148064666
+2018-04-20 20:43:36,939 - shotaowl - Followed: 1148064666 #101.
+2018-04-20 20:44:01,729 - shotaowl - Trying to unfollow #129: 
+2018-04-20 20:44:01,735 - shotaowl - ___syuri___
+2018-04-20 20:44:02,593 - shotaowl - Unfollowed: 5384609154 #129.
+2018-04-20 20:44:50,656 - shotaowl - Trying to like media: 1762118988476038159
+2018-04-20 20:44:51,485 - shotaowl - Liked: 1762118988476038159. Like #389.
+2018-04-20 20:46:18,567 - shotaowl - Trying to like media: 1762120541543018522
+2018-04-20 20:46:19,555 - shotaowl - Liked: 1762120541543018522. Like #390.
+2018-04-20 20:47:55,647 - shotaowl - Trying to like media: 1762118255998518527
+2018-04-20 20:47:56,892 - shotaowl - Liked: 1762118255998518527. Like #391.
+2018-04-20 20:48:14,909 - shotaowl - Already followed before 6073877261
+2018-04-20 20:48:41,938 - shotaowl - Trying to unfollow #130: 
+2018-04-20 20:48:41,944 - shotaowl - tania_leschinskaya
+2018-04-20 20:48:42,963 - shotaowl - Unfollowed: 5388853620 #130.
+2018-04-20 20:49:28,021 - shotaowl - Trying to like media: 1762102623157500972
+2018-04-20 20:49:28,811 - shotaowl - Liked: 1762102623157500972. Like #392.
+2018-04-20 20:50:49,895 - shotaowl - Trying to like media: 1762102079473798144
+2018-04-20 20:50:50,627 - shotaowl - Liked: 1762102079473798144. Like #393.
+2018-04-20 20:50:50,629 - shotaowl - Trying to follow: 1592830951
+2018-04-20 20:50:52,068 - shotaowl - Followed: 1592830951 #102.
+2018-04-20 20:52:17,091 - shotaowl - Trying to like media: 1762097823875526986
+2018-04-20 20:52:17,895 - shotaowl - Liked: 1762097823875526986. Like #394.
+2018-04-20 20:53:38,969 - shotaowl - Trying to like media: 1762097789297645849
+2018-04-20 20:53:40,023 - shotaowl - Liked: 1762097789297645849. Like #395.
+2018-04-20 20:54:01,043 - shotaowl - Trying to unfollow #131: 
+2018-04-20 20:54:01,052 - shotaowl - kolobokhova_elena
+2018-04-20 20:54:01,547 - shotaowl - Unfollowed: 215516208 #131.
+2018-04-20 20:55:07,624 - shotaowl - Get media id by tag: sochi
+2018-04-20 20:55:09,394 - shotaowl - Removing already liked medias..
+2018-04-20 20:55:09,503 - shotaowl - Trying to like media: 1762134807057405490
+2018-04-20 20:55:10,726 - shotaowl - Liked: 1762134807057405490. Like #396.
+2018-04-20 20:56:04,778 - shotaowl - Trying to follow: 3173447418
+2018-04-20 20:56:05,548 - shotaowl - Followed: 3173447418 #103.
+2018-04-20 20:56:36,395 - shotaowl - Trying to like media: 1762133972417330372
+2018-04-20 20:56:37,109 - shotaowl - Liked: 1762133972417330372. Like #397.
+2018-04-20 20:58:13,206 - shotaowl - Trying to like media: 1762132263397911857
+2018-04-20 20:58:13,713 - shotaowl - Liked: 1762132263397911857. Like #398.
+2018-04-20 20:59:10,775 - shotaowl - Trying to unfollow #132: 
+2018-04-20 20:59:10,782 - shotaowl - simmons_ec
+2018-04-20 20:59:11,812 - shotaowl - Unfollowed: 1625630299 #132.
+2018-04-20 20:59:35,848 - shotaowl - Trying to like media: 1762130751367025838
+2018-04-20 20:59:36,651 - shotaowl - Liked: 1762130751367025838. Like #399.
+2018-04-20 21:01:09,758 - shotaowl - Trying to like media: 1762127933239330835
+2018-04-20 21:01:10,359 - shotaowl - Liked: 1762127933239330835. Like #400.
+2018-04-20 21:01:19,372 - shotaowl - Trying to follow: 1007978097
+2018-04-20 21:01:20,982 - shotaowl - Followed: 1007978097 #104.
+2018-04-20 21:02:37,038 - shotaowl - Trying to like media: 1762126794594866722
+2018-04-20 21:02:38,016 - shotaowl - Liked: 1762126794594866722. Like #401.
+2018-04-20 21:03:59,097 - shotaowl - Trying to unfollow #133: 
+2018-04-20 21:03:59,100 - shotaowl - ceogarza
+2018-04-20 21:04:00,243 - shotaowl - Unfollowed: 7417136049 #133.
+2018-04-20 21:04:18,279 - shotaowl - Trying to like media: 1761803401341255792
+2018-04-20 21:04:19,052 - shotaowl - Liked: 1761803401341255792. Like #402.
+2018-04-20 21:05:52,135 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 21:05:53,911 - shotaowl - Removing already liked medias..
+2018-04-20 21:05:53,975 - shotaowl - Trying to like media: 1762139431564192259
+2018-04-20 21:05:54,957 - shotaowl - Liked: 1762139431564192259. Like #403.
+2018-04-20 21:06:09,975 - shotaowl - Already followed before 3419911783
+2018-04-20 21:07:25,049 - shotaowl - Trying to like media: 1762137755543937690
+2018-04-20 21:07:25,701 - shotaowl - Liked: 1762137755543937690. Like #404.
+2018-04-20 21:08:25,764 - shotaowl - Trying to unfollow #134: 
+2018-04-20 21:08:25,770 - shotaowl - drcktxmiyiuykulardiler
+2018-04-20 21:08:26,723 - shotaowl - Unfollowed: 7427533240 #134.
+2018-04-20 21:08:29,738 - shotaowl - Trying to follow: 247103707
+2018-04-20 21:08:31,199 - shotaowl - Followed: 247103707 #105.
+2018-04-20 21:08:55,932 - shotaowl - Trying to like media: 1762136061994863864
+2018-04-20 21:08:56,745 - shotaowl - Liked: 1762136061994863864. Like #405.
+2018-04-20 21:10:26,842 - shotaowl - Trying to like media: 1762132417839142316
+2018-04-20 21:10:27,750 - shotaowl - Liked: 1762132417839142316. Like #406.
+2018-04-20 21:12:00,841 - shotaowl - Trying to like media: 1762130656441264289
+2018-04-20 21:12:01,874 - shotaowl - Liked: 1762130656441264289. Like #407.
+2018-04-20 21:12:58,931 - shotaowl - Trying to follow: 6947797193
+2018-04-20 21:12:59,780 - shotaowl - Followed: 6947797193 #106.
+2018-04-20 21:13:12,817 - shotaowl - Trying to unfollow #135: 
+2018-04-20 21:13:12,823 - shotaowl - laxana.official
+2018-04-20 21:13:13,347 - shotaowl - Unfollowed: 3606230045 #135.
+2018-04-20 21:13:28,375 - shotaowl - Trying to like media: 1762129924821720723
+2018-04-20 21:13:28,954 - shotaowl - Liked: 1762129924821720723. Like #408.
+2018-04-20 21:13:31,959 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 21:13:33,268 - shotaowl - Removing already liked medias..
+2018-04-20 21:14:51,388 - shotaowl - Trying to like media: 1762136622922755117
+2018-04-20 21:14:52,005 - shotaowl - Liked: 1762136622922755117. Like #409.
+2018-04-20 21:14:55,007 - shotaowl - Get media id by tag: sochi
+2018-04-20 21:14:57,068 - shotaowl - Removing already liked medias..
+2018-04-20 21:16:24,228 - shotaowl - Trying to like media: 1762144887825079265
+2018-04-20 21:16:25,186 - shotaowl - Liked: 1762144887825079265. Like #410.
+2018-04-20 21:17:22,245 - shotaowl - Trying to follow: 481195093
+2018-04-20 21:17:23,615 - shotaowl - Followed: 481195093 #107.
+2018-04-20 21:17:48,664 - shotaowl - Trying to like media: 1762144756005204036
+2018-04-20 21:17:49,300 - shotaowl - Liked: 1762144756005204036. Like #411.
+2018-04-20 21:17:55,308 - shotaowl - Trying to unfollow #136: 
+2018-04-20 21:17:55,316 - shotaowl - lea.thefrenchie
+2018-04-20 21:17:55,860 - shotaowl - Unfollowed: 4739042214 #136.
+2018-04-20 21:19:13,945 - shotaowl - Trying to like media: 1762144377311686919
+2018-04-20 21:19:14,807 - shotaowl - Liked: 1762144377311686919. Like #412.
+2018-04-20 21:20:38,880 - shotaowl - Trying to like media: 1762144059314439248
+2018-04-20 21:20:40,195 - shotaowl - Liked: 1762144059314439248. Like #413.
+2018-04-20 21:21:55,270 - shotaowl - Trying to follow: 7023174865
+2018-04-20 21:21:56,159 - shotaowl - Followed: 7023174865 #108.
+2018-04-20 21:22:00,064 - shotaowl - Trying to like media: 1762143177228427938
+2018-04-20 21:22:01,368 - shotaowl - Liked: 1762143177228427938. Like #414.
+2018-04-20 21:22:43,406 - shotaowl - Trying to unfollow #137: 
+2018-04-20 21:22:43,412 - shotaowl - haysmalznt
+2018-04-20 21:22:44,503 - shotaowl - Unfollowed: 6093177390 #137.
+2018-04-20 21:23:29,558 - shotaowl - Trying to like media: 1762142850710851194
+2018-04-20 21:23:30,185 - shotaowl - Liked: 1762142850710851194. Like #415.
+2018-04-20 21:24:54,274 - shotaowl - Trying to like media: 1762142718966331367
+2018-04-20 21:24:54,946 - shotaowl - Liked: 1762142718966331367. Like #416.
+2018-04-20 21:26:19,021 - shotaowl - Trying to follow: 1562439498
+2018-04-20 21:26:20,000 - shotaowl - Followed: 1562439498 #109.
+2018-04-20 21:26:29,684 - shotaowl - Trying to like media: 1762141838004675722
+2018-04-20 21:26:30,180 - shotaowl - Liked: 1762141838004675722. Like #417.
+2018-04-20 21:27:54,257 - shotaowl - Trying to unfollow #138: 
+2018-04-20 21:27:54,264 - shotaowl - itsflashash
+2018-04-20 21:27:54,776 - shotaowl - Unfollowed: 5505775 #138.
+2018-04-20 21:27:57,793 - shotaowl - Trying to like media: 1762134698535349416
+2018-04-20 21:27:58,659 - shotaowl - Liked: 1762134698535349416. Like #418.
+2018-04-20 21:29:31,758 - shotaowl - Trying to like media: 1762140727419879951
+2018-04-20 21:29:32,444 - shotaowl - Liked: 1762140727419879951. Like #419.
+2018-04-20 21:30:56,531 - shotaowl - Trying to like media: 1762139249699043262
+2018-04-20 21:30:57,891 - shotaowl - Liked: 1762139249699043262. Like #420.
+2018-04-20 21:31:18,914 - shotaowl - Trying to follow: 579228567
+2018-04-20 21:31:19,794 - shotaowl - Followed: 579228567 #110.
+2018-04-20 21:32:26,630 - shotaowl - Trying to like media: 1762138972965995781
+2018-04-20 21:32:27,590 - shotaowl - Liked: 1762138972965995781. Like #421.
+2018-04-20 21:33:09,630 - shotaowl - Trying to unfollow #139: 
+2018-04-20 21:33:09,636 - shotaowl - gabriellymvg
+2018-04-20 21:33:11,146 - shotaowl - Unfollowed: 6554818468 #139.
+2018-04-20 21:33:56,200 - shotaowl - Trying to like media: 1762138515158984990
+2018-04-20 21:33:56,900 - shotaowl - Liked: 1762138515158984990. Like #422.
+2018-04-20 21:35:33,004 - shotaowl - Trying to like media: 1762137696429906155
+2018-04-20 21:35:33,554 - shotaowl - Liked: 1762137696429906155. Like #423.
+2018-04-20 21:36:36,627 - shotaowl - Trying to follow: 2283427970
+2018-04-20 21:36:38,310 - shotaowl - Followed: 2283427970 #111.
+2018-04-20 21:37:03,072 - shotaowl - Trying to like media: 1762137249527693811
+2018-04-20 21:37:03,642 - shotaowl - Liked: 1762137249527693811. Like #424.
+2018-04-20 21:38:09,711 - shotaowl - Trying to unfollow #140: 
+2018-04-20 21:38:09,714 - shotaowl - himerio
+2018-04-20 21:38:10,628 - shotaowl - Unfollowed: 1270545823 #140.
+2018-04-20 21:38:40,671 - shotaowl - Trying to like media: 1762136865118856326
+2018-04-20 21:38:41,829 - shotaowl - Liked: 1762136865118856326. Like #425.
+2018-04-20 21:40:17,939 - shotaowl - Trying to like media: 1762128751817453394
+2018-04-20 21:40:18,633 - shotaowl - Liked: 1762128751817453394. Like #426.
+2018-04-20 21:41:48,721 - shotaowl - Trying to follow: 4664028493
+2018-04-20 21:41:50,169 - shotaowl - Followed: 4664028493 #112.
+2018-04-20 21:42:00,116 - shotaowl - Trying to like media: 1761504064527710741
+2018-04-20 21:42:00,714 - shotaowl - Liked: 1761504064527710741. Like #427.
+2018-04-20 21:42:51,766 - shotaowl - Trying to unfollow #141: 
+2018-04-20 21:42:51,771 - shotaowl - olymp_kupisochi
+2018-04-20 21:42:52,302 - shotaowl - Unfollowed: 7438123574 #141.
+2018-04-20 21:43:43,363 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 21:43:44,975 - shotaowl - Removing already liked medias..
+2018-04-20 21:43:45,060 - shotaowl - Trying to like media: 1762159372007374464
+2018-04-20 21:43:45,996 - shotaowl - Liked: 1762159372007374464. Like #428.
+2018-04-20 21:45:13,078 - shotaowl - Trying to like media: 1762159005894280511
+2018-04-20 21:45:13,591 - shotaowl - Liked: 1762159005894280511. Like #429.
+2018-04-20 21:46:22,672 - shotaowl - Trying to follow: 7085310969
+2018-04-20 21:46:24,325 - shotaowl - Followed: 7085310969 #113.
+2018-04-20 21:46:34,387 - shotaowl - Trying to like media: 1762155479934905609
+2018-04-20 21:46:35,187 - shotaowl - Liked: 1762155479934905609. Like #430.
+2018-04-20 21:47:50,270 - shotaowl - Trying to unfollow #142: 
+2018-04-20 21:47:50,275 - shotaowl - riko_manabe
+2018-04-20 21:47:50,980 - shotaowl - Unfollowed: 3949228438 #142.
+2018-04-20 21:48:09,011 - shotaowl - Trying to like media: 1762154038285495693
+2018-04-20 21:48:10,261 - shotaowl - Liked: 1762154038285495693. Like #431.
+2018-04-20 21:48:13,262 - shotaowl - Get media id by tag: sovarium
+2018-04-20 21:48:14,947 - shotaowl - Removing already liked medias..
+2018-04-20 21:51:30,204 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 21:51:33,212 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 21:51:36,213 - shotaowl - Already followed before 287814648
+2018-04-20 21:52:06,246 - shotaowl - Get media id by tag: фотографсочи
+2018-04-20 21:52:07,864 - shotaowl - Removing already liked medias..
+2018-04-20 21:52:07,962 - shotaowl - Trying to like media: 1762162931090341132
+2018-04-20 21:52:08,982 - shotaowl - Liked: 1762162931090341132. Like #432.
+2018-04-20 21:52:17,987 - shotaowl - Trying to unfollow #143: 
+2018-04-20 21:52:17,993 - shotaowl - michaelsantaguida
+2018-04-20 21:52:18,534 - shotaowl - Unfollowed: 2061659620 #143.
+2018-04-20 21:53:39,625 - shotaowl - Trying to like media: 1762160067622320551
+2018-04-20 21:53:40,711 - shotaowl - Liked: 1762160067622320551. Like #433.
+2018-04-20 21:54:16,745 - shotaowl - Already followed before 4151576216
+2018-04-20 21:55:13,812 - shotaowl - Trying to like media: 1762149865247528465
+2018-04-20 21:55:15,028 - shotaowl - Liked: 1762149865247528465. Like #434.
+2018-04-20 21:56:36,108 - shotaowl - Already followed before 4160771515
+2018-04-20 21:56:39,115 - shotaowl - Trying to like media: 1762148548890377896
+2018-04-20 21:56:40,599 - shotaowl - Liked: 1762148548890377896. Like #435.
+2018-04-20 21:56:43,603 - shotaowl - Get media id by tag: газпромлаура
+2018-04-20 21:56:45,857 - shotaowl - Removing already liked medias..
+2018-04-20 21:57:33,967 - shotaowl - Trying to unfollow #144: 
+2018-04-20 21:57:33,973 - shotaowl - elgeneroriialg4
+2018-04-20 21:57:34,847 - shotaowl - Unfollowed: 7278349016 #144.
+2018-04-20 21:58:55,938 - shotaowl - Get media id by tag: совариум
+2018-04-20 21:58:57,784 - shotaowl - Removing already liked medias..
+2018-04-20 21:58:57,836 - shotaowl - Already followed before 1983725610
+2018-04-20 22:00:54,938 - shotaowl - Get media id by tag: газпромлаура
+2018-04-20 22:00:56,934 - shotaowl - Removing already liked medias..
+2018-04-20 22:01:30,018 - shotaowl - Trying to follow: 4373015679
+2018-04-20 22:01:30,906 - shotaowl - Followed: 4373015679 #114.
+2018-04-20 22:01:55,985 - shotaowl - Get media id by tag: sovarium
+2018-04-20 22:01:57,583 - shotaowl - Removing already liked medias..
+2018-04-20 22:02:33,679 - shotaowl - Trying to unfollow #145: 
+2018-04-20 22:02:33,685 - shotaowl - lokon_pro_shop_sochi
+2018-04-20 22:02:34,508 - shotaowl - Unfollowed: 4664028493 #145.
+2018-04-20 22:04:31,648 - shotaowl - Get media id by tag: газпромлаура
+2018-04-20 22:04:33,407 - shotaowl - Removing already liked medias..
+2018-04-20 22:05:30,556 - shotaowl - Get media id by tag: газпромлаура
+2018-04-20 22:05:32,577 - shotaowl - Removing already liked medias..
+2018-04-20 22:06:11,668 - shotaowl - Already followed before 28061628
+2018-04-20 22:06:29,691 - shotaowl - Get media id by tag: совариум
+2018-04-20 22:06:31,585 - shotaowl - Removing already liked medias..
+2018-04-20 22:07:34,695 - shotaowl - Trying to unfollow #146: 
+2018-04-20 22:07:34,700 - shotaowl - lornabops
+2018-04-20 22:07:35,432 - shotaowl - Unfollowed: 3050061283 #146.
+2018-04-20 22:08:29,499 - shotaowl - Get media id by tag: сочи
+2018-04-20 22:08:31,220 - shotaowl - Removing already liked medias..
+2018-04-20 22:08:31,323 - shotaowl - Trying to like media: 1762172095745280318
+2018-04-20 22:08:31,908 - shotaowl - Liked: 1762172095745280318. Like #436.
+2018-04-20 22:08:31,910 - shotaowl - Trying to follow: 4850392759
+2018-04-20 22:08:32,567 - shotaowl - Followed: 4850392759 #115.
+2018-04-20 22:09:51,477 - shotaowl - Trying to like media: 1762172077432996105
+2018-04-20 22:09:52,309 - shotaowl - Liked: 1762172077432996105. Like #437.
+2018-04-20 22:11:13,391 - shotaowl - Trying to like media: 1762172059809972419
+2018-04-20 22:11:14,897 - shotaowl - Liked: 1762172059809972419. Like #438.
+2018-04-20 22:12:41,983 - shotaowl - Trying to unfollow #147: 
+2018-04-20 22:12:41,989 - shotaowl - ny._.2030
+2018-04-20 22:12:42,525 - shotaowl - Unfollowed: 4668750700 #147.
+2018-04-20 22:12:48,543 - shotaowl - Trying to like media: 1762171990887798732
+2018-04-20 22:12:49,765 - shotaowl - Liked: 1762171990887798732. Like #439.
+2018-04-20 22:13:46,828 - shotaowl - Trying to follow: 1914198611
+2018-04-20 22:13:47,804 - shotaowl - Followed: 1914198611 #116.
+2018-04-20 22:14:18,725 - shotaowl - Trying to like media: 1762171961999113502
+2018-04-20 22:14:20,316 - shotaowl - Liked: 1762171961999113502. Like #440.
+2018-04-20 22:15:44,397 - shotaowl - Trying to like media: 1762171954884100565
+2018-04-20 22:15:45,360 - shotaowl - Liked: 1762171954884100565. Like #441.
+2018-04-20 22:17:06,443 - shotaowl - Trying to like media: 1762171919433699022
+2018-04-20 22:17:07,856 - shotaowl - Liked: 1762171919433699022. Like #442.
+2018-04-20 22:17:43,890 - shotaowl - Trying to unfollow #148: 
+2018-04-20 22:17:43,896 - shotaowl - biggiebs
+2018-04-20 22:17:44,457 - shotaowl - Unfollowed: 2137220049 #148.
+2018-04-20 22:18:11,497 - shotaowl - Trying to follow: 6277601902
+2018-04-20 22:18:12,131 - shotaowl - Followed: 6277601902 #117.
+2018-04-20 22:18:39,921 - shotaowl - Trying to like media: 1762171838978703352
+2018-04-20 22:18:40,592 - shotaowl - Liked: 1762171838978703352. Like #443.
+2018-04-20 22:20:16,691 - shotaowl - Trying to like media: 1762171774025617133
+2018-04-20 22:20:17,248 - shotaowl - Liked: 1762171774025617133. Like #444.
+2018-04-20 22:21:44,338 - shotaowl - Trying to like media: 1762171705431760952
+2018-04-20 22:21:45,359 - shotaowl - Liked: 1762171705431760952. Like #445.
+2018-04-20 22:22:12,386 - shotaowl - Trying to unfollow #149: 
+2018-04-20 22:22:12,392 - shotaowl - official_deepak_meena
+2018-04-20 22:22:12,933 - shotaowl - Unfollowed: 1815902483 #149.
+2018-04-20 22:23:07,000 - shotaowl - Trying to like media: 1762171148773427261
+2018-04-20 22:23:07,698 - shotaowl - Liked: 1762171148773427261. Like #446.
+2018-04-20 22:23:07,699 - shotaowl - Trying to follow: 3672725897
+2018-04-20 22:23:08,381 - shotaowl - Followed: 3672725897 #118.
+2018-04-20 22:24:42,430 - shotaowl - Trying to like media: 1762171542944455274
+2018-04-20 22:24:43,094 - shotaowl - Liked: 1762171542944455274. Like #447.
+2018-04-20 22:26:19,188 - shotaowl - Trying to like media: 1762171540378872457
+2018-04-20 22:26:20,065 - shotaowl - Liked: 1762171540378872457. Like #448.
+2018-04-20 22:27:02,104 - shotaowl - Trying to unfollow #150: 
+2018-04-20 22:27:02,110 - shotaowl - sofresh2150
+2018-04-20 22:27:02,806 - shotaowl - Unfollowed: 221103662 #150.
+2018-04-20 22:27:32,845 - shotaowl - Trying to follow: 5316692157
+2018-04-20 22:27:33,768 - shotaowl - Followed: 5316692157 #119.
+2018-04-20 22:27:46,545 - shotaowl - Trying to like media: 1762171441687018470
+2018-04-20 22:27:47,106 - shotaowl - Liked: 1762171441687018470. Like #449.
+2018-04-20 22:29:14,196 - shotaowl - Trying to like media: 1762171431988488003
+2018-04-20 22:29:15,003 - shotaowl - Liked: 1762171431988488003. Like #450.
+2018-04-20 22:30:36,086 - shotaowl - Trying to like media: 1762171414248222833
+2018-04-20 22:30:37,285 - shotaowl - Liked: 1762171414248222833. Like #451.
+2018-04-20 22:32:04,380 - shotaowl - Trying to unfollow #151: 
+2018-04-20 22:32:04,383 - shotaowl - jotaele_siete
+2018-04-20 22:32:04,941 - shotaowl - Unfollowed: 1205259157 #151.
+2018-04-20 22:32:07,956 - shotaowl - Trying to like media: 1762171392983227752
+2018-04-20 22:32:09,059 - shotaowl - Liked: 1762171392983227752. Like #452.
+2018-04-20 22:32:30,081 - shotaowl - Trying to follow: 4346794322
+2018-04-20 22:32:31,150 - shotaowl - Followed: 4346794322 #120.
+2018-04-20 22:33:35,173 - shotaowl - Trying to like media: 1762171258193057676
+2018-04-20 22:33:35,958 - shotaowl - Liked: 1762171258193057676. Like #453.
+2018-04-20 22:35:03,055 - shotaowl - Trying to like media: 1762171127339433840
+2018-04-20 22:35:04,017 - shotaowl - Liked: 1762171127339433840. Like #454.
+2018-04-20 22:36:31,109 - shotaowl - Trying to like media: 1762171102936831823
+2018-04-20 22:36:31,689 - shotaowl - Liked: 1762171102936831823. Like #455.
+2018-04-20 22:36:52,708 - shotaowl - Trying to unfollow #152: 
+2018-04-20 22:36:52,714 - shotaowl - courtneyrankin_soulflow
+2018-04-20 22:36:53,631 - shotaowl - Unfollowed: 4105072148 #152.
+2018-04-20 22:37:11,651 - shotaowl - Trying to follow: 518317411
+2018-04-20 22:37:13,628 - shotaowl - Followed: 518317411 #121.
+2018-04-20 22:38:05,480 - shotaowl - Trying to like media: 1762171080759224112
+2018-04-20 22:38:05,990 - shotaowl - Liked: 1762171080759224112. Like #456.
+2018-04-20 22:39:39,076 - shotaowl - Trying to like media: 1762171069174532391
+2018-04-20 22:39:39,713 - shotaowl - Liked: 1762171069174532391. Like #457.
+2018-04-20 22:41:06,804 - shotaowl - Trying to like media: 1762171044074157534
+2018-04-20 22:41:07,983 - shotaowl - Liked: 1762171044074157534. Like #458.
+2018-04-20 22:41:35,011 - shotaowl - Trying to unfollow #153: 
+2018-04-20 22:41:35,017 - shotaowl - __katin_lv_animals__
+2018-04-20 22:41:35,862 - shotaowl - Unfollowed: 6854715308 #153.
+2018-04-20 22:41:41,878 - shotaowl - Trying to follow: 7476899652
+2018-04-20 22:41:42,589 - shotaowl - Followed: 7476899652 #122.
+2018-04-20 22:42:40,483 - shotaowl - Trying to like media: 1762170903608605912
+2018-04-20 22:42:40,992 - shotaowl - Liked: 1762170903608605912. Like #459.
+2018-04-20 22:44:05,067 - shotaowl - Trying to like media: 1762170894422906003
+2018-04-20 22:44:06,011 - shotaowl - Liked: 1762170894422906003. Like #460.
+2018-04-20 22:45:39,111 - shotaowl - Trying to like media: 1762170856378812960
+2018-04-20 22:45:40,291 - shotaowl - Liked: 1762170856378812960. Like #461.
+2018-04-20 22:46:10,326 - shotaowl - Already followed before 7476899652
+2018-04-20 22:46:52,359 - shotaowl - Trying to unfollow #154: 
+2018-04-20 22:46:52,365 - shotaowl - svadebnyiphotography
+2018-04-20 22:46:52,869 - shotaowl - Unfollowed: 3733589313 #154.
+2018-04-20 22:47:10,898 - shotaowl - Trying to like media: 1762170756531014908
+2018-04-20 22:47:11,956 - shotaowl - Liked: 1762170756531014908. Like #462.
+2018-04-20 22:48:39,050 - shotaowl - Trying to like media: 1762170746640472203
+2018-04-20 22:48:39,569 - shotaowl - Liked: 1762170746640472203. Like #463.
+2018-04-20 22:48:45,578 - shotaowl - Trying to follow: 7379602645
+2018-04-20 22:48:46,799 - shotaowl - Followed: 7379602645 #123.
+2018-04-20 22:50:14,614 - shotaowl - Trying to like media: 1762170695662925766
+2018-04-20 22:50:15,313 - shotaowl - Liked: 1762170695662925766. Like #464.
+2018-04-20 22:51:39,396 - shotaowl - Trying to like media: 1762170688405703218
+2018-04-20 22:51:40,316 - shotaowl - Liked: 1762170688405703218. Like #465.
+2018-04-20 22:52:07,345 - shotaowl - Trying to unfollow #155: 
+2018-04-20 22:52:07,348 - shotaowl - mr_sameehn
+2018-04-20 22:52:07,862 - shotaowl - Unfollowed: 2867917083 #155.
+2018-04-20 22:53:13,933 - shotaowl - Trying to like media: 1762170648475928794
+2018-04-20 22:53:14,530 - shotaowl - Liked: 1762170648475928794. Like #466.
+2018-04-20 22:53:50,570 - shotaowl - Already followed before 7476899652
+2018-04-20 22:54:44,622 - shotaowl - Trying to like media: 1762170609856281920
+2018-04-20 22:54:45,548 - shotaowl - Liked: 1762170609856281920. Like #467.
+2018-04-20 22:56:18,653 - shotaowl - Trying to like media: 1762170520257519518
+2018-04-20 22:56:19,305 - shotaowl - Liked: 1762170520257519518. Like #468.
+2018-04-20 22:56:28,318 - shotaowl - Trying to follow: 6817663351
+2018-04-20 22:56:29,344 - shotaowl - Followed: 6817663351 #124.
+2018-04-20 22:57:12,202 - shotaowl - Trying to unfollow #156: 
+2018-04-20 22:57:12,208 - shotaowl - sbstudio_sochi
+2018-04-20 22:57:13,066 - shotaowl - Unfollowed: 1579957475 #156.
+2018-04-20 22:57:43,116 - shotaowl - Trying to like media: 1762170492507613546
+2018-04-20 22:57:43,649 - shotaowl - Liked: 1762170492507613546. Like #469.
+2018-04-20 22:59:10,732 - shotaowl - Trying to like media: 1762170489890744886
+2018-04-20 22:59:11,269 - shotaowl - Liked: 1762170489890744886. Like #470.
+2018-04-20 23:00:35,358 - shotaowl - Trying to like media: 1762170313176431899
+2018-04-20 23:00:36,292 - shotaowl - Liked: 1762170313176431899. Like #471.
+2018-04-20 23:01:03,319 - shotaowl - Trying to follow: 1385519210
+2018-04-20 23:01:04,393 - shotaowl - Followed: 1385519210 #125.
+2018-04-20 23:02:05,237 - shotaowl - Trying to like media: 1762170287129125619
+2018-04-20 23:02:06,093 - shotaowl - Liked: 1762170287129125619. Like #472.
+2018-04-20 23:02:24,115 - shotaowl - Trying to unfollow #157: 
+2018-04-20 23:02:24,121 - shotaowl - personatime_official
+2018-04-20 23:02:24,667 - shotaowl - Unfollowed: 7330387233 #157.
+2018-04-20 23:03:33,750 - shotaowl - Trying to like media: 1762170128694086952
+2018-04-20 23:03:34,253 - shotaowl - Liked: 1762170128694086952. Like #473.
+2018-04-20 23:05:10,367 - shotaowl - Trying to like media: 1762170107142010471
+2018-04-20 23:05:11,290 - shotaowl - Liked: 1762170107142010471. Like #474.
+2018-04-20 23:05:53,332 - shotaowl - Trying to follow: 5718864330
+2018-04-20 23:05:54,384 - shotaowl - Followed: 5718864330 #126.
+2018-04-20 23:06:31,275 - shotaowl - Trying to like media: 1762169816092151656
+2018-04-20 23:06:35,097 - shotaowl - Liked: 1762169816092151656. Like #475.
+2018-04-20 23:07:02,128 - shotaowl - Trying to unfollow #158: 
+2018-04-20 23:07:02,133 - shotaowl - azu_arata
+2018-04-20 23:07:02,676 - shotaowl - Unfollowed: 1210470239 #158.
+2018-04-20 23:08:11,762 - shotaowl - Trying to like media: 1762169594379786049
+2018-04-20 23:08:12,561 - shotaowl - Liked: 1762169594379786049. Like #476.
+2018-04-20 23:09:33,644 - shotaowl - Trying to like media: 1762169567075081401
+2018-04-20 23:09:36,160 - shotaowl - Liked: 1762169567075081401. Like #477.
+2018-04-20 23:10:24,209 - shotaowl - Trying to follow: 2263992435
+2018-04-20 23:10:25,828 - shotaowl - Followed: 2263992435 #127.
+2018-04-20 23:10:54,315 - shotaowl - Trying to like media: 1762169435382526398
+2018-04-20 23:10:55,011 - shotaowl - Liked: 1762169435382526398. Like #478.
+2018-04-20 23:12:16,096 - shotaowl - Trying to like media: 1762169295604779391
+2018-04-20 23:12:16,841 - shotaowl - Liked: 1762169295604779391. Like #479.
+2018-04-20 23:12:16,842 - shotaowl - Trying to unfollow #159: 
+2018-04-20 23:12:16,845 - shotaowl - brend_luks_komiss
+2018-04-20 23:12:18,107 - shotaowl - Unfollowed: 6692662389 #159.
+2018-04-20 23:13:39,209 - shotaowl - Trying to like media: 1762167379755653084
+2018-04-20 23:13:39,882 - shotaowl - Liked: 1762167379755653084. Like #480.
+2018-04-20 23:15:03,970 - shotaowl - Trying to like media: 1762169232084451118
+2018-04-20 23:15:04,911 - shotaowl - Liked: 1762169232084451118. Like #481.
+2018-04-20 23:15:07,915 - shotaowl - Get media id by tag: краснаяполяна
+2018-04-20 23:15:09,320 - shotaowl - Removing already liked medias..
+2018-04-20 23:15:21,399 - shotaowl - Trying to follow: 5908498184
+2018-04-20 23:15:22,003 - shotaowl - Followed: 5908498184 #128.
+2018-04-20 23:16:34,869 - shotaowl - Trying to like media: 1762204301306717714
+2018-04-20 23:16:35,499 - shotaowl - Liked: 1762204301306717714. Like #482.
+2018-04-20 23:16:56,519 - shotaowl - Trying to unfollow #160: 
+2018-04-20 23:16:56,525 - shotaowl - brewskyandcocoa
+2018-04-20 23:16:57,454 - shotaowl - Unfollowed: 4656600774 #160.
+2018-04-20 23:18:06,526 - shotaowl - Trying to like media: 1762203628053329097
+2018-04-20 23:18:07,051 - shotaowl - Liked: 1762203628053329097. Like #483.
+2018-04-20 23:19:34,138 - shotaowl - Trying to like media: 1762203430132249127
+2018-04-20 23:19:35,304 - shotaowl - Liked: 1762203430132249127. Like #484.
+2018-04-20 23:20:38,364 - shotaowl - Trying to follow: 224327964
+2018-04-20 23:20:39,505 - shotaowl - Followed: 224327964 #129.
+2018-04-20 23:21:07,297 - shotaowl - Trying to like media: 1762202492136100535
+2018-04-20 23:21:07,860 - shotaowl - Liked: 1762202492136100535. Like #485.
+2018-04-20 23:21:25,883 - shotaowl - Trying to unfollow #161: 
+2018-04-20 23:21:25,888 - shotaowl - syokora0911
+2018-04-20 23:21:26,639 - shotaowl - Unfollowed: 2212110193 #161.
+2018-04-20 23:22:38,721 - shotaowl - Trying to like media: 1762202075507474804
+2018-04-20 23:22:39,530 - shotaowl - Liked: 1762202075507474804. Like #486.
+2018-04-20 23:24:06,608 - shotaowl - Trying to like media: 1762201304158267047
+2018-04-20 23:24:07,885 - shotaowl - Liked: 1762201304158267047. Like #487.
+2018-04-20 23:25:04,946 - shotaowl - Trying to follow: 1398532804
+2018-04-20 23:25:05,620 - shotaowl - Followed: 1398532804 #130.
+2018-04-20 23:25:42,351 - shotaowl - Trying to like media: 1762200062233198972
+2018-04-20 23:25:43,130 - shotaowl - Liked: 1762200062233198972. Like #488.
+2018-04-20 23:26:37,189 - shotaowl - Trying to unfollow #162: 
+2018-04-20 23:26:37,195 - shotaowl - magistrate2012
+2018-04-20 23:26:38,264 - shotaowl - Unfollowed: 869826677 #162.
+2018-04-20 23:27:14,309 - shotaowl - Trying to like media: 1762199516907302686
+2018-04-20 23:27:14,889 - shotaowl - Liked: 1762199516907302686. Like #489.
+2018-04-20 23:28:50,980 - shotaowl - Trying to like media: 1762199005478444002
+2018-04-20 23:28:51,780 - shotaowl - Liked: 1762199005478444002. Like #490.
+2018-04-20 23:28:54,785 - shotaowl - Get media id by tag: sovarium
+2018-04-20 23:28:56,656 - shotaowl - Removing already liked medias..
+2018-04-20 23:29:38,813 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:29:41,816 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:29:44,820 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:29:47,822 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:29:50,826 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:29:53,831 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:29:56,835 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:29:59,838 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:02,844 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:05,849 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:08,850 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:11,855 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:14,860 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:17,864 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:20,869 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:23,870 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:26,871 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:29,877 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:32,879 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:35,881 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:38,886 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:41,891 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:44,896 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:47,900 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:50,905 - shotaowl - Keep calm - It's your own profile ;)
+2018-04-20 23:30:53,909 - shotaowl - Already followed before 400008479
+2018-04-20 23:31:05,917 - shotaowl - Trying to unfollow #163: 
+2018-04-20 23:31:05,920 - shotaowl - alelgre
+2018-04-20 23:31:06,644 - shotaowl - Unfollowed: 5878665528 #163.
+2018-04-20 23:32:54,759 - shotaowl - Get media id by tag: сочи
+2018-04-20 23:32:56,644 - shotaowl - Removing already liked medias..
+2018-04-20 23:32:56,752 - shotaowl - Trying to like media: 1762214478198672636
+2018-04-20 23:32:57,314 - shotaowl - Liked: 1762214478198672636. Like #491.
+2018-04-20 23:33:24,343 - shotaowl - Trying to follow: 4787514998
+2018-04-20 23:33:25,178 - shotaowl - Followed: 4787514998 #131.
+2018-04-20 23:34:32,119 - shotaowl - Trying to like media: 1762214447990922699
+2018-04-20 23:34:32,907 - shotaowl - Liked: 1762214447990922699. Like #492.
+2018-04-20 23:35:53,995 - shotaowl - Trying to like media: 1762214447092746508
+2018-04-20 23:35:55,104 - shotaowl - Liked: 1762214447092746508. Like #493.
+2018-04-20 23:35:58,105 - shotaowl - Trying to unfollow #164: 
+2018-04-20 23:35:58,112 - shotaowl - factmate
+2018-04-20 23:35:58,649 - shotaowl - Unfollowed: 4833473259 #164.
+2018-04-20 23:37:16,739 - shotaowl - Trying to like media: 1762214417792983481
+2018-04-20 23:37:17,286 - shotaowl - Liked: 1762214417792983481. Like #494.
+2018-04-20 23:37:56,326 - shotaowl - Already followed before 6390182930
+2018-04-20 23:38:38,381 - shotaowl - Trying to like media: 1762214278615699797
+2018-04-20 23:38:39,555 - shotaowl - Liked: 1762214278615699797. Like #495.
+2018-04-20 23:40:00,637 - shotaowl - Trying to like media: 1762214248190231340
+2018-04-20 23:40:01,536 - shotaowl - Liked: 1762214248190231340. Like #496.
+2018-04-20 23:40:07,542 - shotaowl - Trying to follow: 2995362677
+2018-04-20 23:40:09,004 - shotaowl - Followed: 2995362677 #132.
+2018-04-20 23:40:24,763 - shotaowl - Trying to unfollow #165: 
+2018-04-20 23:40:24,769 - shotaowl - fresh_beats01
+2018-04-20 23:40:25,307 - shotaowl - Unfollowed: 7447679975 #165.
+2018-04-20 23:41:34,381 - shotaowl - Trying to like media: 1762214196936689746
+2018-04-20 23:41:35,152 - shotaowl - Liked: 1762214196936689746. Like #497.
+2018-04-20 23:42:56,231 - shotaowl - Trying to like media: 1762214145548952126
+2018-04-20 23:42:58,520 - shotaowl - Liked: 1762214145548952126. Like #498.
+2018-04-20 23:44:28,606 - shotaowl - Trying to like media: 1762214092507266931
+2018-04-20 23:44:29,155 - shotaowl - Liked: 1762214092507266931. Like #499.
+2018-04-20 23:45:14,199 - shotaowl - Trying to follow: 5993122361
+2018-04-20 23:45:15,253 - shotaowl - Followed: 5993122361 #133.
+2018-04-20 23:45:25,018 - shotaowl - Trying to unfollow #166: 
+2018-04-20 23:45:25,025 - shotaowl - linoanela_yuko
+2018-04-20 23:45:25,925 - shotaowl - Unfollowed: 1596205775 #166.
+2018-04-20 23:45:58,968 - shotaowl - Trying to like media: 1762214068774690031
+2018-04-20 23:45:59,728 - shotaowl - Liked: 1762214068774690031. Like #500.
+2018-04-20 23:47:32,826 - shotaowl - Trying to like media: 1762214064212632685
+2018-04-20 23:47:33,510 - shotaowl - Liked: 1762214064212632685. Like #501.
+2018-04-20 23:49:03,600 - shotaowl - Trying to like media: 1762213886548819832
+2018-04-20 23:49:05,769 - shotaowl - Liked: 1762213886548819832. Like #502.
+2018-04-20 23:49:47,815 - shotaowl - Trying to follow: 286982286
+2018-04-20 23:49:48,398 - shotaowl - Followed: 286982286 #134.
+2018-04-20 23:50:25,195 - shotaowl - Trying to unfollow #167: 
+2018-04-20 23:50:25,201 - shotaowl - elincleo
+2018-04-20 23:50:25,799 - shotaowl - Unfollowed: 40254508 #167.
+2018-04-20 23:50:40,821 - shotaowl - Trying to like media: 1762213864144733335
+2018-04-20 23:50:41,330 - shotaowl - Liked: 1762213864144733335. Like #503.
+2018-04-20 23:52:08,422 - shotaowl - Trying to like media: 1762213841309086345
+2018-04-20 23:52:09,158 - shotaowl - Liked: 1762213841309086345. Like #504.
+2018-04-20 23:53:33,245 - shotaowl - Trying to like media: 1762213831813135224
+2018-04-20 23:53:34,691 - shotaowl - Liked: 1762213831813135224. Like #505.
+2018-04-20 23:54:37,759 - shotaowl - Trying to follow: 6421672459
+2018-04-20 23:54:38,687 - shotaowl - Followed: 6421672459 #135.
+2018-04-20 23:55:03,447 - shotaowl - Trying to like media: 1762213825070225317
+2018-04-20 23:55:04,252 - shotaowl - Liked: 1762213825070225317. Like #506.
+2018-04-20 23:55:22,275 - shotaowl - Trying to unfollow #168: 
+2018-04-20 23:55:22,282 - shotaowl - dayoc10
+2018-04-20 23:55:23,107 - shotaowl - Unfollowed: 1223658498 #168.
+2018-04-20 23:56:29,181 - shotaowl - Trying to like media: 1762213240241927769
+2018-04-20 23:56:29,941 - shotaowl - Liked: 1762213240241927769. Like #507.
+2018-04-20 23:57:51,024 - shotaowl - Trying to like media: 1762213612350471694
+2018-04-20 23:57:52,433 - shotaowl - Liked: 1762213612350471694. Like #508.
+2018-04-21 00:00:41,578 - shotaowl - Trying to like media: 1762213573756244705
+2018-04-21 00:00:42,561 - shotaowl - Liked: 1762213573756244705. Like #509.
+2018-04-21 00:00:42,563 - shotaowl - Trying to follow: 2256014826
+2018-04-21 00:00:43,675 - shotaowl - Followed: 2256014826 #136.
+2018-04-21 00:00:44,652 - shotaowl - Trying to unfollow #169: 
+2018-04-21 00:00:44,655 - shotaowl - azeredo.luana
+2018-04-21 00:00:45,395 - shotaowl - Unfollowed: 180381721 #169.
+2018-04-21 00:02:06,491 - shotaowl - Trying to like media: 1762213560584448079
+2018-04-21 00:02:07,092 - shotaowl - Liked: 1762213560584448079. Like #510.
+2018-04-21 00:03:28,188 - shotaowl - Trying to like media: 1762213543631321730
+2018-04-21 00:03:29,116 - shotaowl - Liked: 1762213543631321730. Like #511.
+2018-04-21 00:04:50,202 - shotaowl - Trying to like media: 1762213078047164098
+2018-04-21 00:04:50,775 - shotaowl - Liked: 1762213078047164098. Like #512.
+2018-04-21 00:05:11,798 - shotaowl - Trying to unfollow #170: 
+2018-04-21 00:05:11,804 - shotaowl - rodionov__vladislav
+2018-04-21 00:05:12,713 - shotaowl - Unfollowed: 400008479 #170.
+2018-04-21 00:05:39,758 - shotaowl - Trying to follow: 1438959331
+2018-04-21 00:05:40,424 - shotaowl - Followed: 1438959331 #137.
+2018-04-21 00:06:26,239 - shotaowl - Trying to like media: 1762213488905625118
+2018-04-21 00:06:26,823 - shotaowl - Liked: 1762213488905625118. Like #513.
+2018-04-21 00:07:59,911 - shotaowl - Trying to like media: 1762213484727471248
+2018-04-21 00:08:00,559 - shotaowl - Liked: 1762213484727471248. Like #514.
+2018-04-21 00:09:36,649 - shotaowl - Trying to like media: 1762213449050689120
+2018-04-21 00:09:37,868 - shotaowl - Liked: 1762213449050689120. Like #515.
+2018-04-21 00:10:25,916 - shotaowl - Trying to unfollow #171: 
+2018-04-21 00:10:25,922 - shotaowl - autorussia_23
+2018-04-21 00:10:26,620 - shotaowl - Unfollowed: 5873249874 #171.
+2018-04-21 00:10:44,641 - shotaowl - Trying to follow: 7154397789
+2018-04-21 00:10:45,343 - shotaowl - Followed: 7154397789 #138.
+2018-04-21 00:11:01,313 - shotaowl - Trying to like media: 1762213438497453432
+2018-04-21 00:11:01,878 - shotaowl - Liked: 1762213438497453432. Like #516.
+2018-04-21 00:12:31,988 - shotaowl - Trying to like media: 1762213421728959109
+2018-04-21 00:12:32,567 - shotaowl - Liked: 1762213421728959109. Like #517.
+2018-04-21 00:14:02,660 - shotaowl - Trying to like media: 1762213411285729146
+2018-04-21 00:14:03,906 - shotaowl - Liked: 1762213411285729146. Like #518.
+2018-04-21 00:15:15,980 - shotaowl - Already followed before 7154397789
+2018-04-21 00:15:24,994 - shotaowl - Trying to like media: 1762213394432068079
+2018-04-21 00:15:26,072 - shotaowl - Liked: 1762213394432068079. Like #519.
+2018-04-21 00:15:41,086 - shotaowl - Trying to unfollow #172: 
+2018-04-21 00:15:41,092 - shotaowl - stromfitnesslifestyle
+2018-04-21 00:15:42,058 - shotaowl - Unfollowed: 485115222 #172.
+2018-04-21 00:16:45,135 - shotaowl - Trying to like media: 1762212782458360785
+2018-04-21 00:16:45,975 - shotaowl - Liked: 1762212782458360785. Like #520.
+2018-04-21 00:17:40,031 - shotaowl - Already followed before 7154397789
+2018-04-21 00:18:13,068 - shotaowl - Trying to like media: 1762213349007741979
+2018-04-21 00:18:13,904 - shotaowl - Liked: 1762213349007741979. Like #521.
+2018-04-21 00:19:49,994 - shotaowl - Trying to like media: 1762213302518038789
+2018-04-21 00:19:51,210 - shotaowl - Liked: 1762213302518038789. Like #522.
+2018-04-21 00:19:57,218 - shotaowl - Trying to follow: 7225557467
+2018-04-21 00:19:58,515 - shotaowl - Followed: 7225557467 #139.
+2018-04-21 00:20:32,426 - shotaowl - Trying to unfollow #173: 
+2018-04-21 00:20:32,432 - shotaowl - shayndas
+2018-04-21 00:20:32,965 - shotaowl - Unfollowed: 7459772011 #173.
+2018-04-21 00:21:24,027 - shotaowl - Trying to like media: 1762213265960944618
+2018-04-21 00:21:24,570 - shotaowl - Liked: 1762213265960944618. Like #523.
+2018-04-21 00:23:00,676 - shotaowl - Trying to like media: 1762213261313243458
+2018-04-21 00:23:01,470 - shotaowl - Liked: 1762213261313243458. Like #524.
+2018-04-21 00:24:22,552 - shotaowl - Trying to like media: 1762213240114648177
+2018-04-21 00:24:23,636 - shotaowl - Liked: 1762213240114648177. Like #525.
+2018-04-21 00:24:26,639 - shotaowl - Already followed before 7154397789
+2018-04-21 00:25:02,670 - shotaowl - Trying to unfollow #174: 
+2018-04-21 00:25:02,676 - shotaowl - youngatlantic810
+2018-04-21 00:25:03,761 - shotaowl - Unfollowed: 1423598140 #174.
+2018-04-21 00:25:51,824 - shotaowl - Trying to like media: 1762213215754761121
+2018-04-21 00:25:52,670 - shotaowl - Liked: 1762213215754761121. Like #526.
+2018-04-21 00:27:04,743 - shotaowl - Already followed before 7154397789
+2018-04-21 00:27:13,757 - shotaowl - Trying to like media: 1762213173451030420
+2018-04-21 00:27:14,378 - shotaowl - Liked: 1762213173451030420. Like #527.
+2018-04-21 00:28:44,468 - shotaowl - Trying to like media: 1762213139200127100
+2018-04-21 00:28:45,709 - shotaowl - Liked: 1762213139200127100. Like #528.
+2018-04-21 00:29:27,757 - shotaowl - Trying to unfollow #175: 
+2018-04-21 00:29:27,762 - shotaowl - atl.and.friends
+2018-04-21 00:29:28,464 - shotaowl - Unfollowed: 7443283228 #175.
+2018-04-21 00:29:31,478 - shotaowl - Trying to follow: 1940838402
+2018-04-21 00:29:32,212 - shotaowl - Followed: 1940838402 #140.
+2018-04-21 00:30:18,086 - shotaowl - Trying to like media: 1762213124663246517
+2018-04-21 00:30:18,655 - shotaowl - Liked: 1762213124663246517. Like #529.
+2018-04-21 00:31:42,736 - shotaowl - Trying to like media: 1762206776256944338
+2018-04-21 00:31:43,902 - shotaowl - Liked: 1762206776256944338. Like #530.
+2018-04-21 00:33:13,991 - shotaowl - Trying to like media: 1762213090345090453
+2018-04-21 00:33:16,740 - shotaowl - Liked: 1762213090345090453. Like #531.
+2018-04-21 00:34:07,797 - shotaowl - Trying to follow: 5575611539
+2018-04-21 00:34:12,708 - shotaowl - Followed: 5575611539 #141.
+2018-04-21 00:34:13,675 - shotaowl - Trying to unfollow #176: 
+2018-04-21 00:34:13,680 - shotaowl - thelittlemisse
+2018-04-21 00:34:14,435 - shotaowl - Unfollowed: 252778365 #176.
+2018-04-21 00:34:38,468 - shotaowl - Trying to like media: 1762213086359914015
+2018-04-21 00:34:38,943 - shotaowl - Liked: 1762213086359914015. Like #532.
+2018-04-21 00:36:12,054 - shotaowl - Trying to like media: 1762212932177146195
+2018-04-21 00:36:12,815 - shotaowl - Liked: 1762212932177146195. Like #533.
+2018-04-21 00:37:39,909 - shotaowl - Trying to like media: 1762212987484891167
+2018-04-21 00:37:40,938 - shotaowl - Liked: 1762212987484891167. Like #534.
+2018-04-21 00:38:37,994 - shotaowl - Trying to unfollow #177: 
+2018-04-21 00:38:38,003 - shotaowl - milkbarbyomg
+2018-04-21 00:38:38,772 - shotaowl - Unfollowed: 7376786573 #177.
+2018-04-21 00:39:05,812 - shotaowl - Trying to like media: 1762212931532462453
+2018-04-21 00:39:06,522 - shotaowl - Liked: 1762212931532462453. Like #535.
+2018-04-21 00:39:09,527 - shotaowl - Already followed before 3426320011
+2018-04-21 00:40:30,600 - shotaowl - Trying to like media: 1762212874355594259
+2018-04-21 00:40:31,123 - shotaowl - Liked: 1762212874355594259. Like #536.
+2018-04-21 00:41:34,187 - shotaowl - Trying to follow: 7107901567
+2018-04-21 00:41:35,517 - shotaowl - Followed: 7107901567 #142.
+2018-04-21 00:41:54,316 - shotaowl - Trying to like media: 1762212863331793493
+2018-04-21 00:41:54,952 - shotaowl - Liked: 1762212863331793493. Like #537.
+2018-04-21 00:43:16,038 - shotaowl - Trying to like media: 1762212817731210853
+2018-04-21 00:43:17,423 - shotaowl - Liked: 1762212817731210853. Like #538.
+2018-04-21 00:43:35,439 - shotaowl - Trying to unfollow #178: 
+2018-04-21 00:43:35,443 - shotaowl - starelaiza
+2018-04-21 00:43:36,437 - shotaowl - Unfollowed: 646237653 #178.
+2018-04-21 00:44:42,516 - shotaowl - Trying to like media: 1762212804519925695
+2018-04-21 00:44:43,160 - shotaowl - Liked: 1762212804519925695. Like #539.
+2018-04-21 00:46:16,263 - shotaowl - Trying to like media: 1762212703857131309
+2018-04-21 00:46:17,387 - shotaowl - Liked: 1762212703857131309. Like #540.
+2018-04-21 00:46:20,390 - shotaowl - Get media id by tag: sochi
+2018-04-21 00:46:21,870 - shotaowl - Removing already liked medias..
+2018-04-21 00:46:21,958 - shotaowl - Trying to follow: 365365655
+2018-04-21 00:46:22,939 - shotaowl - Followed: 365365655 #143.
+2018-04-21 00:47:50,774 - shotaowl - Trying to like media: 1762251195713551464
+2018-04-21 00:47:51,324 - shotaowl - Liked: 1762251195713551464. Like #541.
+2018-04-21 00:48:03,337 - shotaowl - Trying to unfollow #179: 
+2018-04-21 00:48:03,343 - shotaowl - bigmonda
+2018-04-21 00:48:04,393 - shotaowl - Unfollowed: 1524497120 #179.
+2018-04-21 00:49:19,475 - shotaowl - Trying to like media: 1762251004704819634
+2018-04-21 00:49:20,076 - shotaowl - Liked: 1762251004704819634. Like #542.
+2018-04-21 00:50:50,164 - shotaowl - Trying to like media: 1762250544673558978
+2018-04-21 00:50:51,606 - shotaowl - Liked: 1762250544673558978. Like #543.
+2018-04-21 00:51:12,623 - shotaowl - Trying to follow: 4276588652
+2018-04-21 00:51:13,467 - shotaowl - Followed: 4276588652 #144.
+2018-04-21 00:52:26,365 - shotaowl - Trying to like media: 1762250843795892317
+2018-04-21 00:52:27,049 - shotaowl - Liked: 1762250843795892317. Like #544.
+2018-04-21 00:53:18,097 - shotaowl - Trying to unfollow #180: 
+2018-04-21 00:53:18,103 - shotaowl - ann_diidi
+2018-04-21 00:53:19,363 - shotaowl - Unfollowed: 1275199293 #180.
+2018-04-21 00:53:55,408 - shotaowl - Trying to like media: 1762250796139210678
+2018-04-21 00:53:56,421 - shotaowl - Liked: 1762250796139210678. Like #545.
+2018-04-21 00:55:23,508 - shotaowl - Trying to like media: 1762250677776907978
+2018-04-21 00:55:24,173 - shotaowl - Liked: 1762250677776907978. Like #546.
+2018-04-21 00:56:06,219 - shotaowl - Trying to follow: 248234278
+2018-04-21 00:56:07,309 - shotaowl - Followed: 248234278 #145.
+2018-04-21 00:56:59,076 - shotaowl - Trying to like media: 1762249969502122712
+2018-04-21 00:56:59,938 - shotaowl - Liked: 1762249969502122712. Like #547.
+2018-04-21 00:58:18,026 - shotaowl - Trying to unfollow #181: 
+2018-04-21 00:58:18,032 - shotaowl - uzmahmalik
+2018-04-21 00:58:18,801 - shotaowl - Unfollowed: 4757894282 #181.
+2018-04-21 00:58:21,816 - shotaowl - Trying to like media: 1762249951272046892
+2018-04-21 00:58:22,998 - shotaowl - Liked: 1762249951272046892. Like #548.
+2018-04-21 00:59:47,091 - shotaowl - Trying to like media: 1762249883015086844
+2018-04-21 00:59:47,738 - shotaowl - Liked: 1762249883015086844. Like #549.
+2018-04-21 01:01:11,826 - shotaowl - Trying to like media: 1762249784347846125
+2018-04-21 01:01:13,099 - shotaowl - Liked: 1762249784347846125. Like #550.
+2018-04-21 01:01:16,102 - shotaowl - Trying to follow: 5945709073
+2018-04-21 01:01:17,203 - shotaowl - Followed: 5945709073 #146.
+2018-04-21 01:02:45,182 - shotaowl - Trying to like media: 1762249679616444809
+2018-04-21 01:02:45,677 - shotaowl - Liked: 1762249679616444809. Like #551.
+2018-04-21 01:03:27,718 - shotaowl - Trying to unfollow #182: 
+2018-04-21 01:03:27,724 - shotaowl - brunaisabeela
+2018-04-21 01:03:28,756 - shotaowl - Unfollowed: 317127941 #182.
+2018-04-21 01:04:04,800 - shotaowl - Trying to like media: 1762248285203855137
+2018-04-21 01:04:05,454 - shotaowl - Liked: 1762248285203855137. Like #552.
+2018-04-21 01:05:35,543 - shotaowl - Trying to like media: 1762249513680355083
+2018-04-21 01:05:36,350 - shotaowl - Liked: 1762249513680355083. Like #553.
+2018-04-21 01:06:18,394 - shotaowl - Trying to follow: 4686726978
+2018-04-21 01:06:19,865 - shotaowl - Followed: 4686726978 #147.
+2018-04-21 01:06:56,820 - shotaowl - Trying to like media: 1762249318738520297
+2018-04-21 01:06:57,879 - shotaowl - Liked: 1762249318738520297. Like #554.
+2018-04-21 01:08:18,973 - shotaowl - Trying to unfollow #183: 
+2018-04-21 01:08:18,980 - shotaowl - topgirls_krd
+2018-04-21 01:08:19,750 - shotaowl - Unfollowed: 6284181167 #183.
+2018-04-21 01:08:25,775 - shotaowl - Trying to like media: 1762249154523793263
+2018-04-21 01:08:26,758 - shotaowl - Liked: 1762249154523793263. Like #555.
+2018-04-21 01:09:53,846 - shotaowl - Trying to like media: 1762248767127929636
+2018-04-21 01:09:54,139 - shotaowl - Not liked: 400
+2018-04-21 01:11:21,239 - shotaowl - Trying to follow: 4267221745
+2018-04-21 01:11:22,288 - shotaowl - Followed: 4267221745 #148.
+2018-04-21 01:11:26,041 - shotaowl - Trying to like media: 1762248866364885871
+2018-04-21 01:11:26,634 - shotaowl - Liked: 1762248866364885871. Like #556.
+2018-04-21 01:12:59,724 - shotaowl - Trying to like media: 1762248705303756145
+2018-04-21 01:13:00,259 - shotaowl - Liked: 1762248705303756145. Like #557.
+2018-04-21 01:13:27,282 - shotaowl - Trying to unfollow #184: 
+2018-04-21 01:13:27,288 - shotaowl - yallanancy
+2018-04-21 01:13:28,252 - shotaowl - Unfollowed: 7404761214 #184.
+2018-04-21 01:14:28,327 - shotaowl - Trying to like media: 1762248531382880902
+2018-04-21 01:14:28,995 - shotaowl - Liked: 1762248531382880902. Like #558.
+2018-04-21 01:15:56,089 - shotaowl - Trying to like media: 1762247341702935678
+2018-04-21 01:15:56,615 - shotaowl - Liked: 1762247341702935678. Like #559.
+2018-04-21 01:16:20,638 - shotaowl - Trying to follow: 6350901441
+2018-04-21 01:16:21,748 - shotaowl - Followed: 6350901441 #149.
+2018-04-21 01:17:22,671 - shotaowl - Trying to like media: 1762248340199014994
+2018-04-21 01:17:23,407 - shotaowl - Liked: 1762248340199014994. Like #560.
+2018-04-21 01:18:23,475 - shotaowl - Trying to unfollow #185: 
+2018-04-21 01:18:23,481 - shotaowl - april_n_jack
+2018-04-21 01:18:24,538 - shotaowl - Unfollowed: 5795028210 #185.
+2018-04-21 01:18:51,576 - shotaowl - Trying to like media: 1762248196341655642
+2018-04-21 01:18:52,244 - shotaowl - Liked: 1762248196341655642. Like #561.
+2018-04-21 01:20:19,329 - shotaowl - Trying to like media: 1762247986357921467
+2018-04-21 01:20:19,854 - shotaowl - Liked: 1762247986357921467. Like #562.
+2018-04-21 01:21:04,190 - shotaowl - Logout: likes - 562, follow - 149, unfollow - 185, comments - 0.
+2018-04-21 01:21:04,190 - shotaowl - Bot work time: 14:59:12.202387
+2018-04-21 01:21:05,242 - shotaowl - Logout success!

@@ -1,0 +1,14 @@
+2018-04-17 14:52:20,397 - haw2k - Instabot v1.2.0 started at 17.04.2018 14:52:
+
+2018-04-17 14:52:20,397 - haw2k - Trying to login as haw2k...
+
+2018-04-17 14:52:28,767 - haw2k - haw2k login success!
+2018-04-17 14:52:28,768 - haw2k - Get media id by tag: code
+2018-04-17 14:52:30,180 - haw2k - Removing already liked medias..
+2018-04-17 14:52:30,225 - haw2k - Trying to like media: 1759778065792915238
+2018-04-17 14:52:30,919 - haw2k - Liked: 1759778065792915238. Like #1.
+2018-04-17 14:52:30,919 - haw2k - Already followed before 299217257
+2018-04-17 14:52:30,920 - haw2k - Trying to unfollow #1: 
+2018-04-17 14:52:30,921 - haw2k - Getting user info : blackramzess
+2018-04-17 14:53:14,990 - haw2k - Logout: likes - 1, follow - 0, unfollow - 0, comments - 0.
+2018-04-17 14:53:14,991 - haw2k - Bot work time: 0:00:54.594452
