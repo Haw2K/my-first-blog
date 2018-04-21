@@ -6,6 +6,7 @@ passwordMain = 'Mitra123'
 
 def initialize_api(login=loginMain, password=passwordMain):
     api = InstagramAPI(login, password)
+    api.setProxy('d0394ffe96:09de558d36@194.28.194.111:52593')
     api.login()
     return api
 
